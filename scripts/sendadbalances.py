@@ -7,47 +7,9 @@ from openai import OpenAI
 from PIL import Image
 import pytesseract
 import shutil 
+from dotenv import load_dotenv
 
-os.remove('/tmp/_screen.png')
-def get_active_window_title():
-    try:
-        win_id = subprocess.check_output(["xdotool", "getactivewindow"]).decode().strip()
-        win_name = subprocess.check_output(["xprop", "-id", win_id, "WM_NAME"]).decode()
-        return win_name
-    except Exception as e:
-        notify(f"❌ Failed to get window title: {e}")
-        return ""
-
-def cycle_tabs_until_whatsapp(max_tabs=10):
-    for i in range(max_tabs):
-        subprocess.run(["xdotool", "key", "ctrl+Tab"])
-        time.sleep(1)
-        title = get_active_window_title()
-        if "whatsapp" in title.lower():
-            notify(f"✅ Found WhatsApp tab after {i+1} switches")
-            return True
-    notify("❌ WhatsApp tab not found")
-    return False
-
-def click_whatsapp_or_cycle():
-    notify("🔍 Trying to click WhatsApp...")
-    screenshot()
-    coords = find_text_coords("WhatsApp")
-    if coords:
-        subprocess.run(["xdotool", "mousemove", str(coords[0]), str(coords[1]), "click", "1"])
-        notify("✅ Clicked WhatsApp via OCR")
-    else:
-        notify("⚠️ WhatsApp text not found — falling back to tab switch...")
-        # Focus window by clicking screen center
-        screen_x = shutil.get_terminal_size().columns * 8 // 2
-        screen_y = 500  # or set dynamically
-        subprocess.run(["xdotool", "mousemove", str(screen_x), str(screen_y), "click", "1"])
-        time.sleep(0.5)
-# --- ENV SETUP ---
-os.environ['DISPLAY'] = ':0'
-os.environ['XAUTHORITY'] = os.path.expanduser("~/.Xauthority")
-
-client = OpenAI(api_key='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')
+load_dotenv('tanzimat.env')
 
 # --- PATHS ---
 BASE_DIR = os.path.expanduser("~/firefox_shots")

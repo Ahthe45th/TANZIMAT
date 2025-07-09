@@ -6,6 +6,9 @@ import os
 import gspread
 import subprocess
 import traceback 
+from dotenv import load_dotenv
+
+load_dotenv('tanzimat.env') 
 
 from oauth2client.service_account import ServiceAccountCredentials
 from bs4 import BeautifulSoup

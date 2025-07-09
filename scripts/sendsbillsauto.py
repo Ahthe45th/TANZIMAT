@@ -7,11 +7,9 @@ from PIL import Image
 import requests
 import os
 import shutil
+from dotenv import load_dotenv
 
-# --- ENVIRONMENT SETUP ---
-os.environ['DISPLAY'] = ':0'
-os.environ['XAUTHORITY'] = os.path.expanduser('~/.Xauthority')
-os.remove('/tmp/screen.png')
+load_dotenv('tanzimat.env')
 # --- NOTIFY ---
 def notify(message):
     subprocess.run(['notify-send', '[🟢 WhatsApp Bot]', message])

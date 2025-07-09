@@ -5,14 +5,9 @@ import random
 import string
 import requests
 from pathlib import Path
+from dotenv import load_dotenv
 
-# Config
-IMAGE_DIR = os.path.expanduser('~/Downloads/unaploadedmen/')  # ← change this to your image directory
-UPLOAD_URL1 = "https://expatelitesingles.com/api/sirri_api/set_perfil_data"
-UPLOAD_URL2 = "https://expatelitesingles.com/api/sirri_api/store_data"
-UPLOAD_URL3 = "https://expatelitesingles.com/api/sirri_api/uploadFile"
-
-os.environ['DISPLAY'] = ':0'  # Ensure DISPLAY is set for GUI applications
+load_dotenv('tanzimat.env')
 # Utilities
 def random_string(length=10):
     return ''.join(random.choices(string.ascii_letters + string.digits, k=length))

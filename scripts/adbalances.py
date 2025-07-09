@@ -4,9 +4,11 @@ import subprocess
 import time
 import os
 import shutil
+from dotenv import load_dotenv
+
+load_dotenv('tanzimat.env')
 
 # --- ENVIRONMENT SETUP FOR POLYBAR ---
-os.environ['DISPLAY'] = ':0'
 os.environ['XAUTHORITY'] = os.path.expanduser('~/.Xauthority')
 
 # --- CONFIGURATION ---

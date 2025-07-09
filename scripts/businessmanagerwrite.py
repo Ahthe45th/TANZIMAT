@@ -3,6 +3,9 @@ import subprocess
 import json 
 import datetime
 import math 
+from dotenv import load_dotenv
+
+load_dotenv('tanzimat.env') 
 
 from oauth2client.service_account import ServiceAccountCredentials
 
