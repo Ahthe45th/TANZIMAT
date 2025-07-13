@@ -1,11 +1,27 @@
+import os
 import gspread
 import subprocess
 import json 
 import datetime
 import math 
 from dotenv import load_dotenv
+import logging
 
-load_dotenv('tanzimat.env') 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+env_path = os.path.join(script_dir, 'tanzimat.env')
+
+load_dotenv(env_path)
+
+# --- LOGGING CONFIGURATION ---
+LOG_DIR = os.path.join(script_dir, "logs")
+os.makedirs(LOG_DIR, exist_ok=True)
+LOG_FILE = os.path.join(LOG_DIR, "businessmanagerwrite.log")
+
+logging.basicConfig(
+    filename=LOG_FILE,
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
 from oauth2client.service_account import ServiceAccountCredentials
 
