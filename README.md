@@ -16,3 +16,8 @@ python3 scripts/youtube_watchlist.py
 ```
 
 Ensure `yt-dlp` is installed and network access is available.
+
+## Qur'an Polybar Widget
+
+See `quran_widget/README.md` for a local verse-by-verse playback tool
+aimed at memorization and review.
