@@ -1,0 +1,4 @@
+signal-desktop
+chromium
+firefox
+terminator

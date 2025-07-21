@@ -1,5 +1,45 @@
 # List of YouTube channels to monitor.
 # One channel ID or username per line.
 # Examples:
-# UC_x5XG1OV2P6uZZ5FSM9Ttw  # Google Developers
-# PewDiePie
+# OBF
+UCK1XzxcKXB_v_dcw_tflC1A
+# ALEX HORMOZİ
+UCUyDOdBWhC1MCxEjC46d-zw
+# LEİLA HORMOZİ
+UCxCcu9pet4dljrBLf8R5nwA
+# ALEXANDER AVİLA
+UC2ME6cK8jWnRSWyUdV0yWJw
+# UNCİVİLİZED
+UCGglb26hdG81eW08n4dagUw
+# ABDULLAH ELSHRİF
+UCqlRE8sYdSeijg83yIDpq2w
+# İMAN GADZHİ
+UCQ4FNww3XoNgqIlkBqEAVCg
+# DROP SİTE NEWS
+UCBMrOkjg3AbvLS5g1MhtlRQ
+# MYRİAM FRANCOİS
+UCT4kJCZyg26egbPAuJVj2kA
+# GREG İSENBERG
+UCPjNBjflYl0-HQtUvOx0Ibw
+# ELECTRONİC İNTİFADA
+UC9jY5IcAA99wX8MZQ9K9r-Q
+# YOUR AVERAGE TECH BRO
+@YourAverageTechbro
+# MOHD HATEM
+Gym_rat_in_Gaza
+# MAJD N JUDY
+Majd_jouri
+# DEYA
+MyNameIsDeya
+# TİNA HUANG
+TinaHuang1
+# NETWORK CHUCK
+NetworkChuck
+# FİRESHİP
+Fireship
+# MOHAMED ABOUBAKR
+MohamedAboubakr
+# FELİX MİSKE
+felixmiske
+# Fedaadeen
+UCMzbNvfJ4osPOxbjI0K5BeA
