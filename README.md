@@ -23,3 +23,8 @@ Ensure `yt-dlp` is installed and network access is available.
 
 See `quran_widget/README.md` for a local verse-by-verse playback tool
 aimed at memorization and review.
+
+See `quran_widget/README.md
+**NOTE**: If you move `programstarter.bash` or `programs.txt`, you must update the path in `~/.config/bspwm/bspwmrc` accordingly.
+` for a local verse-by-verse playback tool
+aimed at memorization and review.

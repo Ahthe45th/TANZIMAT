@@ -1,0 +1,20 @@
+[
+  {
+    "action": "coordinate_click",
+    "x": 27,
+    "y": 363
+  },
+  {
+    "action": "scroll_down",
+    "times": 3
+  },
+  {
+    "action": "coordinate_click",
+    "x": 786,
+    "y": 386
+  },
+  {
+    "action": "scroll_up",
+    "times": 2
+  }
+]

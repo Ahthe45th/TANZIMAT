@@ -90,12 +90,12 @@ def _parse_feed(xml_data: bytes) -> list[tuple[str, str]]:
     return results
 
 
-def _is_recent(published: str, *, hours: int = 24) -> bool:
+def _is_recent(published: str, *, hours: int = 72) -> bool:
     try:
         ts = _dt.datetime.fromisoformat(published.rstrip("Z"))
     except ValueError:
         return False
-    return _dt.datetime.utcnow() - ts < _dt.timedelta(hours=hours)
+    return _dt.datetime.now(_dt.UTC) - ts < _dt.timedelta(hours=hours)
 
 
 def _download(video_id: str) -> None:
