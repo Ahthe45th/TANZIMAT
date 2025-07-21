@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 """Monitor YouTube channels and auto-download new videos.
 
-Reads channel identifiers from channels.txt. Each day, checks for videos
-uploaded in the last 24 hours and downloads them using ``yt-dlp`` in 360p.
-Previously downloaded videos are skipped using a local cache file.
+Reads channel identifiers from ``channels.txt``. Each day, checks for
+videos uploaded in the last 24 hours and downloads them using ``yt-dlp``
+in 360p. Previously downloaded videos are skipped using a local cache
+file. Channel identifiers may be the channel ID (``UC...``), a legacy
+username, or a handle prefixed with ``@``.
 """
 
 import datetime as _dt
+import re as _re
 import subprocess as _sp
 import xml.etree.ElementTree as _ET
 from pathlib import Path
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
+from urllib.error import HTTPError
 import sys
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -39,11 +43,34 @@ def _append_cache(path: Path, video_id: str) -> None:
         f.write(video_id + "\n")
 
 
+def _resolve_handle(handle: str) -> str:
+    """Return the channel ID for a YouTube handle."""
+    url = f"https://www.youtube.com/@{handle}"
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urlopen(req) as resp:
+        html = resp.read().decode("utf-8", errors="ignore")
+    match = _re.search(r'"channelId":"(UC[^"]+)"', html)
+    if not match:
+        raise ValueError(f"Could not resolve handle @{handle}")
+    return match.group(1)
+
+
 def _fetch_feed(channel: str) -> bytes:
     if channel.startswith("UC"):
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel}"
-    else:
-        url = f"https://www.youtube.com/feeds/videos.xml?user={channel}"
+        with urlopen(url) as resp:
+            return resp.read()
+
+    if channel.startswith("@"):
+        try:
+            channel_id = _resolve_handle(channel[1:])
+        except Exception as exc:
+            raise HTTPError(None, 404, str(exc), None, None)
+        url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+        with urlopen(url) as resp:
+            return resp.read()
+
+    url = f"https://www.youtube.com/feeds/videos.xml?user={channel}"
     with urlopen(url) as resp:
         return resp.read()
 
