@@ -1,0 +1,19 @@
+[
+  {
+    "action": "coordinate_click",
+    "x": 269,
+    "y": 29
+  },
+  {
+    "action": "window_switch",
+    "desktop": 1
+  },
+  {
+    "action": "window_switch",
+    "desktop": 3
+  },
+  {
+    "action": "scroll_down",
+    "times": 2
+  }
+]

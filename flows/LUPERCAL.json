@@ -1,0 +1,29 @@
+[
+  {
+    "action": "coordinate_click",
+    "x": 221,
+    "y": 168
+  },
+  {
+    "action": "window_switch",
+    "desktop": 2
+  },
+  {
+    "action": "text_finder",
+    "text": "Codex"
+  },
+  {
+    "action": "ctrl_send",
+    "letter": "t"
+  },
+  {
+    "action": "type",
+    "text": "lupercal"
+  },
+  {
+    "action": "enter"
+  },
+  {
+    "action": "enter"
+  }
+]

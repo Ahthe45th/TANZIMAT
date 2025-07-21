@@ -101,7 +101,7 @@ logging.info("Firefox billing tabs launched.")
 
 # 2. Wait for pages to load
 logging.info("Waiting for pages to load (30 seconds)...")
-time.sleep(30)
+time.sleep(60)
 logging.info("Pages loaded.")
 
 # 3. Take full desktop screenshot (desktop 3)

@@ -1,0 +1,14 @@
+[
+  {
+    "action": "ctrl_send",
+    "letter": ""
+  },
+  {
+    "action": "wait",
+    "seconds": 10.0
+  },
+  {
+    "action": "text_finder",
+    "text": "Expat"
+  }
+]

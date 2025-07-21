@@ -9,10 +9,12 @@ import traceback
 from dotenv import load_dotenv
 import logging
 
-load_dotenv('tanzimat.env') 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+env_path = os.path.join(script_dir, 'tanzimat.env')
+
+load_dotenv(env_path)
 
 # --- LOGGING CONFIGURATION ---
-script_dir = os.path.dirname(os.path.abspath(__file__))
 LOG_DIR = os.path.join(script_dir, "logs")
 os.makedirs(LOG_DIR, exist_ok=True)
 LOG_FILE = os.path.join(LOG_DIR, "spendaggregation.log")
@@ -388,7 +390,7 @@ def main():
     reformatted = reformatdata(processeddata, columns)
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     # Add credentials to the account
-    creds = ServiceAccountCredentials.from_json_keyfile_name("/home/mehmet/.config/automationscripts/sheets-449816-6fd98df406c1.json", scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name(os.path.join(script_dir, "sheets-449816-4627e45280c5.json"), scope)
     # Authorize the clientsheet 
     client = gspread.authorize(creds)
     # Get the instance of the Spreadsheet
