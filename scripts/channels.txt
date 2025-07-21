@@ -1,0 +1,5 @@
+# List of YouTube channels to monitor.
+# One channel ID or username per line.
+# Examples:
+# UC_x5XG1OV2P6uZZ5FSM9Ttw  # Google Developers
+# PewDiePie
