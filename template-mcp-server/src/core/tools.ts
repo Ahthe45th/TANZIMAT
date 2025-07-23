@@ -87,10 +87,12 @@ export function registerTools(server: FastMCP) {
     name: "activate_account",
     description: "Activates a customer's account by email",
     parameters: z.object({
-      email: z.string().email().describe("Customer email to activate")
+      email: z.string().email().describe("Customer email to activate"),
+      package: z.string().optional().describe("Optional package to apply")
     }),
-    execute: async ({ email }) => {
-      const url = `https://expatelitesingles.com/api/sirri_api/activate/${email}`;
+    execute: async ({ email, package: pkg }) => {
+      const query = pkg ? `?package=${encodeURIComponent(pkg)}` : "";
+      const url = `https://expatelitesingles.com/api/sirri_api/activate/${email}${query}`;
       const response = await fetch(url, { method: "GET" });
       const data = await response.json();
 
