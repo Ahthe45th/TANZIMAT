@@ -81,4 +81,79 @@ export function registerTools(server: FastMCP) {
       };
     }
   });
+
+  // Activate a customer account
+  server.addTool({
+    name: "activate_account",
+    description: "Activates a customer's account by email",
+    parameters: z.object({
+      email: z.string().email().describe("Customer email to activate")
+    }),
+    execute: async ({ email }) => {
+      const url = `https://expatelitesingles.com/api/sirri_api/activate/${email}`;
+      const response = await fetch(url, { method: "GET" });
+      const data = await response.json();
+
+      return {
+        content: [
+          {
+            type: "text",
+            text: JSON.stringify(data)
+          }
+        ]
+      };
+    }
+  });
+
+  // Delegate automatic messaging tasks
+  server.addTool({
+    name: "delegate_auto_messages",
+    description: "Delegates messaging tasks for a user by email",
+    parameters: z.object({
+      email: z.string().email().describe("Customer email for scheduling messages")
+    }),
+    execute: async ({ email }) => {
+      const response = await fetch(
+        "https://expatelitesingles.com/api/sirri_api/auto_messages_email",
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: `EMAIL=`+email
+        }
+      );
+      const data = await response.json();
+
+      return {
+        content: [
+          {
+            type: "text",
+            text: JSON.stringify(data)
+          }
+        ]
+      };
+    }
+  });
+
+  // Check if a user has uploaded a profile picture
+  server.addTool({
+    name: "has_profile_picture",
+    description: "Checks whether the specified user has a profile picture",
+    parameters: z.object({
+      email: z.string().email().describe("Customer email")
+    }),
+    execute: async ({ email }) => {
+      const url = `https://expatelitesingles.com/api/has_picture?EMAIL=${email}`;
+      const response = await fetch(url);
+      const data = await response.json();
+
+      return {
+        content: [
+          {
+            type: "text",
+            text: JSON.stringify(data)
+          }
+        ]
+      };
+    }
+  });
 }
