@@ -88,3 +88,34 @@
 2025-07-18 05:11:21,274 - INFO - Pasting clipboard content.
 2025-07-18 05:11:21,603 - INFO - Notification: ✅ Billing report sent via WhatsApp
 2025-07-18 05:11:21,603 - INFO - Billing report sent via WhatsApp. Script finished successfully.
+2025-07-22 18:15:43,782 - INFO - Starting sendadbalances.py script.
+2025-07-23 07:33:49,904 - INFO - Starting sendadbalances.py script.
+2025-07-23 07:33:50,304 - INFO - Notification: 🧠 Analyzing billing screenshots...
+2025-07-23 07:33:50,305 - INFO - Analyzing billing screenshots.
+2025-07-23 07:33:50,337 - INFO - Notification: 📤 Sending 2_desktop3_after_scroll.png to OpenAI
+2025-07-23 07:33:50,337 - INFO - Summarizing image: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-23 07:33:57,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 07:33:57,391 - INFO - Image summary generated for /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-23 07:33:57,426 - INFO - Notification: 📤 Sending 3_desktop2_after_scroll.png to OpenAI
+2025-07-23 07:33:57,426 - INFO - Summarizing image: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-23 07:34:02,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 07:34:02,597 - INFO - Image summary generated for /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-23 07:34:02,597 - INFO - Setting clipboard content.
+2025-07-23 07:34:02,648 - INFO - Notification: 📋 Billing summary copied to clipboard
+2025-07-23 07:34:02,648 - INFO - Billing summary copied to clipboard.
+2025-07-23 07:34:03,663 - INFO - Switched to desktop 3.
+2025-07-23 07:34:03,696 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-23 07:34:03,697 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-23 07:34:03,697 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-23 07:34:03,849 - INFO - Finding text 'WhatsApp' in image /tmp/_screen.png
+2025-07-23 07:34:05,401 - INFO - Found text 'WhatsApp' at (789, 519) using Tesseract.
+2025-07-23 07:34:05,550 - INFO - Notification: ✅ Clicked WhatsApp via OCR
+2025-07-23 07:34:05,551 - INFO - Clicked WhatsApp via OCR.
+2025-07-23 07:34:05,551 - INFO - Attempting to click text: (You)
+2025-07-23 07:34:05,551 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-23 07:34:05,705 - INFO - Finding text '(You)' in image /tmp/_screen.png
+2025-07-23 07:34:07,235 - INFO - Found text '(You)' at (286, 535) using Tesseract.
+2025-07-23 07:34:07,958 - INFO - Clicked text: (You)
+2025-07-23 07:34:07,959 - INFO - Pasting clipboard content.
+2025-07-23 07:34:08,322 - INFO - Notification: ✅ Billing report sent via WhatsApp
+2025-07-23 07:34:08,322 - INFO - Billing report sent via WhatsApp. Script finished successfully.

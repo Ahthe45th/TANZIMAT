@@ -16,16 +16,24 @@ from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import HTTPError
 import sys
+import logging
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 CHANNELS_FILE = SCRIPT_DIR / "channels.txt"
 CACHE_FILE = SCRIPT_DIR / "downloaded_videos.txt"
 DOWNLOAD_DIR = Path.home() / "yt-watchlist"
+LOG_FILE = SCRIPT_DIR / "youtube_watchlist.log"
 
+# Configure logging
+logging.basicConfig(
+    filename=LOG_FILE,
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
 def _read_channels(path: Path) -> list[str]:
     if not path.exists():
-        print(f"Channel list not found: {path}", file=sys.stderr)
+        logging.error(f"Channel list not found: {path}")
         return []
     with path.open() as f:
         return [ln.strip() for ln in f if ln.strip() and not ln.startswith("#")]
@@ -67,11 +75,11 @@ def _fetch_feed(channel: str) -> bytes:
         except Exception as exc:
             raise HTTPError(None, 404, str(exc), None, None)
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-        with urlopen(url) as resp:
+        with urlopen(req) as resp:
             return resp.read()
 
     url = f"https://www.youtube.com/feeds/videos.xml?user={channel}"
-    with urlopen(url) as resp:
+    with urlopen(req) as resp:
         return resp.read()
 
 
@@ -103,19 +111,23 @@ def _download(video_id: str) -> None:
     url = f"https://www.youtube.com/watch?v={video_id}"
     out_tpl = str(DOWNLOAD_DIR / "%(title)s [%(id)s].%(ext)s")
     cmd = ["yt-dlp", "-f", "18", url, "-o", out_tpl]
+    logging.info(f"Attempting to download video: {video_id}")
     _sp.run(cmd, check=False)
 
 
 def main() -> None:
+    logging.info("Script started.")
     channels = _read_channels(CHANNELS_FILE)
     if not channels:
+        logging.info("No channels found. Exiting.")
         return
     cache = _load_cache(CACHE_FILE)
     for ch in channels:
+        logging.info(f"Processing channel: {ch}")
         try:
             feed = _fetch_feed(ch)
         except Exception as exc:  # network errors
-            print(f"Failed fetching feed for {ch}: {exc}", file=sys.stderr)
+            logging.error(f"Failed fetching feed for {ch}: {exc}")
             continue
         for vid, published in _parse_feed(feed):
             if vid in cache or not _is_recent(published):
@@ -123,6 +135,7 @@ def main() -> None:
             _download(vid)
             _append_cache(CACHE_FILE, vid)
             cache.add(vid)
+    logging.info("Script finished.")
 
 
 if __name__ == "__main__":

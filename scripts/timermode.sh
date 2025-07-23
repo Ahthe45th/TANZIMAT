@@ -30,10 +30,10 @@ fi
 get_mode() {
     local current_mode=$(jq -r .mode "$TIMEMODE_FILE") || { log_error "Failed to read mode from TIMEMODE_FILE."; exit 1; }
     if [ "$current_mode" == "pomodoro" ]; then
-        echo "Pomodoro"
+        echo " Pomodoro"
         log_info "Current mode: Pomodoro"
     else
-        echo "Stopwatch"
+        echo " Stopwatch"
         log_info "Current mode: Stopwatch"
     fi
 }

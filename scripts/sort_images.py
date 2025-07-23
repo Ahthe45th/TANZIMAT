@@ -47,7 +47,8 @@ if __name__ == "__main__":
                 shutil.rmtree(file_path)
         except Exception as e:
             print(f'Failed to delete {file_path}. Reason: {e}')
-
+    
+    input("You must extract the images cuz they gonna be deleted")
     for filename in os.listdir(ORIGINALS_DIR):
         file_path = os.path.join(ORIGINALS_DIR, filename)
         try:

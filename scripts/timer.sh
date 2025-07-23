@@ -59,7 +59,7 @@ if [ "$current_mode" == "pomodoro" ]; then
     new_minutes=$((new_time_in_seconds / 60))
     new_seconds=$((new_time_in_seconds % 60))
     printf '{"time":"%02d:%02d"}\n' "$new_minutes" "$new_seconds" > "$CURRENTTIME_FILE" || { log_error "Failed to write new time to CURRENTTIME_FILE for pomodoro."; exit 1; }
-    printf '%02d:%02d\n' "$new_minutes" "$new_seconds"
+    printf ' %02d:%02d\n' "$new_minutes" "$new_seconds"
     log_info "Pomodoro time updated to %02d:%02d" "$new_minutes" "$new_seconds"
 else # stopwatch
     time_in_seconds=$(echo "$current_time" | awk -F: '{ print ($1 * 60) + $2 }')
@@ -67,7 +67,7 @@ else # stopwatch
     new_minutes=$((new_time_in_seconds / 60))
     new_seconds=$((new_time_in_seconds % 60))
     printf '{"time":"%02d:%02d"}\n' "$new_minutes" "$new_seconds" > "$CURRENTTIME_FILE" || { log_error "Failed to write new time to CURRENTTIME_FILE for stopwatch."; exit 1; }
-    printf '%02d:%02d\n' "$new_minutes" "$new_seconds"
+    printf ' %02d:%02d\n' "$new_minutes" "$new_seconds"
     log_info "Stopwatch time updated to %02d:%02d" "$new_minutes" "$new_seconds"
 fi
 

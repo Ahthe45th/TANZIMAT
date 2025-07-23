@@ -109,3 +109,5 @@ xsetroot -cursor_name left_ptr
 #/usr/bin/stayfree-desktop &
 bash /home/mehmet/Proyectos/TANZIMAT/programstarter.bash /home/mehmet/Proyectos/TANZIMAT/programs.txt
 /home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/youtube_watchlist.py &
+rm -r ~/Proyectos/TANZIMAT/polybar-config
+cp -r ~/.config/polybar/colorblocks/ ~/Proyectos/TANZIMAT/polybar-config
