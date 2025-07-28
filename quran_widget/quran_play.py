@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Playback controller for Quran Polybar widget.
+"""Playback controller for Quran Polybar widget."""
 
 import os
 import json

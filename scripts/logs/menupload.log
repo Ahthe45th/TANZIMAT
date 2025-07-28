@@ -1,0 +1,368 @@
+2025-07-27 18:23:41,997 - INFO - Starting menupload.py script.
+2025-07-27 18:24:15,266 - INFO - Starting menupload.py script.
+2025-07-27 18:24:20,134 - ERROR - Zenity failed: Command '['zenity', '--text-info', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 1.
+2025-07-27 18:24:20,231 - INFO - Notification: No text entered. Exiting.
+2025-07-27 18:24:20,232 - WARNING - No text entered. Exiting.
+2025-07-27 18:25:51,905 - INFO - Starting menupload.py script.
+2025-07-27 18:27:05,414 - INFO - Starting menupload.py script.
+2025-07-27 18:27:08,859 - ERROR - Zenity failed: Command '['zenity', '--text-info', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 1.
+2025-07-27 18:27:08,952 - INFO - Notification: No text entered. Exiting.
+2025-07-27 18:27:08,952 - WARNING - No text entered. Exiting.
+2025-07-27 18:27:27,809 - INFO - Starting menupload.py script.
+2025-07-27 18:28:47,747 - INFO - Starting menupload.py script.
+2025-07-27 18:33:22,016 - INFO - Starting menupload.py script.
+2025-07-27 18:35:16,058 - INFO - Starting menupload.py script.
+2025-07-27 18:35:19,307 - ERROR - Zenity failed: Command '['zenity', '--text-info', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 1.
+2025-07-27 18:35:19,307 - ERROR - Zenity failed: Command '['zenity', '--text-info', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 1.. stderr: None
+2025-07-27 18:35:19,373 - INFO - Notification: No text entered. Exiting.
+2025-07-27 18:35:19,373 - WARNING - No text entered. Exiting.
+2025-07-27 18:37:34,987 - INFO - Starting menupload.py script.
+2025-07-27 18:37:40,786 - INFO - Starting menupload.py script.
+2025-07-27 18:37:43,564 - ERROR - Zenity failed: Command '['zenity', '--text-info', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 1.. stderr: 
+2025-07-27 18:37:43,642 - INFO - Notification: No text entered. Exiting.
+2025-07-27 18:37:43,642 - WARNING - No text entered. Exiting.
+2025-07-27 18:48:07,015 - INFO - Starting menupload.py script.
+2025-07-27 19:09:25,323 - INFO - Starting menupload.py script.
+2025-07-27 19:14:28,298 - INFO - Starting menupload.py script.
+2025-07-27 19:15:00,213 - INFO - Starting menupload.py script.
+2025-07-27 19:16:47,579 - INFO - Notification: Men upload script
+2025-07-27 19:16:47,580 - INFO - Starting menupload.py script.
+2025-07-27 19:21:06,545 - INFO - Notification: Men upload script
+2025-07-27 19:21:06,548 - INFO - Starting menupload.py script.
+2025-07-27 19:21:07,461 - ERROR - Zenity failed: Command '['zenity', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 255.. stderr: --editable is not supported for this dialog
+
+2025-07-27 19:21:07,565 - INFO - Notification: No text entered. Exiting.
+2025-07-27 19:21:07,565 - WARNING - No text entered. Exiting.
+2025-07-27 19:21:16,409 - INFO - Notification: Men upload script
+2025-07-27 19:21:16,409 - INFO - Starting menupload.py script.
+2025-07-27 19:21:17,248 - ERROR - Zenity failed: Command '['zenity', '--editable', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 255.. stderr: --editable is not supported for this dialog
+
+2025-07-27 19:21:17,354 - INFO - Notification: No text entered. Exiting.
+2025-07-27 19:21:17,354 - WARNING - No text entered. Exiting.
+2025-07-27 19:21:56,729 - INFO - Notification: Men upload script
+2025-07-27 19:21:56,729 - INFO - Starting menupload.py script.
+2025-07-27 19:22:01,395 - ERROR - Zenity failed: Command '['zenity', '--editable', '--text-info', '--title=Enter Profile Info', '--width=400', '--height=300']' returned non-zero exit status 1.. stderr: 
+2025-07-27 19:22:01,524 - INFO - Notification: No text entered. Exiting.
+2025-07-27 19:22:01,524 - WARNING - No text entered. Exiting.
+2025-07-27 19:22:07,065 - INFO - Notification: Men upload script
+2025-07-27 19:22:07,065 - INFO - Starting menupload.py script.
+2025-07-27 19:24:12,762 - INFO - Notification: Men upload script
+2025-07-27 19:24:12,762 - INFO - Starting menupload.py script.
+2025-07-27 19:25:07,866 - INFO - Notification: Men upload script
+2025-07-27 19:25:07,866 - INFO - Starting menupload.py script.
+2025-07-27 19:25:15,225 - WARNING - Yad was cancelled or failed.
+2025-07-27 19:25:15,370 - INFO - Notification: No text entered. Exiting.
+2025-07-27 19:25:15,371 - WARNING - No text entered. Exiting.
+2025-07-27 19:29:06,439 - INFO - Notification: Men upload script
+2025-07-27 19:29:06,440 - INFO - Starting menupload.py script.
+2025-07-27 19:29:06,440 - ERROR - Yad failed: name 'prompt_message' is not defined
+2025-07-27 19:29:06,544 - INFO - Notification: No text entered. Exiting.
+2025-07-27 19:29:06,544 - WARNING - No text entered. Exiting.
+2025-07-27 19:30:25,281 - INFO - Notification: Men upload script
+2025-07-27 19:30:25,281 - INFO - Starting menupload.py script.
+2025-07-27 20:01:26,586 - ERROR - Yad failed: 'str' object has no attribute 'returncode'
+2025-07-27 20:01:26,654 - INFO - Notification: No text entered. Exiting.
+2025-07-27 20:01:26,655 - WARNING - No text entered. Exiting.
+2025-07-27 21:07:46,462 - INFO - Notification: Men upload script
+2025-07-27 21:07:46,463 - INFO - Starting menupload.py script.
+2025-07-27 21:07:56,857 - ERROR - Yad failed: 'str' object has no attribute 'returncode'
+2025-07-27 21:07:57,021 - INFO - Notification: No text entered. Exiting.
+2025-07-27 21:07:57,021 - WARNING - No text entered. Exiting.
+2025-07-27 21:08:10,915 - INFO - Notification: Men upload script
+2025-07-27 21:08:10,915 - INFO - Starting menupload.py script.
+2025-07-27 21:08:17,160 - ERROR - Yad failed: 'str' object has no attribute 'returncode'
+2025-07-27 21:08:17,335 - INFO - Notification: No text entered. Exiting.
+2025-07-27 21:08:17,335 - WARNING - No text entered. Exiting.
+2025-07-27 21:09:03,338 - INFO - Notification: Men upload script
+2025-07-27 21:09:03,339 - INFO - Starting menupload.py script.
+2025-07-27 21:09:07,637 - ERROR - Yad failed: 'str' object has no attribute 'returncode'
+2025-07-27 21:09:07,787 - INFO - Notification: No text entered. Exiting.
+2025-07-27 21:09:07,787 - WARNING - No text entered. Exiting.
+2025-07-27 21:13:26,995 - INFO - Notification: Men upload script
+2025-07-27 21:13:26,996 - INFO - Starting menupload.py script.
+2025-07-27 21:13:34,050 - INFO - Notification: Profile text captured.
+2025-07-27 21:13:34,050 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:13:34,052 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-06-29 at 5.00.07 PM.jpeg
+2025-07-27 21:13:34,216 - INFO - Notification: Image selected: WhatsApp Image 2025-06-29 at 5.00.07 PM.jpeg
+2025-07-27 21:13:34,411 - INFO - Notification: Sending profile details...
+2025-07-27 21:13:38,243 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:13:38,244 - INFO - Profile details sent successfully.
+2025-07-27 21:13:38,424 - INFO - Notification: Generating form data...
+2025-07-27 21:13:38,617 - INFO - Notification: Storing profile data...
+2025-07-27 21:13:40,310 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:13:40,311 - INFO - Profile data stored successfully.
+2025-07-27 21:13:40,463 - INFO - Notification: Uploading image...
+2025-07-27 21:13:42,361 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:13:42,362 - INFO - Image uploaded and local file removed.
+2025-07-27 21:13:42,604 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:13:42,605 - INFO - menupload.py script finished successfully.
+2025-07-27 21:15:02,986 - INFO - Notification: Men upload script
+2025-07-27 21:15:02,987 - INFO - Starting menupload.py script.
+2025-07-27 21:15:13,638 - INFO - Notification: Profile text captured.
+2025-07-27 21:15:13,639 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:15:13,640 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-22 at 8.56.56 PM.jpeg
+2025-07-27 21:15:13,770 - INFO - Notification: Image selected: WhatsApp Image 2025-07-22 at 8.56.56 PM.jpeg
+2025-07-27 21:15:13,970 - INFO - Notification: Sending profile details...
+2025-07-27 21:15:17,515 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:15:17,516 - INFO - Profile details sent successfully.
+2025-07-27 21:15:17,720 - INFO - Notification: Generating form data...
+2025-07-27 21:15:17,932 - INFO - Notification: Storing profile data...
+2025-07-27 21:15:19,644 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:15:19,644 - INFO - Profile data stored successfully.
+2025-07-27 21:15:19,994 - INFO - Notification: Uploading image...
+2025-07-27 21:15:21,825 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:15:21,826 - INFO - Image uploaded and local file removed.
+2025-07-27 21:15:22,134 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:15:22,134 - INFO - menupload.py script finished successfully.
+2025-07-27 21:16:28,763 - INFO - Notification: Men upload script
+2025-07-27 21:16:28,764 - INFO - Starting menupload.py script.
+2025-07-27 21:16:36,977 - INFO - Notification: Profile text captured.
+2025-07-27 21:16:36,978 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:16:36,979 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-22 at 8.59.59 PM.jpeg
+2025-07-27 21:16:37,130 - INFO - Notification: Image selected: WhatsApp Image 2025-07-22 at 8.59.59 PM.jpeg
+2025-07-27 21:16:37,258 - INFO - Notification: Sending profile details...
+2025-07-27 21:16:40,367 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:16:40,367 - INFO - Profile details sent successfully.
+2025-07-27 21:16:40,554 - INFO - Notification: Generating form data...
+2025-07-27 21:16:40,723 - INFO - Notification: Storing profile data...
+2025-07-27 21:16:42,512 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:16:42,512 - INFO - Profile data stored successfully.
+2025-07-27 21:16:42,763 - INFO - Notification: Uploading image...
+2025-07-27 21:16:44,526 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:16:44,526 - INFO - Image uploaded and local file removed.
+2025-07-27 21:16:44,779 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:16:44,779 - INFO - menupload.py script finished successfully.
+2025-07-27 21:18:01,231 - INFO - Notification: Men upload script
+2025-07-27 21:18:01,231 - INFO - Starting menupload.py script.
+2025-07-27 21:18:12,861 - INFO - Notification: Profile text captured.
+2025-07-27 21:18:12,862 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:18:12,863 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-22 at 9.03.42 PM.jpeg
+2025-07-27 21:18:13,010 - INFO - Notification: Image selected: WhatsApp Image 2025-07-22 at 9.03.42 PM.jpeg
+2025-07-27 21:18:13,155 - INFO - Notification: Sending profile details...
+2025-07-27 21:18:16,285 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:18:16,286 - INFO - Profile details sent successfully.
+2025-07-27 21:18:16,440 - INFO - Notification: Generating form data...
+2025-07-27 21:18:16,663 - INFO - Notification: Storing profile data...
+2025-07-27 21:18:18,364 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:18:18,364 - INFO - Profile data stored successfully.
+2025-07-27 21:18:18,596 - INFO - Notification: Uploading image...
+2025-07-27 21:18:20,314 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:18:20,315 - INFO - Image uploaded and local file removed.
+2025-07-27 21:18:20,647 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:18:20,647 - INFO - menupload.py script finished successfully.
+2025-07-27 21:19:54,532 - INFO - Notification: Men upload script
+2025-07-27 21:19:54,536 - INFO - Starting menupload.py script.
+2025-07-27 21:20:02,942 - INFO - Notification: Profile text captured.
+2025-07-27 21:20:02,943 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:20:02,944 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-27 at 3.30.12 PM.jpeg
+2025-07-27 21:20:03,155 - INFO - Notification: Image selected: WhatsApp Image 2025-07-27 at 3.30.12 PM.jpeg
+2025-07-27 21:20:03,366 - INFO - Notification: Sending profile details...
+2025-07-27 21:20:06,397 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:20:06,398 - INFO - Profile details sent successfully.
+2025-07-27 21:20:06,534 - INFO - Notification: Generating form data...
+2025-07-27 21:20:06,718 - INFO - Notification: Storing profile data...
+2025-07-27 21:20:08,644 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:20:08,644 - INFO - Profile data stored successfully.
+2025-07-27 21:20:08,940 - INFO - Notification: Uploading image...
+2025-07-27 21:20:11,104 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:20:11,105 - INFO - Image uploaded and local file removed.
+2025-07-27 21:20:11,393 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:20:11,395 - INFO - menupload.py script finished successfully.
+2025-07-27 21:21:53,121 - INFO - Notification: Men upload script
+2025-07-27 21:21:53,121 - INFO - Starting menupload.py script.
+2025-07-27 21:22:00,202 - INFO - Notification: Profile text captured.
+2025-07-27 21:22:00,203 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:22:00,204 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 3.13.55 PM.jpeg
+2025-07-27 21:22:00,456 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 3.13.55 PM.jpeg
+2025-07-27 21:22:00,705 - INFO - Notification: Sending profile details...
+2025-07-27 21:22:03,599 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:22:03,599 - INFO - Profile details sent successfully.
+2025-07-27 21:22:03,747 - INFO - Notification: Generating form data...
+2025-07-27 21:22:03,940 - INFO - Notification: Storing profile data...
+2025-07-27 21:22:05,506 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:22:05,506 - INFO - Profile data stored successfully.
+2025-07-27 21:22:05,797 - INFO - Notification: Uploading image...
+2025-07-27 21:22:07,514 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:22:07,515 - INFO - Image uploaded and local file removed.
+2025-07-27 21:22:07,792 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:22:07,792 - INFO - menupload.py script finished successfully.
+2025-07-27 21:23:26,995 - INFO - Notification: Men upload script
+2025-07-27 21:23:26,996 - INFO - Starting menupload.py script.
+2025-07-27 21:23:37,660 - INFO - Notification: Profile text captured.
+2025-07-27 21:23:37,660 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:23:37,662 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 3.12.30 PM.jpeg
+2025-07-27 21:23:37,887 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 3.12.30 PM.jpeg
+2025-07-27 21:23:38,049 - INFO - Notification: Sending profile details...
+2025-07-27 21:23:42,119 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:23:42,120 - INFO - Profile details sent successfully.
+2025-07-27 21:23:42,304 - INFO - Notification: Generating form data...
+2025-07-27 21:23:42,554 - INFO - Notification: Storing profile data...
+2025-07-27 21:23:44,126 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:23:44,126 - INFO - Profile data stored successfully.
+2025-07-27 21:23:44,319 - INFO - Notification: Uploading image...
+2025-07-27 21:23:47,705 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:23:47,705 - INFO - Image uploaded and local file removed.
+2025-07-27 21:23:48,075 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:23:48,075 - INFO - menupload.py script finished successfully.
+2025-07-27 21:25:03,049 - INFO - Notification: Men upload script
+2025-07-27 21:25:03,049 - INFO - Starting menupload.py script.
+2025-07-27 21:25:09,669 - INFO - Notification: Profile text captured.
+2025-07-27 21:25:09,669 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:25:09,670 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 3.06.00 PM.jpeg
+2025-07-27 21:25:09,842 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 3.06.00 PM.jpeg
+2025-07-27 21:25:10,141 - INFO - Notification: Sending profile details...
+2025-07-27 21:25:13,076 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:25:13,077 - INFO - Profile details sent successfully.
+2025-07-27 21:25:13,248 - INFO - Notification: Generating form data...
+2025-07-27 21:25:13,447 - INFO - Notification: Storing profile data...
+2025-07-27 21:25:16,741 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:25:16,741 - INFO - Profile data stored successfully.
+2025-07-27 21:25:16,967 - INFO - Notification: Uploading image...
+2025-07-27 21:25:22,555 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:25:22,556 - INFO - Image uploaded and local file removed.
+2025-07-27 21:25:22,710 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:25:22,710 - INFO - menupload.py script finished successfully.
+2025-07-27 21:26:32,370 - INFO - Notification: Men upload script
+2025-07-27 21:26:32,371 - INFO - Starting menupload.py script.
+2025-07-27 21:26:45,585 - INFO - Notification: Profile text captured.
+2025-07-27 21:26:45,585 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:26:45,586 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 3.03.27 PM.jpeg
+2025-07-27 21:26:45,706 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 3.03.27 PM.jpeg
+2025-07-27 21:26:45,810 - INFO - Notification: Sending profile details...
+2025-07-27 21:26:49,394 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:26:49,395 - INFO - Profile details sent successfully.
+2025-07-27 21:26:49,535 - INFO - Notification: Generating form data...
+2025-07-27 21:26:49,700 - INFO - Notification: Storing profile data...
+2025-07-27 21:26:52,165 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:26:52,166 - INFO - Profile data stored successfully.
+2025-07-27 21:26:52,407 - INFO - Notification: Uploading image...
+2025-07-27 21:26:55,655 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:26:55,655 - INFO - Image uploaded and local file removed.
+2025-07-27 21:26:56,102 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:26:56,102 - INFO - menupload.py script finished successfully.
+2025-07-27 21:27:59,779 - INFO - Notification: Men upload script
+2025-07-27 21:27:59,780 - INFO - Starting menupload.py script.
+2025-07-27 21:28:08,122 - INFO - Notification: Profile text captured.
+2025-07-27 21:28:08,123 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:28:08,124 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 3.01.48 PM.jpeg
+2025-07-27 21:28:08,471 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 3.01.48 PM.jpeg
+2025-07-27 21:28:08,635 - INFO - Notification: Sending profile details...
+2025-07-27 21:28:12,270 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:28:12,271 - INFO - Profile details sent successfully.
+2025-07-27 21:28:12,406 - INFO - Notification: Generating form data...
+2025-07-27 21:28:12,526 - INFO - Notification: Storing profile data...
+2025-07-27 21:28:15,530 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:28:15,530 - INFO - Profile data stored successfully.
+2025-07-27 21:28:15,789 - INFO - Notification: Uploading image...
+2025-07-27 21:28:18,549 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:28:18,550 - INFO - Image uploaded and local file removed.
+2025-07-27 21:28:18,812 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:28:18,813 - INFO - menupload.py script finished successfully.
+2025-07-27 21:30:52,507 - INFO - Notification: Men upload script
+2025-07-27 21:30:52,507 - INFO - Starting menupload.py script.
+2025-07-27 21:30:59,184 - INFO - Notification: Profile text captured.
+2025-07-27 21:30:59,184 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:30:59,185 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 2.54.12 PM.jpeg
+2025-07-27 21:30:59,512 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 2.54.12 PM.jpeg
+2025-07-27 21:30:59,652 - INFO - Notification: Sending profile details...
+2025-07-27 21:31:02,667 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:31:02,667 - INFO - Profile details sent successfully.
+2025-07-27 21:31:02,845 - INFO - Notification: Generating form data...
+2025-07-27 21:31:03,051 - INFO - Notification: Storing profile data...
+2025-07-27 21:31:04,920 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:31:04,920 - INFO - Profile data stored successfully.
+2025-07-27 21:31:05,140 - INFO - Notification: Uploading image...
+2025-07-27 21:31:07,167 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:31:07,167 - INFO - Image uploaded and local file removed.
+2025-07-27 21:31:07,451 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:31:07,452 - INFO - menupload.py script finished successfully.
+2025-07-27 21:32:53,588 - INFO - Notification: Men upload script
+2025-07-27 21:32:53,589 - INFO - Starting menupload.py script.
+2025-07-27 21:33:02,014 - INFO - Notification: Profile text captured.
+2025-07-27 21:33:02,014 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:33:02,015 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 2.52.46 PM.jpeg
+2025-07-27 21:33:02,129 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 2.52.46 PM.jpeg
+2025-07-27 21:33:02,278 - INFO - Notification: Sending profile details...
+2025-07-27 21:33:05,240 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:33:05,241 - INFO - Profile details sent successfully.
+2025-07-27 21:33:05,506 - INFO - Notification: Generating form data...
+2025-07-27 21:33:05,690 - INFO - Notification: Storing profile data...
+2025-07-27 21:33:07,187 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:33:07,187 - INFO - Profile data stored successfully.
+2025-07-27 21:33:07,359 - INFO - Notification: Uploading image...
+2025-07-27 21:33:09,098 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:33:09,098 - INFO - Image uploaded and local file removed.
+2025-07-27 21:33:09,247 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:33:09,249 - INFO - menupload.py script finished successfully.
+2025-07-27 21:34:48,594 - INFO - Notification: Men upload script
+2025-07-27 21:34:48,595 - INFO - Starting menupload.py script.
+2025-07-27 21:34:56,404 - INFO - Notification: Profile text captured.
+2025-07-27 21:34:56,405 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:34:56,406 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 2.34.18 PM.jpeg
+2025-07-27 21:34:56,533 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 2.34.18 PM.jpeg
+2025-07-27 21:34:56,713 - INFO - Notification: Sending profile details...
+2025-07-27 21:35:00,693 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:35:00,693 - INFO - Profile details sent successfully.
+2025-07-27 21:35:00,812 - INFO - Notification: Generating form data...
+2025-07-27 21:35:00,942 - INFO - Notification: Storing profile data...
+2025-07-27 21:35:05,013 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:35:05,014 - INFO - Profile data stored successfully.
+2025-07-27 21:35:05,210 - INFO - Notification: Uploading image...
+2025-07-27 21:35:07,559 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:35:07,559 - INFO - Image uploaded and local file removed.
+2025-07-27 21:35:07,673 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:35:07,673 - INFO - menupload.py script finished successfully.
+2025-07-27 21:36:04,580 - INFO - Notification: Men upload script
+2025-07-27 21:36:04,580 - INFO - Starting menupload.py script.
+2025-07-27 21:36:11,902 - INFO - Notification: Profile text captured.
+2025-07-27 21:36:11,902 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:36:11,903 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 2.46.54 PM.jpeg
+2025-07-27 21:36:12,009 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 2.46.54 PM.jpeg
+2025-07-27 21:36:12,096 - INFO - Notification: Sending profile details...
+2025-07-27 21:36:16,489 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:36:16,490 - INFO - Profile details sent successfully.
+2025-07-27 21:36:16,633 - INFO - Notification: Generating form data...
+2025-07-27 21:36:16,784 - INFO - Notification: Storing profile data...
+2025-07-27 21:36:19,855 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:36:19,855 - INFO - Profile data stored successfully.
+2025-07-27 21:36:20,039 - INFO - Notification: Uploading image...
+2025-07-27 21:36:23,803 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:36:23,803 - INFO - Image uploaded and local file removed.
+2025-07-27 21:36:23,955 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:36:23,955 - INFO - menupload.py script finished successfully.
+2025-07-27 21:37:18,540 - INFO - Notification: Men upload script
+2025-07-27 21:37:18,541 - INFO - Starting menupload.py script.
+2025-07-27 21:37:24,586 - INFO - Notification: Profile text captured.
+2025-07-27 21:37:24,587 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:37:24,589 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 2.48.01 PM.jpeg
+2025-07-27 21:37:24,737 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 2.48.01 PM.jpeg
+2025-07-27 21:37:24,912 - INFO - Notification: Sending profile details...
+2025-07-27 21:37:28,304 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:37:28,309 - INFO - Profile details sent successfully.
+2025-07-27 21:37:28,472 - INFO - Notification: Generating form data...
+2025-07-27 21:37:28,630 - INFO - Notification: Storing profile data...
+2025-07-27 21:37:30,024 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:37:30,025 - INFO - Profile data stored successfully.
+2025-07-27 21:37:30,217 - INFO - Notification: Uploading image...
+2025-07-27 21:37:32,202 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:37:32,202 - INFO - Image uploaded and local file removed.
+2025-07-27 21:37:32,435 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:37:32,436 - INFO - menupload.py script finished successfully.
+2025-07-27 21:38:33,089 - INFO - Notification: Men upload script
+2025-07-27 21:38:33,090 - INFO - Starting menupload.py script.
+2025-07-27 21:38:39,873 - INFO - Notification: Profile text captured.
+2025-07-27 21:38:39,873 - INFO - Picking image from directory: /home/mehmet/Downloads/unaploadedmen/
+2025-07-27 21:38:39,874 - INFO - Selected image: /home/mehmet/Downloads/unaploadedmen/WhatsApp Image 2025-07-13 at 2.50.02 PM.jpeg
+2025-07-27 21:38:40,028 - INFO - Notification: Image selected: WhatsApp Image 2025-07-13 at 2.50.02 PM.jpeg
+2025-07-27 21:38:40,228 - INFO - Notification: Sending profile details...
+2025-07-27 21:38:42,929 - INFO - Notification: Profile details sent successfully.
+2025-07-27 21:38:42,930 - INFO - Profile details sent successfully.
+2025-07-27 21:38:43,084 - INFO - Notification: Generating form data...
+2025-07-27 21:38:43,438 - INFO - Notification: Storing profile data...
+2025-07-27 21:38:45,256 - INFO - Notification: Profile data stored successfully.
+2025-07-27 21:38:45,256 - INFO - Profile data stored successfully.
+2025-07-27 21:38:45,440 - INFO - Notification: Uploading image...
+2025-07-27 21:38:47,154 - INFO - Notification: Image uploaded and local file removed.
+2025-07-27 21:38:47,154 - INFO - Image uploaded and local file removed.
+2025-07-27 21:38:47,387 - INFO - Notification: Profile created and image uploaded successfully.
+2025-07-27 21:38:47,388 - INFO - menupload.py script finished successfully.

@@ -119,3 +119,117 @@
 2025-07-23 07:34:07,959 - INFO - Pasting clipboard content.
 2025-07-23 07:34:08,322 - INFO - Notification: ✅ Billing report sent via WhatsApp
 2025-07-23 07:34:08,322 - INFO - Billing report sent via WhatsApp. Script finished successfully.
+2025-07-24 13:56:53,188 - INFO - Starting sendadbalances.py script.
+2025-07-24 13:56:53,670 - INFO - Notification: 🧠 Analyzing billing screenshots...
+2025-07-24 13:56:53,671 - INFO - Analyzing billing screenshots.
+2025-07-24 13:56:53,706 - INFO - Notification: 📤 Sending 2_desktop3_after_scroll.png to OpenAI
+2025-07-24 13:56:53,706 - INFO - Summarizing image: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-24 13:57:04,607 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 13:57:04,620 - INFO - Image summary generated for /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-24 13:57:04,657 - INFO - Notification: 📤 Sending 3_desktop2_after_scroll.png to OpenAI
+2025-07-24 13:57:04,657 - INFO - Summarizing image: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-24 13:57:09,313 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 13:57:09,316 - INFO - Image summary generated for /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-24 13:57:09,316 - INFO - Setting clipboard content.
+2025-07-24 13:57:09,368 - INFO - Notification: 📋 Billing summary copied to clipboard
+2025-07-24 13:57:09,369 - INFO - Billing summary copied to clipboard.
+2025-07-24 13:57:10,385 - INFO - Switched to desktop 3.
+2025-07-24 13:57:10,434 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-24 13:57:10,434 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-24 13:57:10,434 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-24 13:57:10,593 - INFO - Finding text 'WhatsApp' in image /tmp/_screen.png
+2025-07-24 13:57:12,918 - WARNING - Text 'WhatsApp' not found in image /tmp/_screen.png.
+2025-07-24 13:57:12,954 - INFO - Notification: ⚠️ WhatsApp text not found — falling back to tab switch...
+2025-07-24 13:57:12,955 - WARNING - WhatsApp text not found, falling back to tab switch.
+2025-07-24 13:57:13,576 - INFO - Cycling tabs until WhatsApp is found.
+2025-07-24 13:57:14,686 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(80) Billing & payments — Mozilla Firefox"
+2025-07-24 13:57:15,789 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(14) WhatsApp Business — Mozilla Firefox"
+2025-07-24 13:57:15,823 - INFO - Notification: ✅ Found WhatsApp tab after 2 switches
+2025-07-24 13:57:15,824 - INFO - Found WhatsApp tab after 2 switches.
+2025-07-24 13:57:15,824 - INFO - Attempting to click text: (You)
+2025-07-24 13:57:15,824 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-24 13:57:15,988 - INFO - Finding text '(You)' in image /tmp/_screen.png
+2025-07-24 13:57:18,427 - INFO - Found text '(You)' at (286, 667) using Tesseract.
+2025-07-24 13:57:19,147 - INFO - Clicked text: (You)
+2025-07-24 13:57:19,148 - INFO - Pasting clipboard content.
+2025-07-24 13:57:19,498 - INFO - Notification: ✅ Billing report sent via WhatsApp
+2025-07-24 13:57:19,498 - INFO - Billing report sent via WhatsApp. Script finished successfully.
+2025-07-25 10:25:23,919 - INFO - Starting sendadbalances.py script.
+2025-07-25 10:25:24,322 - INFO - Notification: 🧠 Analyzing billing screenshots...
+2025-07-25 10:25:24,323 - INFO - Analyzing billing screenshots.
+2025-07-25 10:25:24,354 - INFO - Notification: 📤 Sending 2_desktop3_after_scroll.png to OpenAI
+2025-07-25 10:25:24,354 - INFO - Summarizing image: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-25 10:25:29,794 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:25:29,806 - INFO - Image summary generated for /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-25 10:25:29,836 - INFO - Notification: 📤 Sending 3_desktop2_after_scroll.png to OpenAI
+2025-07-25 10:25:29,836 - INFO - Summarizing image: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-25 10:25:34,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 10:25:34,198 - INFO - Image summary generated for /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-25 10:25:34,199 - INFO - Setting clipboard content.
+2025-07-25 10:25:34,252 - INFO - Notification: 📋 Billing summary copied to clipboard
+2025-07-25 10:25:34,253 - INFO - Billing summary copied to clipboard.
+2025-07-25 10:25:35,267 - INFO - Switched to desktop 3.
+2025-07-25 10:25:35,301 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-25 10:25:35,302 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-25 10:25:35,302 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-25 10:25:35,447 - INFO - Finding text 'WhatsApp' in image /tmp/_screen.png
+2025-07-25 10:25:37,514 - INFO - Found text 'WhatsApp' at (789, 505) using Tesseract.
+2025-07-25 10:25:37,664 - INFO - Notification: ✅ Clicked WhatsApp via OCR
+2025-07-25 10:25:37,664 - INFO - Clicked WhatsApp via OCR.
+2025-07-25 10:25:37,664 - INFO - Attempting to click text: (You)
+2025-07-25 10:25:37,664 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-25 10:25:37,813 - INFO - Finding text '(You)' in image /tmp/_screen.png
+2025-07-25 10:25:39,343 - INFO - Found text '(You)' at (286, 619) using Tesseract.
+2025-07-25 10:25:40,063 - INFO - Clicked text: (You)
+2025-07-25 10:25:40,063 - INFO - Pasting clipboard content.
+2025-07-25 10:25:40,400 - INFO - Notification: ✅ Billing report sent via WhatsApp
+2025-07-25 10:25:40,401 - INFO - Billing report sent via WhatsApp. Script finished successfully.
+2025-07-25 21:43:12,216 - INFO - Starting sendadbalances.py script.
+2025-07-25 21:43:12,611 - INFO - Notification: 🧠 Analyzing billing screenshots...
+2025-07-25 21:43:12,611 - INFO - Analyzing billing screenshots.
+2025-07-25 21:43:12,651 - INFO - Notification: 📤 Sending 2_desktop3_after_scroll.png to OpenAI
+2025-07-25 21:43:12,651 - INFO - Summarizing image: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-25 21:43:17,318 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 21:43:17,331 - INFO - Image summary generated for /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-25 21:43:17,371 - INFO - Notification: 📤 Sending 3_desktop2_after_scroll.png to OpenAI
+2025-07-25 21:43:17,371 - INFO - Summarizing image: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-25 21:43:21,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-25 21:43:21,419 - INFO - Image summary generated for /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-25 21:43:21,420 - INFO - Setting clipboard content.
+2025-07-25 21:43:21,501 - INFO - Notification: 📋 Billing summary copied to clipboard
+2025-07-25 21:43:21,501 - INFO - Billing summary copied to clipboard.
+2025-07-25 21:43:22,522 - INFO - Switched to desktop 3.
+2025-07-25 21:43:22,562 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-25 21:43:22,562 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-25 21:43:22,562 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-25 21:43:23,243 - INFO - Finding text 'WhatsApp' in image /tmp/_screen.png
+2025-07-25 21:43:27,010 - WARNING - Text 'WhatsApp' not found in image /tmp/_screen.png.
+2025-07-25 21:43:27,044 - INFO - Notification: ⚠️ WhatsApp text not found — falling back to tab switch...
+2025-07-25 21:43:27,044 - WARNING - WhatsApp text not found, falling back to tab switch.
+2025-07-25 21:43:27,663 - INFO - Cycling tabs until WhatsApp is found.
+2025-07-25 21:43:28,728 - ERROR - Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:28,764 - INFO - Notification: ❌ Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:29,827 - ERROR - Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:29,865 - INFO - Notification: ❌ Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:30,937 - ERROR - Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:30,986 - INFO - Notification: ❌ Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:32,085 - ERROR - Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:32,165 - INFO - Notification: ❌ Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:33,252 - ERROR - Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:33,319 - INFO - Notification: ❌ Failed to get window title: Command '['xdotool', 'getactivewindow']' returned non-zero exit status 1.
+2025-07-25 21:43:34,450 - INFO - Active window title: WM_NAME(STRING) = "/usr/bin/zsh"
+2025-07-25 21:43:35,540 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "ChatGPT — Mozilla Firefox"
+2025-07-25 21:43:36,629 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "Feed Media Error Solution — Mozilla Firefox"
+2025-07-25 21:43:37,738 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "Feed Media Error Solution — Mozilla Firefox"
+2025-07-25 21:43:38,835 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "Ads Manager - Manage ads - Ads — Mozilla Firefox"
+2025-07-25 21:43:38,868 - INFO - Notification: ❌ WhatsApp tab not found
+2025-07-25 21:43:38,869 - WARNING - WhatsApp tab not found after cycling.
+2025-07-25 21:43:38,869 - INFO - Attempting to click text: (You)
+2025-07-25 21:43:38,869 - INFO - Taking screenshot to /tmp/_screen.png
+2025-07-25 21:43:39,590 - INFO - Finding text '(You)' in image /tmp/_screen.png
+2025-07-25 21:43:47,863 - WARNING - Text '(You)' not found in image /tmp/_screen.png.
+2025-07-25 21:43:47,895 - INFO - Notification: ❌ Couldn’t find text: (You)
+2025-07-25 21:43:47,896 - WARNING - Could not find text: (You)
+2025-07-25 21:43:47,896 - INFO - Pasting clipboard content.
+2025-07-25 21:43:48,273 - INFO - Notification: ✅ Billing report sent via WhatsApp
+2025-07-25 21:43:48,274 - INFO - Billing report sent via WhatsApp. Script finished successfully.

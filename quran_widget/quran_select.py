@@ -10,6 +10,32 @@ STATE_FILE = os.path.join(STATE_DIR, "state.json")
 
 META_FILE = os.path.join(os.path.dirname(__file__), "metadata.json")
 
+SURAH_NAMES = [
+    "Al-Fatihah", "Al-Baqarah", "Aal-E-Imran", "An-Nisa’", "Al-Ma’idah",
+    "Al-An’am", "Al-A’raf", "Al-Anfal", "At-Tawbah", "Yunus",
+    "Hud", "Yusuf", "Ar-Ra’d", "Ibrahim", "Al-Hijr",
+    "An-Nahl", "Al-Isra’", "Al-Kahf", "Maryam", "Ta-Ha",
+    "Al-Anbiya’", "Al-Hajj", "Al-Mu’minun", "An-Nur", "Al-Furqan",
+    "Ash-Shu’ara’", "An-Naml", "Al-Qasas", "Al-‘Ankabut", "Ar-Rum",
+    "Luqman", "As-Sajdah", "Al-Ahzab", "Saba’", "Fatir",
+    "Ya-Sin", "As-Saffat", "Sad", "Az-Zumar", "Ghafir",
+    "Fussilat", "Ash-Shura", "Az-Zukhruf", "Ad-Dukhan", "Al-Jathiyah",
+    "Al-Ahqaf", "Muhammad", "Al-Fath", "Al-Hujurat", "Qaf",
+    "Adh-Dhariyat", "At-Tur", "An-Najm", "Al-Qamar", "Ar-Rahman",
+    "Al-Waqi’ah", "Al-Hadid", "Al-Mujadila", "Al-Hashr", "Al-Mumtahanah",
+    "As-Saff", "Al-Jumu’ah", "Al-Munafiqun", "At-Taghabun", "At-Talaq",
+    "At-Tahrim", "Al-Mulk", "Al-Qalam", "Al-Haqqah", "Al-Ma’arij",
+    "Nuh", "Al-Jinn", "Al-Muzzammil", "Al-Muddaththir", "Al-Qiyamah",
+    "Al-Insan", "Al-Mursalat", "An-Naba’", "An-Nazi’at", "‘Abasa",
+    "At-Takwir", "Al-Infitar", "Al-Mutaffifin", "Al-Inshiqaq", "Al-Buruj",
+    "At-Tariq", "Al-A’la", "Al-Ghashiyah", "Al-Fajr", "Al-Balad",
+    "Ash-Shams", "Al-Layl", "Ad-Duhaa", "Ash-Sharh", "At-Tin",
+    "Al-‘Alaq", "Al-Qadr", "Al-Bayyinah", "Az-Zalzalah", "Al-‘Adiyat",
+    "Al-Qari’ah", "At-Takathur", "Al-‘Asr", "Al-Humazah", "Al-Fil",
+    "Quraysh", "Al-Ma’un", "Al-Kawthar", "Al-Kafirun", "An-Nasr",
+    "Al-Masad", "Al-Ikhlas", "Al-Falaq", "An-Nas"
+]
+
 def load_env_vars(env_path):
     if not os.path.exists(env_path):
         print(f"Warning: Environment file not found at {env_path}")
@@ -49,12 +75,20 @@ def main():
 
     meta = load_metadata()
 
-    surah_options = [s for s in sorted(meta.keys(), key=int)]
-    surah_selection = get_rofi_input("Select Surah (e.g., 002): ", surah_options)
+    surah_options = []
+    for s_num_str in sorted(meta.keys(), key=int):
+        s_num_int = int(s_num_str)
+        if 1 <= s_num_int <= len(SURAH_NAMES):
+            surah_name = SURAH_NAMES[s_num_int - 1]
+            surah_options.append(f"{s_num_str} - {surah_name}")
+        else:
+            surah_options.append(s_num_str) # Fallback if name not found
+
+    surah_selection = get_rofi_input("Select Surah: ", surah_options)
     if not surah_selection:
         print("Surah selection cancelled.")
         return
-    surah = surah_selection.zfill(3)
+    surah = surah_selection.split(' ')[0].zfill(3)
 
     total_ayat = int(meta.get(surah, 0))
 
@@ -84,7 +118,7 @@ def main():
         print("Invalid range. Please try again.")
 
     save_state(surah, start, end)
-    print(f"Saved range {surah}:{start}-{end}")
+    print(f"Saved range {surah}:{end}")
 
 if __name__ == "__main__":
     main()

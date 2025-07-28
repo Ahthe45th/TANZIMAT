@@ -278,3 +278,162 @@
 2025-07-23 07:31:18,004 - INFO - Processed moved window on desktop 2.
 2025-07-23 07:31:18,044 - INFO - Notification: ✅ All Firefox screenshots complete.
 2025-07-23 07:31:18,044 - INFO - adbalances.py script finished successfully.
+2025-07-24 13:54:17,354 - INFO - Starting adbalances.py script.
+2025-07-24 13:54:17,431 - INFO - Notification: 🧹 Cleaning old screenshots...
+2025-07-24 13:54:17,435 - INFO - Cleaned up old screenshots in /home/mehmet/firefox_shots
+2025-07-24 13:54:17,462 - INFO - Notification: 📂 Screenshot folder reset
+2025-07-24 13:54:17,462 - INFO - Created screenshot directory: /home/mehmet/firefox_shots
+2025-07-24 13:54:17,501 - INFO - Notification: 🚀 Launching Firefox billing tabs...
+2025-07-24 13:54:17,538 - INFO - Notification: 🚀 Launched: default-esr
+2025-07-24 13:54:17,539 - INFO - Launched Firefox with profile default-esr and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=662791603221806&business_id=1590396214928706&placement=ads_manager&payment_account_id=662791603221806
+2025-07-24 13:54:17,574 - INFO - Notification: 🚀 Launched: PH
+2025-07-24 13:54:17,574 - INFO - Launched Firefox with profile PH and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=3943820015830789&business_id=697212649363732&placement=standalone&payment_account_id=3943820015830789
+2025-07-24 13:54:17,574 - INFO - Firefox billing tabs launched.
+2025-07-24 13:54:17,574 - INFO - Waiting for pages to load (30 seconds)...
+2025-07-24 13:55:17,575 - INFO - Pages loaded.
+2025-07-24 13:55:17,778 - INFO - Notification: 📸 Screenshot: 1_desktop3_loaded.png
+2025-07-24 13:55:17,778 - INFO - Took screenshot: /home/mehmet/firefox_shots/1_desktop3_loaded.png
+2025-07-24 13:55:17,778 - INFO - Desktop 3 screenshot taken.
+2025-07-24 13:55:17,799 - INFO - Successfully retrieved visible Firefox window IDs.
+2025-07-24 13:55:17,800 - INFO - Found 2 Firefox windows.
+2025-07-24 13:55:17,870 - INFO - Notification: 📤 Moved second Firefox window to desktop 2
+2025-07-24 13:55:17,871 - INFO - Moved window 20971563 to desktop 2.
+2025-07-24 13:55:18,392 - INFO - Focused window ID: 25165868
+2025-07-24 13:55:18,392 - INFO - Pressing Down key 9 times on window ID: 25165868
+2025-07-24 13:55:20,171 - INFO - Finished pressing Down key on window ID: 25165868
+2025-07-24 13:55:20,334 - INFO - Notification: 📸 Screenshot: 2_desktop3_after_scroll.png
+2025-07-24 13:55:20,335 - INFO - Took screenshot: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-24 13:55:20,335 - INFO - Processed remaining window on desktop 3.
+2025-07-24 13:55:21,342 - INFO - Switched to desktop 2.
+2025-07-24 13:55:21,852 - INFO - Focused window ID: 20971563
+2025-07-24 13:55:21,852 - INFO - Pressing Down key 9 times on window ID: 20971563
+2025-07-24 13:55:23,623 - INFO - Finished pressing Down key on window ID: 20971563
+2025-07-24 13:55:23,809 - INFO - Notification: 📸 Screenshot: 3_desktop2_after_scroll.png
+2025-07-24 13:55:23,809 - INFO - Took screenshot: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-24 13:55:23,809 - INFO - Processed moved window on desktop 2.
+2025-07-24 13:55:23,846 - INFO - Notification: ✅ All Firefox screenshots complete.
+2025-07-24 13:55:23,846 - INFO - adbalances.py script finished successfully.
+2025-07-24 14:57:29,250 - INFO - Starting adbalances.py script.
+2025-07-24 14:57:29,273 - INFO - Notification: 🧹 Cleaning old screenshots...
+2025-07-24 14:57:29,275 - INFO - Cleaned up old screenshots in /home/mehmet/firefox_shots
+2025-07-24 14:57:29,304 - INFO - Notification: 📂 Screenshot folder reset
+2025-07-24 14:57:29,304 - INFO - Created screenshot directory: /home/mehmet/firefox_shots
+2025-07-24 14:57:29,330 - INFO - Notification: 🚀 Launching Firefox billing tabs...
+2025-07-24 14:57:29,364 - INFO - Notification: 🚀 Launched: default-esr
+2025-07-24 14:57:29,365 - INFO - Launched Firefox with profile default-esr and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=662791603221806&business_id=1590396214928706&placement=ads_manager&payment_account_id=662791603221806
+2025-07-24 14:57:29,404 - INFO - Notification: 🚀 Launched: PH
+2025-07-24 14:57:29,405 - INFO - Launched Firefox with profile PH and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=3943820015830789&business_id=697212649363732&placement=standalone&payment_account_id=3943820015830789
+2025-07-24 14:57:29,406 - INFO - Firefox billing tabs launched.
+2025-07-24 14:57:29,406 - INFO - Waiting for pages to load (30 seconds)...
+2025-07-24 14:58:29,406 - INFO - Pages loaded.
+2025-07-24 14:58:29,587 - INFO - Notification: 📸 Screenshot: 1_desktop3_loaded.png
+2025-07-24 14:58:29,588 - INFO - Took screenshot: /home/mehmet/firefox_shots/1_desktop3_loaded.png
+2025-07-24 14:58:29,588 - INFO - Desktop 3 screenshot taken.
+2025-07-24 14:58:29,606 - INFO - Successfully retrieved visible Firefox window IDs.
+2025-07-24 14:58:29,606 - INFO - Found 2 Firefox windows.
+2025-07-24 14:58:29,677 - INFO - Notification: 📤 Moved second Firefox window to desktop 2
+2025-07-24 14:58:29,678 - INFO - Moved window 20971563 to desktop 2.
+2025-07-24 14:58:30,220 - INFO - Focused window ID: 25165868
+2025-07-24 14:58:30,221 - INFO - Pressing Down key 9 times on window ID: 25165868
+2025-07-24 14:58:31,995 - INFO - Finished pressing Down key on window ID: 25165868
+2025-07-24 14:58:32,167 - INFO - Notification: 📸 Screenshot: 2_desktop3_after_scroll.png
+2025-07-24 14:58:32,167 - INFO - Took screenshot: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-24 14:58:32,167 - INFO - Processed remaining window on desktop 3.
+2025-07-24 14:58:33,173 - INFO - Switched to desktop 2.
+2025-07-24 14:58:33,686 - INFO - Focused window ID: 20971563
+2025-07-24 14:58:33,686 - INFO - Pressing Down key 9 times on window ID: 20971563
+2025-07-24 14:58:35,486 - INFO - Finished pressing Down key on window ID: 20971563
+2025-07-24 14:58:35,680 - INFO - Notification: 📸 Screenshot: 3_desktop2_after_scroll.png
+2025-07-24 14:58:35,680 - INFO - Took screenshot: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-24 14:58:35,680 - INFO - Processed moved window on desktop 2.
+2025-07-24 14:58:35,714 - INFO - Notification: ✅ All Firefox screenshots complete.
+2025-07-24 14:58:35,714 - INFO - adbalances.py script finished successfully.
+2025-07-24 15:45:16,585 - INFO - Starting adbalances.py script.
+2025-07-24 15:45:16,609 - INFO - Notification: 🧹 Cleaning old screenshots...
+2025-07-24 15:45:16,611 - INFO - Cleaned up old screenshots in /home/mehmet/firefox_shots
+2025-07-24 15:45:16,642 - INFO - Notification: 📂 Screenshot folder reset
+2025-07-24 15:45:16,642 - INFO - Created screenshot directory: /home/mehmet/firefox_shots
+2025-07-24 15:45:16,669 - INFO - Notification: 🚀 Launching Firefox billing tabs...
+2025-07-24 15:45:16,701 - INFO - Notification: 🚀 Launched: default-esr
+2025-07-24 15:45:16,701 - INFO - Launched Firefox with profile default-esr and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=662791603221806&business_id=1590396214928706&placement=ads_manager&payment_account_id=662791603221806
+2025-07-24 15:45:16,739 - INFO - Notification: 🚀 Launched: PH
+2025-07-24 15:45:16,740 - INFO - Launched Firefox with profile PH and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=3943820015830789&business_id=697212649363732&placement=standalone&payment_account_id=3943820015830789
+2025-07-24 15:45:16,740 - INFO - Firefox billing tabs launched.
+2025-07-24 15:45:16,740 - INFO - Waiting for pages to load (30 seconds)...
+2025-07-24 15:46:16,740 - INFO - Pages loaded.
+2025-07-24 15:46:16,930 - INFO - Notification: 📸 Screenshot: 1_desktop3_loaded.png
+2025-07-24 15:46:16,931 - INFO - Took screenshot: /home/mehmet/firefox_shots/1_desktop3_loaded.png
+2025-07-24 15:46:16,931 - INFO - Desktop 3 screenshot taken.
+2025-07-24 15:46:16,954 - INFO - Successfully retrieved visible Firefox window IDs.
+2025-07-24 15:46:16,954 - INFO - Found 2 Firefox windows.
+2025-07-24 15:46:17,028 - INFO - Notification: 📤 Moved second Firefox window to desktop 2
+2025-07-24 15:46:17,028 - INFO - Moved window 39845932 to desktop 2.
+2025-07-24 15:46:17,541 - INFO - Focused window ID: 37748779
+2025-07-24 15:46:17,541 - INFO - Pressing Down key 9 times on window ID: 37748779
+2025-07-24 15:46:19,370 - INFO - Finished pressing Down key on window ID: 37748779
+2025-07-24 15:46:19,552 - INFO - Notification: 📸 Screenshot: 2_desktop3_after_scroll.png
+2025-07-24 15:46:19,552 - INFO - Took screenshot: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-24 15:46:19,552 - INFO - Processed remaining window on desktop 3.
+2025-07-24 15:46:20,558 - INFO - Switched to desktop 2.
+2025-07-24 15:46:21,072 - INFO - Focused window ID: 39845932
+2025-07-24 15:46:21,072 - INFO - Pressing Down key 9 times on window ID: 39845932
+2025-07-24 15:46:22,832 - INFO - Finished pressing Down key on window ID: 39845932
+2025-07-24 15:46:23,016 - INFO - Notification: 📸 Screenshot: 3_desktop2_after_scroll.png
+2025-07-24 15:46:23,016 - INFO - Took screenshot: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-24 15:46:23,017 - INFO - Processed moved window on desktop 2.
+2025-07-24 15:46:23,057 - INFO - Notification: ✅ All Firefox screenshots complete.
+2025-07-24 15:46:23,057 - INFO - adbalances.py script finished successfully.
+2025-07-24 17:51:29,900 - INFO - Starting adbalances.py script.
+2025-07-24 17:51:29,920 - INFO - Notification: 🧹 Cleaning old screenshots...
+2025-07-24 17:51:29,922 - INFO - Cleaned up old screenshots in /home/mehmet/firefox_shots
+2025-07-24 17:51:29,952 - INFO - Notification: 📂 Screenshot folder reset
+2025-07-24 17:51:29,952 - INFO - Created screenshot directory: /home/mehmet/firefox_shots
+2025-07-24 17:51:29,981 - INFO - Notification: 🚀 Launching Firefox billing tabs...
+2025-07-24 17:51:30,028 - INFO - Notification: 🚀 Launched: default-esr
+2025-07-24 17:51:30,028 - INFO - Launched Firefox with profile default-esr and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=662791603221806&business_id=1590396214928706&placement=ads_manager&payment_account_id=662791603221806
+2025-07-24 17:51:30,095 - INFO - Notification: 🚀 Launched: PH
+2025-07-24 17:51:30,096 - INFO - Launched Firefox with profile PH and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=3943820015830789&business_id=697212649363732&placement=standalone&payment_account_id=3943820015830789
+2025-07-24 17:51:30,096 - INFO - Firefox billing tabs launched.
+2025-07-24 17:51:30,096 - INFO - Waiting for pages to load (30 seconds)...
+2025-07-24 17:52:30,097 - INFO - Pages loaded.
+2025-07-24 17:52:30,285 - INFO - Notification: 📸 Screenshot: 1_desktop3_loaded.png
+2025-07-24 17:52:30,285 - INFO - Took screenshot: /home/mehmet/firefox_shots/1_desktop3_loaded.png
+2025-07-24 17:52:30,286 - INFO - Desktop 3 screenshot taken.
+2025-07-24 17:52:30,305 - ERROR - Error getting visible Firefox window IDs: Command '['xdotool', 'search', '--onlyvisible', '--class', 'firefox']' returned non-zero exit status 1.
+2025-07-24 17:52:30,332 - INFO - Notification: ❌ Less than two Firefox windows found.
+2025-07-24 17:52:30,332 - ERROR - Less than two Firefox windows found. Exiting.
+2025-07-25 10:21:44,099 - INFO - Starting adbalances.py script.
+2025-07-25 10:21:44,122 - INFO - Notification: 🧹 Cleaning old screenshots...
+2025-07-25 10:21:44,122 - INFO - Cleaned up old screenshots in /home/mehmet/firefox_shots
+2025-07-25 10:21:44,167 - INFO - Notification: 📂 Screenshot folder reset
+2025-07-25 10:21:44,167 - INFO - Created screenshot directory: /home/mehmet/firefox_shots
+2025-07-25 10:21:44,193 - INFO - Notification: 🚀 Launching Firefox billing tabs...
+2025-07-25 10:21:44,230 - INFO - Notification: 🚀 Launched: default-esr
+2025-07-25 10:21:44,231 - INFO - Launched Firefox with profile default-esr and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=662791603221806&business_id=1590396214928706&placement=ads_manager&payment_account_id=662791603221806
+2025-07-25 10:21:44,268 - INFO - Notification: 🚀 Launched: PH
+2025-07-25 10:21:44,268 - INFO - Launched Firefox with profile PH and URL https://business.facebook.com/billing_hub/accounts/details?asset_id=3943820015830789&business_id=697212649363732&placement=standalone&payment_account_id=3943820015830789
+2025-07-25 10:21:44,268 - INFO - Firefox billing tabs launched.
+2025-07-25 10:21:44,268 - INFO - Waiting for pages to load (30 seconds)...
+2025-07-25 10:22:44,268 - INFO - Pages loaded.
+2025-07-25 10:22:44,444 - INFO - Notification: 📸 Screenshot: 1_desktop3_loaded.png
+2025-07-25 10:22:44,444 - INFO - Took screenshot: /home/mehmet/firefox_shots/1_desktop3_loaded.png
+2025-07-25 10:22:44,444 - INFO - Desktop 3 screenshot taken.
+2025-07-25 10:22:44,472 - INFO - Successfully retrieved visible Firefox window IDs.
+2025-07-25 10:22:44,472 - INFO - Found 2 Firefox windows.
+2025-07-25 10:22:44,528 - INFO - Notification: 📤 Moved second Firefox window to desktop 2
+2025-07-25 10:22:44,529 - INFO - Moved window 31457323 to desktop 2.
+2025-07-25 10:22:45,059 - INFO - Focused window ID: 33554476
+2025-07-25 10:22:45,060 - INFO - Pressing Down key 9 times on window ID: 33554476
+2025-07-25 10:22:46,820 - INFO - Finished pressing Down key on window ID: 33554476
+2025-07-25 10:22:46,989 - INFO - Notification: 📸 Screenshot: 2_desktop3_after_scroll.png
+2025-07-25 10:22:46,990 - INFO - Took screenshot: /home/mehmet/firefox_shots/2_desktop3_after_scroll.png
+2025-07-25 10:22:46,990 - INFO - Processed remaining window on desktop 3.
+2025-07-25 10:22:47,995 - INFO - Switched to desktop 2.
+2025-07-25 10:22:48,506 - INFO - Focused window ID: 31457323
+2025-07-25 10:22:48,506 - INFO - Pressing Down key 9 times on window ID: 31457323
+2025-07-25 10:22:50,378 - INFO - Finished pressing Down key on window ID: 31457323
+2025-07-25 10:22:50,584 - INFO - Notification: 📸 Screenshot: 3_desktop2_after_scroll.png
+2025-07-25 10:22:50,585 - INFO - Took screenshot: /home/mehmet/firefox_shots/3_desktop2_after_scroll.png
+2025-07-25 10:22:50,585 - INFO - Processed moved window on desktop 2.
+2025-07-25 10:22:50,634 - INFO - Notification: ✅ All Firefox screenshots complete.
+2025-07-25 10:22:50,635 - INFO - adbalances.py script finished successfully.

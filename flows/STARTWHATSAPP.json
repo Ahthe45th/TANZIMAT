@@ -1,0 +1,52 @@
+[
+  {
+    "action": "window_switch",
+    "desktop": 3
+  },
+  {
+    "action": "wait",
+    "seconds": 2.0
+  },
+  {
+    "action": "coordinate_click",
+    "x": 261,
+    "y": 740
+  },
+  {
+    "action": "wait",
+    "seconds": 2.0
+  },
+  {
+    "action": "coordinate_click",
+    "x": 708,
+    "y": 328
+  },
+  {
+    "action": "wait",
+    "seconds": 2.0
+  },
+  {
+    "action": "coordinate_click",
+    "x": 770,
+    "y": 513
+  },
+  {
+    "action": "wait",
+    "seconds": 2.0
+  },
+  {
+    "action": "type",
+    "text": "web.whatsapp.com"
+  },
+  {
+    "action": "wait",
+    "seconds": 2.0
+  },
+  {
+    "action": "enter"
+  },
+  {
+    "action": "wait",
+    "seconds": 60.0
+  }
+]

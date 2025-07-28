@@ -1,0 +1,23 @@
+[
+  {
+    "action": "window_switch",
+    "desktop": 2
+  },
+  {
+    "action": "kill"
+  },
+  {
+    "action": "wait",
+    "seconds": 2.0
+  },
+  {
+    "action": "window_switch",
+    "desktop": 3
+  },
+  {
+    "action": "kill"
+  },
+  {
+    "action": "kill"
+  }
+]

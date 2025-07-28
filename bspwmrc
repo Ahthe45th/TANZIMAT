@@ -111,3 +111,12 @@ bash /home/mehmet/Proyectos/TANZIMAT/programstarter.bash /home/mehmet/Proyectos/
 /home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/youtube_watchlist.py &
 rm -r ~/Proyectos/TANZIMAT/polybar-config
 cp -r ~/.config/polybar/colorblocks/ ~/Proyectos/TANZIMAT/polybar-config
+cp ~/.config/bspwm/bspwmrc ~/Proyectos/TANZIMAT/
+cp ~/GEMINI.md ~/Proyectos/TANZIMAT/
+
+if [ "$(echo -e "No\nYes" | rofi -dmenu -p "Run ADBALANCES flow?")" == "Yes" ]; then
+    /home/mehmet/miniconda3/envs/idris/bin/python3 /home/mehmet/Proyectos/TANZIMAT/scripts/run_flow.py ADBALANCES
+    #/home/mehmet/miniconda3/envs/idris/bin/python3 /home/mehmet/Proyectos/TANZIMAT/scripts/run_flow.py KILLFIREFOX
+    #/home/mehmet/miniconda3/envs/idris/bin/python3 /home/mehmet/Proyectos/TANZIMAT/scripts/run_flow.py STARTWHATSAPP
+fi
+

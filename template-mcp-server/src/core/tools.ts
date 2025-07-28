@@ -88,7 +88,7 @@ export function registerTools(server: FastMCP) {
     description: "Activates a customer's account by email",
     parameters: z.object({
       email: z.string().email().describe("Customer email to activate"),
-      package: z.string().optional().describe("Optional package to apply")
+      package: z.string().optional().describe("Optional package to apply make sure to correct the package name to one of Platinum, Ruby, Bronze, Silver, Gold, Diamond, Emerald")
     }),
     execute: async ({ email, package: pkg }) => {
       const query = pkg ? `?package=${encodeURIComponent(pkg)}` : "";

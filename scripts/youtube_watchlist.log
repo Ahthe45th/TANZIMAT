@@ -1,0 +1,1134 @@
+2025-07-23 15:26:17,531 - INFO - Script started.
+2025-07-23 15:26:17,533 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-23 15:26:17,627 - ERROR - Failed fetching feed for UCK1XzxcKXB_v_dcw_tflC1A: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,627 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-23 15:26:17,628 - ERROR - Failed fetching feed for UCUyDOdBWhC1MCxEjC46d-zw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,628 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-23 15:26:17,629 - ERROR - Failed fetching feed for UCxCcu9pet4dljrBLf8R5nwA: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,630 - INFO - Processing channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-23 15:26:17,630 - ERROR - Failed fetching feed for UC2ME6cK8jWnRSWyUdV0yWJw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,631 - INFO - Processing channel: UCGglb26hdG81eW08n4dagUw
+2025-07-23 15:26:17,631 - ERROR - Failed fetching feed for UCGglb26hdG81eW08n4dagUw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,632 - INFO - Processing channel: UCqlRE8sYdSeijg83yIDpq2w
+2025-07-23 15:26:17,633 - ERROR - Failed fetching feed for UCqlRE8sYdSeijg83yIDpq2w: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,633 - INFO - Processing channel: UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-23 15:26:17,634 - ERROR - Failed fetching feed for UCQ4FNww3XoNgqIlkBqEAVCg: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,634 - INFO - Processing channel: UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-23 15:26:17,635 - ERROR - Failed fetching feed for UCBMrOkjg3AbvLS5g1MhtlRQ: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,635 - INFO - Processing channel: UCT4kJCZyg26egbPAuJVj2kA
+2025-07-23 15:26:17,636 - ERROR - Failed fetching feed for UCT4kJCZyg26egbPAuJVj2kA: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,636 - INFO - Processing channel: UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-23 15:26:17,637 - ERROR - Failed fetching feed for UCPjNBjflYl0-HQtUvOx0Ibw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,637 - INFO - Processing channel: UC9jY5IcAA99wX8MZQ9K9r-Q
+2025-07-23 15:26:17,638 - ERROR - Failed fetching feed for UC9jY5IcAA99wX8MZQ9K9r-Q: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,638 - INFO - Processing channel: UCfQk5qGOEO5cPPDFlQe2lFQ
+2025-07-23 15:26:17,639 - ERROR - Failed fetching feed for UCfQk5qGOEO5cPPDFlQe2lFQ: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,639 - INFO - Processing channel: UC12gqdHGgjPHhUSL97JnzOw
+2025-07-23 15:26:17,640 - ERROR - Failed fetching feed for UC12gqdHGgjPHhUSL97JnzOw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,640 - INFO - Processing channel: UCYloxfuc3XHk8OH5wbjWqqw
+2025-07-23 15:26:17,641 - ERROR - Failed fetching feed for UCYloxfuc3XHk8OH5wbjWqqw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,641 - INFO - Processing channel: UCzB7zFhM1jLQdV0A-iZtZqg
+2025-07-23 15:26:17,642 - ERROR - Failed fetching feed for UCzB7zFhM1jLQdV0A-iZtZqg: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,642 - INFO - Processing channel: UC936KXo1Dh7FfO-O7YhtSGQ
+2025-07-23 15:26:17,643 - ERROR - Failed fetching feed for UC936KXo1Dh7FfO-O7YhtSGQ: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,644 - INFO - Processing channel: UCnw3tgWDG1CjN6Q9mFxLwxg
+2025-07-23 15:26:17,644 - ERROR - Failed fetching feed for UCnw3tgWDG1CjN6Q9mFxLwxg: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,645 - INFO - Processing channel: UCsBjURrPoezykLs9EqgamOA
+2025-07-23 15:26:17,645 - ERROR - Failed fetching feed for UCsBjURrPoezykLs9EqgamOA: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,646 - INFO - Processing channel: UCmFozxZBUWtbkCvs_aSCU5w
+2025-07-23 15:26:17,647 - ERROR - Failed fetching feed for UCmFozxZBUWtbkCvs_aSCU5w: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,647 - INFO - Processing channel: UCPhM8T8FgRiPm6UacVmKxZw
+2025-07-23 15:26:17,648 - ERROR - Failed fetching feed for UCPhM8T8FgRiPm6UacVmKxZw: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,648 - INFO - Processing channel: UCMzbNvfJ4osPOxbjI0K5BeA
+2025-07-23 15:26:17,649 - ERROR - Failed fetching feed for UCMzbNvfJ4osPOxbjI0K5BeA: <urlopen error [Errno -2] Name or service not known>
+2025-07-23 15:26:17,649 - INFO - Script finished.
+2025-07-23 15:58:35,248 - INFO - Script started.
+2025-07-23 15:58:35,249 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-23 15:58:35,661 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-23 15:58:36,663 - INFO - Attempting to download video: efWYrF1NWVE
+2025-07-23 18:11:00,558 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-23 18:11:00,558 - INFO - Script started.
+2025-07-23 18:11:00,629 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-23 18:11:01,714 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-23 18:11:03,460 - INFO - Attempting to download video: efWYrF1NWVE
+2025-07-23 18:11:16,837 - INFO - Attempting to download video: s-MOFv7WO6g
+2025-07-23 18:11:29,260 - INFO - Attempting to download video: gvFd3K4IMr8
+2025-07-23 18:11:40,698 - INFO - Attempting to download video: t_FnH8aLpIY
+2025-07-23 18:11:58,266 - INFO - Attempting to download video: mfbjWMunQMs
+2025-07-23 18:12:14,861 - INFO - Attempting to download video: MPzyAd-_QdI
+2025-07-23 18:12:41,646 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-23 18:12:47,703 - INFO - Attempting to download video: OzoQE_gOUQU
+2025-07-23 18:13:02,231 - INFO - Attempting to download video: KjQKtcMqSKQ
+2025-07-23 18:13:16,852 - INFO - Attempting to download video: yz2ZzWDf30s
+2025-07-23 18:13:32,012 - INFO - Attempting to download video: -HCQ9JgIfcM
+2025-07-23 18:13:48,451 - INFO - Processing channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-23 18:13:48,909 - INFO - Processing channel: UCGglb26hdG81eW08n4dagUw
+2025-07-23 18:13:49,849 - INFO - Attempting to download video: BxE1LP6soTI
+2025-07-23 18:14:03,938 - INFO - Attempting to download video: x6CTNFTLns8
+2025-07-23 18:14:53,350 - INFO - Video x6CTNFTLns8 is longer than 1 minute (1070.928s), deleting.
+2025-07-23 18:14:53,367 - INFO - Attempting to download video: y8130oX9VRM
+2025-07-23 18:15:10,832 - INFO - Video y8130oX9VRM is longer than 1 minute (93.184s), deleting.
+2025-07-23 18:15:10,835 - INFO - Processing channel: UCqlRE8sYdSeijg83yIDpq2w
+2025-07-23 18:15:11,912 - INFO - Processing channel: UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-23 18:15:13,045 - INFO - Processing channel: UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-23 18:15:14,066 - INFO - Attempting to download video: ZiroVq2qCHU
+2025-07-23 18:17:23,631 - INFO - Video ZiroVq2qCHU is longer than 1 minute (89.728s), deleting.
+2025-07-23 18:17:23,634 - INFO - Attempting to download video: 7hdR7b3aq04
+2025-07-23 18:17:38,041 - INFO - Video 7hdR7b3aq04 is longer than 1 minute (85.845s), deleting.
+2025-07-23 18:17:38,043 - INFO - Attempting to download video: _FrCVcDJXrI
+2025-07-23 18:35:08,093 - INFO - Video _FrCVcDJXrI is longer than 1 minute (2576.44s), deleting.
+2025-07-23 18:35:08,165 - INFO - Attempting to download video: iLv9o3U14vE
+2025-07-23 18:37:01,146 - INFO - Video iLv9o3U14vE is longer than 1 minute (2489.69s), deleting.
+2025-07-23 18:37:01,182 - INFO - Processing channel: UCT4kJCZyg26egbPAuJVj2kA
+2025-07-23 18:37:02,170 - INFO - Attempting to download video: xmaRNrBOC48
+2025-07-23 18:37:25,219 - INFO - Attempting to download video: OQjyih02YiU
+2025-07-23 18:37:41,962 - INFO - Attempting to download video: HqgIAnWk3nA
+2025-07-23 18:37:59,255 - INFO - Processing channel: UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-23 18:37:59,529 - INFO - Attempting to download video: DjR61qqdkuU
+2025-07-23 18:39:44,295 - INFO - Video DjR61qqdkuU is longer than 1 minute (2339.434s), deleting.
+2025-07-23 18:39:44,330 - INFO - Processing channel: UC9jY5IcAA99wX8MZQ9K9r-Q
+2025-07-23 18:39:45,572 - INFO - Processing channel: UCfQk5qGOEO5cPPDFlQe2lFQ
+2025-07-23 18:39:46,802 - INFO - Attempting to download video: Ge0uE9pmNIk
+2025-07-23 18:41:33,679 - INFO - Video Ge0uE9pmNIk is longer than 1 minute (2404.032s), deleting.
+2025-07-23 18:41:33,720 - INFO - Attempting to download video: 2o1105B3Cn4
+2025-07-23 18:41:47,218 - INFO - Attempting to download video: LI3z9CQxcAU
+2025-07-23 18:42:06,130 - INFO - Video LI3z9CQxcAU is longer than 1 minute (86.293s), deleting.
+2025-07-23 18:42:06,134 - INFO - Processing channel: UC12gqdHGgjPHhUSL97JnzOw
+2025-07-23 18:42:07,378 - INFO - Processing channel: UCYloxfuc3XHk8OH5wbjWqqw
+2025-07-23 18:42:08,606 - INFO - Attempting to download video: nHyf1U2pbt4
+2025-07-23 18:42:36,095 - INFO - Video nHyf1U2pbt4 is longer than 1 minute (179.072s), deleting.
+2025-07-23 18:42:36,101 - INFO - Processing channel: UCzB7zFhM1jLQdV0A-iZtZqg
+2025-07-23 18:42:37,602 - INFO - Processing channel: UC936KXo1Dh7FfO-O7YhtSGQ
+2025-07-23 18:42:38,912 - ERROR - Failed fetching feed for UC936KXo1Dh7FfO-O7YhtSGQ: HTTP Error 404: Not Found
+2025-07-23 18:42:38,913 - INFO - Processing channel: UCnw3tgWDG1CjN6Q9mFxLwxg
+2025-07-23 18:42:39,733 - ERROR - Failed fetching feed for UCnw3tgWDG1CjN6Q9mFxLwxg: HTTP Error 404: Not Found
+2025-07-23 18:42:39,733 - INFO - Processing channel: UCsBjURrPoezykLs9EqgamOA
+2025-07-23 18:42:40,186 - INFO - Processing channel: UCmFozxZBUWtbkCvs_aSCU5w
+2025-07-23 18:42:41,428 - ERROR - Failed fetching feed for UCmFozxZBUWtbkCvs_aSCU5w: HTTP Error 404: Not Found
+2025-07-23 18:42:41,429 - INFO - Processing channel: UCPhM8T8FgRiPm6UacVmKxZw
+2025-07-23 18:42:42,418 - ERROR - Failed fetching feed for UCPhM8T8FgRiPm6UacVmKxZw: HTTP Error 404: Not Found
+2025-07-23 18:42:42,419 - INFO - Processing channel: UCMzbNvfJ4osPOxbjI0K5BeA
+2025-07-23 18:42:43,526 - INFO - Script finished.
+2025-07-23 19:33:03,027 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-23 19:33:03,028 - INFO - Script started.
+2025-07-23 19:33:03,240 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-23 19:33:04,397 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-23 19:33:05,740 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-23 19:33:06,866 - INFO - Processing channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-23 19:33:08,085 - INFO - Processing channel: UCGglb26hdG81eW08n4dagUw
+2025-07-23 19:33:09,103 - INFO - Attempting to download video: x6CTNFTLns8
+2025-07-24 11:34:39,099 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-24 11:34:39,102 - INFO - Script started.
+2025-07-24 11:34:39,221 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-24 11:34:39,605 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-24 11:34:40,018 - INFO - Attempting to download video: 7lJZo51mLRU
+2025-07-24 15:43:09,867 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-24 15:43:09,868 - INFO - Script started.
+2025-07-24 15:43:09,896 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-24 15:43:11,210 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-24 15:43:13,476 - INFO - Attempting to download video: 7lJZo51mLRU
+2025-07-24 15:45:12,374 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-24 15:45:12,376 - INFO - Script started.
+2025-07-24 15:45:12,421 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-24 15:45:13,892 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-24 15:45:15,129 - INFO - Attempting to download video: 7lJZo51mLRU
+2025-07-24 17:51:25,599 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-24 17:51:25,599 - INFO - Script started.
+2025-07-24 17:51:25,628 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-24 17:51:45,726 - ERROR - Failed fetching feed for UCK1XzxcKXB_v_dcw_tflC1A: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:51:45,726 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-24 17:52:05,742 - ERROR - Failed fetching feed for UCUyDOdBWhC1MCxEjC46d-zw: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:52:05,742 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-24 17:52:25,758 - ERROR - Failed fetching feed for UCxCcu9pet4dljrBLf8R5nwA: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:52:25,758 - INFO - Processing channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-24 17:52:45,774 - ERROR - Failed fetching feed for UC2ME6cK8jWnRSWyUdV0yWJw: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:52:45,774 - INFO - Processing channel: UCGglb26hdG81eW08n4dagUw
+2025-07-24 17:53:05,795 - ERROR - Failed fetching feed for UCGglb26hdG81eW08n4dagUw: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:53:05,796 - INFO - Processing channel: UCqlRE8sYdSeijg83yIDpq2w
+2025-07-24 17:53:25,817 - ERROR - Failed fetching feed for UCqlRE8sYdSeijg83yIDpq2w: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:53:25,818 - INFO - Processing channel: UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-24 17:53:45,838 - ERROR - Failed fetching feed for UCQ4FNww3XoNgqIlkBqEAVCg: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:53:45,838 - INFO - Processing channel: UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-24 17:54:05,858 - ERROR - Failed fetching feed for UCBMrOkjg3AbvLS5g1MhtlRQ: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:54:05,858 - INFO - Processing channel: UCT4kJCZyg26egbPAuJVj2kA
+2025-07-24 17:54:25,878 - ERROR - Failed fetching feed for UCT4kJCZyg26egbPAuJVj2kA: <urlopen error [Errno -2] Name or service not known>
+2025-07-24 17:54:25,878 - INFO - Processing channel: UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-24 17:54:26,988 - INFO - Attempting to download video: 6FSih5a5aIA
+2025-07-25 10:18:10,495 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-25 10:18:10,495 - INFO - Script started.
+2025-07-25 10:18:10,614 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-25 10:18:12,010 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-25 10:18:12,459 - INFO - Attempting to download video: 9jeuJA2QuHw
+2025-07-25 11:39:30,290 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-25 11:39:30,290 - INFO - Script started.
+2025-07-25 11:39:30,324 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-25 11:39:30,628 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-25 11:39:31,019 - INFO - Attempting to download video: 9jeuJA2QuHw
+2025-07-25 11:39:43,955 - INFO - Attempting to download video: MRvX5hd9RSg
+2025-07-25 11:39:56,190 - INFO - Attempting to download video: _P2rWmJEL4s
+2025-07-25 11:40:09,799 - INFO - Attempting to download video: 7lJZo51mLRU
+2025-07-25 11:40:21,577 - INFO - Attempting to download video: GPmWa5OgJSc
+2025-07-25 11:40:35,684 - INFO - Attempting to download video: zXzHlqLeBQo
+2025-07-25 11:40:48,333 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-25 11:40:49,355 - INFO - Attempting to download video: ssYg2B4wzaw
+2025-07-25 11:41:02,582 - INFO - Attempting to download video: ZILhL_5nvyM
+2025-07-25 11:41:14,640 - INFO - Attempting to download video: LC-cUF-kLr8
+2025-07-25 11:41:27,369 - INFO - Attempting to download video: y-QpiVosGv4
+2025-07-25 11:41:38,969 - INFO - Processing channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-25 11:41:39,525 - INFO - Processing channel: UCGglb26hdG81eW08n4dagUw
+2025-07-25 11:41:39,929 - INFO - Attempting to download video: x6CTNFTLns8
+2025-07-25 11:42:20,029 - INFO - Video x6CTNFTLns8 is longer than 1 minute (1070.928s), deleting.
+2025-07-25 11:42:20,046 - INFO - Attempting to download video: y8130oX9VRM
+2025-07-25 11:42:34,634 - INFO - Video y8130oX9VRM is longer than 1 minute (93.184s), deleting.
+2025-07-25 11:42:34,637 - INFO - Processing channel: UCqlRE8sYdSeijg83yIDpq2w
+2025-07-25 11:42:35,636 - INFO - Attempting to download video: YCBYTTLM4zc
+2025-07-25 11:43:40,660 - INFO - Video YCBYTTLM4zc is longer than 1 minute (1046.477s), deleting.
+2025-07-25 11:43:40,691 - INFO - Processing channel: UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-25 11:43:40,924 - INFO - Attempting to download video: T0HP7omFo58
+2025-07-25 11:44:36,687 - INFO - Video T0HP7omFo58 is longer than 1 minute (1616.179s), deleting.
+2025-07-25 11:44:36,709 - INFO - Processing channel: UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-25 11:44:37,651 - INFO - Attempting to download video: wsScRdsTIBg
+2025-07-25 11:44:53,174 - INFO - Video wsScRdsTIBg is longer than 1 minute (131.285612s), deleting.
+2025-07-25 11:44:53,176 - INFO - Attempting to download video: 1YI22TtC8T0
+2025-07-25 11:45:09,231 - INFO - Attempting to download video: DgadQ8aAfoc
+2025-07-25 11:45:26,009 - INFO - Video DgadQ8aAfoc is longer than 1 minute (117.547s), deleting.
+2025-07-25 11:45:26,012 - INFO - Attempting to download video: lnapf1b6tts
+2025-07-25 11:45:42,797 - INFO - Video lnapf1b6tts is longer than 1 minute (293.035807s), deleting.
+2025-07-25 11:45:42,800 - INFO - Attempting to download video: wQwXxd1FSU4
+2025-07-25 11:46:30,421 - INFO - Video wQwXxd1FSU4 is longer than 1 minute (886.027s), deleting.
+2025-07-25 11:46:30,434 - INFO - Attempting to download video: ZiroVq2qCHU
+2025-07-25 11:46:53,049 - INFO - Video ZiroVq2qCHU is longer than 1 minute (89.728s), deleting.
+2025-07-25 11:46:53,053 - INFO - Attempting to download video: 7hdR7b3aq04
+2025-07-25 11:47:15,355 - INFO - Video 7hdR7b3aq04 is longer than 1 minute (85.845s), deleting.
+2025-07-25 11:47:15,357 - INFO - Attempting to download video: _FrCVcDJXrI
+2025-07-25 11:48:57,537 - INFO - Video _FrCVcDJXrI is longer than 1 minute (2576.44s), deleting.
+2025-07-25 11:48:57,568 - INFO - Attempting to download video: iLv9o3U14vE
+2025-07-25 11:50:20,544 - INFO - Video iLv9o3U14vE is longer than 1 minute (2489.69s), deleting.
+2025-07-25 11:50:20,654 - INFO - Processing channel: UCT4kJCZyg26egbPAuJVj2kA
+2025-07-25 11:50:21,685 - INFO - Attempting to download video: 5QN-McCK1WI
+2025-07-25 11:50:43,428 - INFO - Processing channel: UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-25 11:50:44,540 - INFO - Attempting to download video: 6FSih5a5aIA
+2025-07-25 11:52:31,009 - INFO - Video 6FSih5a5aIA is longer than 1 minute (2449.914s), deleting.
+2025-07-25 11:52:31,127 - INFO - Processing channel: UC9jY5IcAA99wX8MZQ9K9r-Q
+2025-07-25 11:52:32,139 - INFO - Attempting to download video: fi_hkHpdfoE
+2025-07-25 11:53:39,662 - INFO - Video fi_hkHpdfoE is longer than 1 minute (1613.23s), deleting.
+2025-07-25 11:53:39,730 - INFO - Attempting to download video: XwQpoWvNZk0
+2025-07-25 11:57:23,872 - INFO - Video XwQpoWvNZk0 is longer than 1 minute (9049.930859s), deleting.
+2025-07-25 11:57:24,020 - INFO - Processing channel: UCfQk5qGOEO5cPPDFlQe2lFQ
+2025-07-25 11:57:24,424 - INFO - Attempting to download video: Ge0uE9pmNIk
+2025-07-25 11:59:00,231 - INFO - Video Ge0uE9pmNIk is longer than 1 minute (2404.032s), deleting.
+2025-07-25 11:59:00,268 - INFO - Processing channel: UC12gqdHGgjPHhUSL97JnzOw
+2025-07-25 11:59:01,245 - INFO - Processing channel: UCYloxfuc3XHk8OH5wbjWqqw
+2025-07-25 11:59:02,371 - INFO - Attempting to download video: 8UzoAj7DE3M
+2025-07-25 11:59:52,028 - INFO - Video 8UzoAj7DE3M is longer than 1 minute (726.158s), deleting.
+2025-07-25 11:59:52,048 - INFO - Processing channel: UCzB7zFhM1jLQdV0A-iZtZqg
+2025-07-25 11:59:53,091 - INFO - Processing channel: UC936KXo1Dh7FfO-O7YhtSGQ
+2025-07-25 11:59:54,000 - ERROR - Failed fetching feed for UC936KXo1Dh7FfO-O7YhtSGQ: HTTP Error 404: Not Found
+2025-07-25 11:59:54,000 - INFO - Processing channel: UCnw3tgWDG1CjN6Q9mFxLwxg
+2025-07-25 11:59:55,002 - ERROR - Failed fetching feed for UCnw3tgWDG1CjN6Q9mFxLwxg: HTTP Error 404: Not Found
+2025-07-25 11:59:55,002 - INFO - Processing channel: UCsBjURrPoezykLs9EqgamOA
+2025-07-25 11:59:56,042 - INFO - Attempting to download video: -w53i6Ae-YM
+2025-07-25 12:00:19,525 - INFO - Video -w53i6Ae-YM is longer than 1 minute (243.392s), deleting.
+2025-07-25 12:00:19,530 - INFO - Processing channel: UCmFozxZBUWtbkCvs_aSCU5w
+2025-07-25 12:00:21,012 - ERROR - Failed fetching feed for UCmFozxZBUWtbkCvs_aSCU5w: HTTP Error 404: Not Found
+2025-07-25 12:00:21,012 - INFO - Processing channel: UCPhM8T8FgRiPm6UacVmKxZw
+2025-07-25 12:00:22,444 - ERROR - Failed fetching feed for UCPhM8T8FgRiPm6UacVmKxZw: HTTP Error 404: Not Found
+2025-07-25 12:00:22,445 - INFO - Processing channel: UCMzbNvfJ4osPOxbjI0K5BeA
+2025-07-25 12:00:24,026 - INFO - Script finished.
+2025-07-25 21:36:58,461 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-25 21:36:58,482 - INFO - YouTube watchlist script started.
+2025-07-25 21:36:58,638 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-25 21:36:58,640 - INFO - Found 21 channels.
+2025-07-25 21:36:58,640 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-25 21:36:58,641 - INFO - Loaded 54 video IDs from cache.
+2025-07-25 21:36:58,641 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-25 21:36:58,641 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-25 21:36:58,641 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-25 21:36:59,774 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-25 21:36:59,775 - INFO - Parsing XML feed.
+2025-07-25 21:36:59,777 - INFO - Found 15 videos in feed.
+2025-07-25 21:36:59,777 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-25 21:36:59,777 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-25 21:36:59,778 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-26 15:23:53,742 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-26 15:23:53,743 - INFO - YouTube watchlist script started.
+2025-07-26 15:23:53,928 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-26 15:23:53,929 - INFO - Found 21 channels.
+2025-07-26 15:23:53,930 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-26 15:23:53,931 - INFO - Loaded 54 video IDs from cache.
+2025-07-26 15:23:53,931 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 15:23:53,932 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 15:23:53,932 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 15:23:54,228 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-26 15:23:54,229 - INFO - Parsing XML feed.
+2025-07-26 15:23:54,231 - INFO - Found 15 videos in feed.
+2025-07-26 15:23:54,231 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-26 15:23:54,231 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-26 15:23:54,232 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-26 18:20:28,835 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-26 18:20:28,836 - INFO - YouTube watchlist script started.
+2025-07-26 18:20:29,000 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-26 18:20:29,002 - INFO - Found 21 channels.
+2025-07-26 18:20:29,002 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-26 18:20:29,003 - INFO - Loaded 54 video IDs from cache.
+2025-07-26 18:20:29,003 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 18:20:29,003 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 18:20:29,003 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 18:20:30,088 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-26 18:20:30,088 - INFO - Parsing XML feed.
+2025-07-26 18:20:30,090 - INFO - Found 15 videos in feed.
+2025-07-26 18:20:30,091 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-26 18:20:30,091 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-26 18:20:30,091 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-26 21:22:41,767 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-26 21:22:41,769 - INFO - YouTube watchlist script started.
+2025-07-26 21:22:41,918 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-26 21:22:41,921 - INFO - Found 21 channels.
+2025-07-26 21:22:41,922 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-26 21:22:41,924 - INFO - Loaded 54 video IDs from cache.
+2025-07-26 21:22:41,924 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 21:22:41,924 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 21:22:41,924 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-26 21:22:42,322 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-26 21:22:42,324 - INFO - Parsing XML feed.
+2025-07-26 21:22:42,326 - INFO - Found 15 videos in feed.
+2025-07-26 21:22:42,326 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-26 21:22:42,326 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-26 21:22:42,327 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 10:39:28,059 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 10:39:28,062 - INFO - YouTube watchlist script started.
+2025-07-27 10:39:28,241 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 10:39:28,242 - INFO - Found 21 channels.
+2025-07-27 10:39:28,243 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 10:39:28,244 - INFO - Loaded 54 video IDs from cache.
+2025-07-27 10:39:28,244 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 10:39:28,244 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 10:39:28,244 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 10:39:28,584 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 10:39:28,585 - INFO - Parsing XML feed.
+2025-07-27 10:39:28,587 - INFO - Found 15 videos in feed.
+2025-07-27 10:39:28,587 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 10:39:28,588 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-27 10:39:28,588 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 18:03:57,474 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 18:03:57,475 - INFO - YouTube watchlist script started.
+2025-07-27 18:03:57,595 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 18:03:57,596 - INFO - Found 21 channels.
+2025-07-27 18:03:57,596 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:03:57,597 - INFO - Loaded 54 video IDs from cache.
+2025-07-27 18:03:57,597 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:03:57,597 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:03:57,597 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:03:58,107 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:03:58,107 - INFO - Parsing XML feed.
+2025-07-27 18:03:58,109 - INFO - Found 15 videos in feed.
+2025-07-27 18:03:58,110 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:03:58,110 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-27 18:03:58,111 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 18:04:52,747 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4
+2025-07-27 18:04:53,822 - INFO - Duration of /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4 is 792.869 seconds.
+2025-07-27 18:04:53,822 - INFO - Video 9EH0MJ4Ob2k is longer than 1 minute (792.869s), deleting.
+2025-07-27 18:04:53,841 - INFO - Deleted video file: /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4
+2025-07-27 18:04:53,841 - INFO - Video Ak85pCY5hqQ is not recent. Skipping.
+2025-07-27 18:04:53,842 - INFO - Video fdkhcV23mLg is not recent. Skipping.
+2025-07-27 18:04:53,842 - INFO - Video EC3-tAVi7lc is not recent. Skipping.
+2025-07-27 18:04:53,842 - INFO - Video h4uKhOptkjs is not recent. Skipping.
+2025-07-27 18:04:53,842 - INFO - Video 93ufLfOhax4 is not recent. Skipping.
+2025-07-27 18:04:53,842 - INFO - Video heHolXKYFE8 is not recent. Skipping.
+2025-07-27 18:04:53,842 - INFO - Video gc_NZT2OZbw is not recent. Skipping.
+2025-07-27 18:04:53,843 - INFO - Video ts3oxb-qFg0 is not recent. Skipping.
+2025-07-27 18:04:53,843 - INFO - Video Mo3llzKdAD0 is not recent. Skipping.
+2025-07-27 18:04:53,843 - INFO - Video h9-7SksG23s is not recent. Skipping.
+2025-07-27 18:04:53,843 - INFO - Video edxK200E1z8 is not recent. Skipping.
+2025-07-27 18:04:53,843 - INFO - Video 7bRQroP3BgA is not recent. Skipping.
+2025-07-27 18:04:53,843 - INFO - Video A1hTo7EFDbg is not recent. Skipping.
+2025-07-27 18:04:53,844 - INFO - Video X64RXefS89o is not recent. Skipping.
+2025-07-27 18:04:53,844 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:04:53,844 - INFO - Fetching feed for channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:04:53,844 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:04:54,819 - INFO - Successfully fetched feed for UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:04:54,819 - INFO - Parsing XML feed.
+2025-07-27 18:04:54,821 - INFO - Found 15 videos in feed.
+2025-07-27 18:04:54,822 - INFO - Found 15 videos in the feed for channel UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:04:54,822 - INFO - Found new recent video: zAZs7ewE53Y
+2025-07-27 18:04:54,822 - INFO - Attempting to download video: zAZs7ewE53Y
+2025-07-27 18:05:16,541 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/The Things I Enjoy The Most [zAZs7ewE53Y].mp4
+2025-07-27 18:05:17,044 - INFO - Duration of /home/mehmet/yt-watchlist/The Things I Enjoy The Most [zAZs7ewE53Y].mp4 is 51.499 seconds.
+2025-07-27 18:05:17,044 - INFO - Appending video ID zAZs7ewE53Y to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:05:17,045 - INFO - Added video zAZs7ewE53Y to cache.
+2025-07-27 18:05:17,045 - INFO - Found new recent video: bepaaRPZO4M
+2025-07-27 18:05:17,046 - INFO - Attempting to download video: bepaaRPZO4M
+2025-07-27 18:05:38,419 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Can You Be Friends With Your Employees？ [bepaaRPZO4M].mp4
+2025-07-27 18:05:39,540 - INFO - Duration of /home/mehmet/yt-watchlist/Can You Be Friends With Your Employees？ [bepaaRPZO4M].mp4 is 38.763 seconds.
+2025-07-27 18:05:39,541 - INFO - Appending video ID bepaaRPZO4M to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:05:39,541 - INFO - Added video bepaaRPZO4M to cache.
+2025-07-27 18:05:39,541 - INFO - Found new recent video: prj1bnTAM8A
+2025-07-27 18:05:39,542 - INFO - Attempting to download video: prj1bnTAM8A
+2025-07-27 18:08:06,395 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 18:08:06,396 - INFO - YouTube watchlist script started.
+2025-07-27 18:08:06,433 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 18:08:06,434 - INFO - Found 21 channels.
+2025-07-27 18:08:06,434 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:08:06,434 - INFO - Loaded 56 video IDs from cache.
+2025-07-27 18:08:06,434 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:08:06,434 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:08:06,435 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:08:07,532 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:08:07,532 - INFO - Parsing XML feed.
+2025-07-27 18:08:07,535 - INFO - Found 15 videos in feed.
+2025-07-27 18:08:07,535 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:08:07,536 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-27 18:08:07,536 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 18:11:07,302 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 18:11:07,311 - INFO - YouTube watchlist script started.
+2025-07-27 18:11:07,610 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 18:11:07,611 - INFO - Found 21 channels.
+2025-07-27 18:11:07,613 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:11:07,616 - INFO - Loaded 56 video IDs from cache.
+2025-07-27 18:11:07,639 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:11:07,642 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:11:07,646 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:11:08,359 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:11:08,367 - INFO - Parsing XML feed.
+2025-07-27 18:11:08,378 - INFO - Found 15 videos in feed.
+2025-07-27 18:11:08,380 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:11:08,381 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-27 18:11:08,382 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 18:12:01,103 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4
+2025-07-27 18:12:03,368 - INFO - Duration of /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4 is 792.869 seconds.
+2025-07-27 18:12:03,374 - INFO - Video 9EH0MJ4Ob2k is longer than 1 minute (792.869s), deleting.
+2025-07-27 18:12:03,442 - INFO - Deleted video file: /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4
+2025-07-27 18:12:03,442 - INFO - Video Ak85pCY5hqQ is not recent. Skipping.
+2025-07-27 18:12:03,442 - INFO - Video fdkhcV23mLg is not recent. Skipping.
+2025-07-27 18:12:03,442 - INFO - Video EC3-tAVi7lc is not recent. Skipping.
+2025-07-27 18:12:03,443 - INFO - Video h4uKhOptkjs is not recent. Skipping.
+2025-07-27 18:12:03,443 - INFO - Video 93ufLfOhax4 is not recent. Skipping.
+2025-07-27 18:12:03,443 - INFO - Video heHolXKYFE8 is not recent. Skipping.
+2025-07-27 18:12:03,443 - INFO - Video gc_NZT2OZbw is not recent. Skipping.
+2025-07-27 18:12:03,443 - INFO - Video ts3oxb-qFg0 is not recent. Skipping.
+2025-07-27 18:12:03,444 - INFO - Video Mo3llzKdAD0 is not recent. Skipping.
+2025-07-27 18:12:03,444 - INFO - Video h9-7SksG23s is not recent. Skipping.
+2025-07-27 18:12:03,444 - INFO - Video edxK200E1z8 is not recent. Skipping.
+2025-07-27 18:12:03,444 - INFO - Video 7bRQroP3BgA is not recent. Skipping.
+2025-07-27 18:12:03,445 - INFO - Video A1hTo7EFDbg is not recent. Skipping.
+2025-07-27 18:12:03,445 - INFO - Video X64RXefS89o is not recent. Skipping.
+2025-07-27 18:12:03,445 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:12:03,445 - INFO - Fetching feed for channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:12:03,445 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:12:04,469 - INFO - Successfully fetched feed for UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:12:04,470 - INFO - Parsing XML feed.
+2025-07-27 18:12:04,473 - INFO - Found 15 videos in feed.
+2025-07-27 18:12:04,474 - INFO - Found 15 videos in the feed for channel UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:12:04,474 - INFO - Video zAZs7ewE53Y already in cache. Skipping.
+2025-07-27 18:12:04,474 - INFO - Video bepaaRPZO4M already in cache. Skipping.
+2025-07-27 18:12:04,475 - INFO - Found new recent video: prj1bnTAM8A
+2025-07-27 18:12:04,475 - INFO - Attempting to download video: prj1bnTAM8A
+2025-07-27 18:13:47,723 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 18:13:47,724 - INFO - YouTube watchlist script started.
+2025-07-27 18:13:47,945 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 18:13:47,947 - INFO - Found 21 channels.
+2025-07-27 18:13:47,950 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:13:47,952 - INFO - Loaded 56 video IDs from cache.
+2025-07-27 18:13:47,954 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:13:47,955 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:13:47,956 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:13:48,406 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:13:48,406 - INFO - Parsing XML feed.
+2025-07-27 18:13:48,410 - INFO - Found 15 videos in feed.
+2025-07-27 18:13:48,410 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:13:48,411 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-27 18:13:48,411 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 18:14:36,898 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4
+2025-07-27 18:14:39,580 - INFO - Duration of /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4 is 792.869 seconds.
+2025-07-27 18:14:39,581 - INFO - Appending video ID 9EH0MJ4Ob2k to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:14:39,583 - INFO - Added video 9EH0MJ4Ob2k to cache.
+2025-07-27 18:14:39,585 - INFO - Video Ak85pCY5hqQ is not recent. Skipping.
+2025-07-27 18:14:39,585 - INFO - Video fdkhcV23mLg is not recent. Skipping.
+2025-07-27 18:14:39,585 - INFO - Video EC3-tAVi7lc is not recent. Skipping.
+2025-07-27 18:14:39,586 - INFO - Video h4uKhOptkjs is not recent. Skipping.
+2025-07-27 18:14:39,586 - INFO - Video 93ufLfOhax4 is not recent. Skipping.
+2025-07-27 18:14:39,586 - INFO - Video heHolXKYFE8 is not recent. Skipping.
+2025-07-27 18:14:39,586 - INFO - Video gc_NZT2OZbw is not recent. Skipping.
+2025-07-27 18:14:39,587 - INFO - Video ts3oxb-qFg0 is not recent. Skipping.
+2025-07-27 18:14:39,587 - INFO - Video Mo3llzKdAD0 is not recent. Skipping.
+2025-07-27 18:14:39,588 - INFO - Video h9-7SksG23s is not recent. Skipping.
+2025-07-27 18:14:39,588 - INFO - Video edxK200E1z8 is not recent. Skipping.
+2025-07-27 18:14:39,590 - INFO - Video 7bRQroP3BgA is not recent. Skipping.
+2025-07-27 18:14:39,590 - INFO - Video A1hTo7EFDbg is not recent. Skipping.
+2025-07-27 18:14:39,591 - INFO - Video X64RXefS89o is not recent. Skipping.
+2025-07-27 18:14:39,591 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:14:39,591 - INFO - Fetching feed for channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:14:39,591 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:14:39,781 - INFO - Successfully fetched feed for UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:14:39,782 - INFO - Parsing XML feed.
+2025-07-27 18:14:39,785 - INFO - Found 15 videos in feed.
+2025-07-27 18:14:39,786 - INFO - Found 15 videos in the feed for channel UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:14:39,787 - INFO - Video zAZs7ewE53Y already in cache. Skipping.
+2025-07-27 18:14:39,787 - INFO - Video bepaaRPZO4M already in cache. Skipping.
+2025-07-27 18:14:39,787 - INFO - Found new recent video: prj1bnTAM8A
+2025-07-27 18:14:39,787 - INFO - Attempting to download video: prj1bnTAM8A
+2025-07-27 18:15:57,774 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Your biggest advantage is no one knows who you are [prj1bnTAM8A].mp4
+2025-07-27 18:15:59,001 - INFO - Duration of /home/mehmet/yt-watchlist/Your biggest advantage is no one knows who you are [prj1bnTAM8A].mp4 is 2241.887 seconds.
+2025-07-27 18:15:59,004 - INFO - Appending video ID prj1bnTAM8A to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:15:59,008 - INFO - Added video prj1bnTAM8A to cache.
+2025-07-27 18:15:59,012 - INFO - Found new recent video: 3TUv15s3Y_Y
+2025-07-27 18:15:59,017 - INFO - Attempting to download video: 3TUv15s3Y_Y
+2025-07-27 18:16:26,982 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Should She Follow Her Passion？ [3TUv15s3Y_Y].mp4
+2025-07-27 18:16:27,433 - INFO - Duration of /home/mehmet/yt-watchlist/Should She Follow Her Passion？ [3TUv15s3Y_Y].mp4 is 90.453 seconds.
+2025-07-27 18:16:27,436 - INFO - Appending video ID 3TUv15s3Y_Y to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:16:27,437 - INFO - Added video 3TUv15s3Y_Y to cache.
+2025-07-27 18:16:27,437 - INFO - Found new recent video: xwADKYeCMwI
+2025-07-27 18:16:27,437 - INFO - Attempting to download video: xwADKYeCMwI
+2025-07-27 18:16:40,730 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/When I Die.. [xwADKYeCMwI].mp4
+2025-07-27 18:16:41,134 - INFO - Duration of /home/mehmet/yt-watchlist/When I Die.. [xwADKYeCMwI].mp4 is 22.976 seconds.
+2025-07-27 18:16:41,134 - INFO - Video xwADKYeCMwI is shorter than 1 minute (22.976s), deleting.
+2025-07-27 18:16:41,135 - INFO - Deleted video file: /home/mehmet/yt-watchlist/When I Die.. [xwADKYeCMwI].mp4
+2025-07-27 18:16:41,135 - INFO - Found new recent video: IlI3o0ves14
+2025-07-27 18:16:41,136 - INFO - Attempting to download video: IlI3o0ves14
+2025-07-27 18:16:55,045 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/So What？ [IlI3o0ves14].mp4
+2025-07-27 18:16:55,502 - INFO - Duration of /home/mehmet/yt-watchlist/So What？ [IlI3o0ves14].mp4 is 22.592 seconds.
+2025-07-27 18:16:55,503 - INFO - Video IlI3o0ves14 is shorter than 1 minute (22.592s), deleting.
+2025-07-27 18:16:55,505 - INFO - Deleted video file: /home/mehmet/yt-watchlist/So What？ [IlI3o0ves14].mp4
+2025-07-27 18:16:55,505 - INFO - Found new recent video: kMtoC8RR9RI
+2025-07-27 18:16:55,506 - INFO - Attempting to download video: kMtoC8RR9RI
+2025-07-27 18:17:14,167 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/You Can Sell Your Guarantee [kMtoC8RR9RI].mp4
+2025-07-27 18:17:15,378 - INFO - Duration of /home/mehmet/yt-watchlist/You Can Sell Your Guarantee [kMtoC8RR9RI].mp4 is 13.653 seconds.
+2025-07-27 18:17:15,378 - INFO - Video kMtoC8RR9RI is shorter than 1 minute (13.653s), deleting.
+2025-07-27 18:17:15,379 - INFO - Deleted video file: /home/mehmet/yt-watchlist/You Can Sell Your Guarantee [kMtoC8RR9RI].mp4
+2025-07-27 18:17:15,379 - INFO - Video 9jeuJA2QuHw already in cache. Skipping.
+2025-07-27 18:17:15,379 - INFO - Video MRvX5hd9RSg already in cache. Skipping.
+2025-07-27 18:17:15,380 - INFO - Video _P2rWmJEL4s already in cache. Skipping.
+2025-07-27 18:17:15,380 - INFO - Video 7lJZo51mLRU already in cache. Skipping.
+2025-07-27 18:17:15,380 - INFO - Video GPmWa5OgJSc already in cache. Skipping.
+2025-07-27 18:17:15,380 - INFO - Video zXzHlqLeBQo already in cache. Skipping.
+2025-07-27 18:17:15,380 - INFO - Video efWYrF1NWVE already in cache. Skipping.
+2025-07-27 18:17:15,380 - INFO - Video s-MOFv7WO6g already in cache. Skipping.
+2025-07-27 18:17:15,382 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-27 18:17:15,382 - INFO - Fetching feed for channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-27 18:17:15,383 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCxCcu9pet4dljrBLf8R5nwA
+2025-07-27 18:17:15,570 - INFO - Successfully fetched feed for UCxCcu9pet4dljrBLf8R5nwA.
+2025-07-27 18:17:15,570 - INFO - Parsing XML feed.
+2025-07-27 18:17:15,573 - INFO - Found 15 videos in feed.
+2025-07-27 18:17:15,575 - INFO - Found 15 videos in the feed for channel UCxCcu9pet4dljrBLf8R5nwA.
+2025-07-27 18:17:15,576 - INFO - Found new recent video: 85GsjmtJ__Y
+2025-07-27 18:17:15,576 - INFO - Attempting to download video: 85GsjmtJ__Y
+2025-07-27 18:17:36,738 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/How Alex and I got through our hardest years [85GsjmtJ__Y].mp4
+2025-07-27 18:17:37,494 - INFO - Duration of /home/mehmet/yt-watchlist/How Alex and I got through our hardest years [85GsjmtJ__Y].mp4 is 32.875 seconds.
+2025-07-27 18:17:37,494 - INFO - Video 85GsjmtJ__Y is shorter than 1 minute (32.875s), deleting.
+2025-07-27 18:17:37,495 - INFO - Deleted video file: /home/mehmet/yt-watchlist/How Alex and I got through our hardest years [85GsjmtJ__Y].mp4
+2025-07-27 18:17:37,496 - INFO - Found new recent video: D4mQbIFL2FM
+2025-07-27 18:17:37,496 - INFO - Attempting to download video: D4mQbIFL2FM
+2025-07-27 18:17:52,064 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/My favorite sales trick… [D4mQbIFL2FM].mp4
+2025-07-27 18:17:52,614 - INFO - Duration of /home/mehmet/yt-watchlist/My favorite sales trick… [D4mQbIFL2FM].mp4 is 19.285 seconds.
+2025-07-27 18:17:52,616 - INFO - Video D4mQbIFL2FM is shorter than 1 minute (19.285s), deleting.
+2025-07-27 18:17:52,617 - INFO - Deleted video file: /home/mehmet/yt-watchlist/My favorite sales trick… [D4mQbIFL2FM].mp4
+2025-07-27 18:17:52,618 - INFO - Found new recent video: SHvvkINqMPg
+2025-07-27 18:17:52,619 - INFO - Attempting to download video: SHvvkINqMPg
+2025-07-27 18:18:14,252 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 18:18:14,253 - INFO - YouTube watchlist script started.
+2025-07-27 18:18:14,340 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 18:18:14,342 - INFO - Found 21 channels.
+2025-07-27 18:18:14,344 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:18:14,344 - INFO - Loaded 59 video IDs from cache.
+2025-07-27 18:18:14,345 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:18:14,345 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:18:14,345 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:18:14,635 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:18:14,636 - INFO - Parsing XML feed.
+2025-07-27 18:18:14,639 - INFO - Found 15 videos in feed.
+2025-07-27 18:18:14,640 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:18:14,640 - INFO - Video 9EH0MJ4Ob2k already in cache. Skipping.
+2025-07-27 18:18:14,640 - INFO - Video Ak85pCY5hqQ is not recent. Skipping.
+2025-07-27 18:18:14,643 - INFO - Video fdkhcV23mLg is not recent. Skipping.
+2025-07-27 18:18:14,643 - INFO - Video EC3-tAVi7lc is not recent. Skipping.
+2025-07-27 18:18:14,644 - INFO - Video h4uKhOptkjs is not recent. Skipping.
+2025-07-27 18:18:14,644 - INFO - Video 93ufLfOhax4 is not recent. Skipping.
+2025-07-27 18:18:14,644 - INFO - Video heHolXKYFE8 is not recent. Skipping.
+2025-07-27 18:18:14,644 - INFO - Video gc_NZT2OZbw is not recent. Skipping.
+2025-07-27 18:18:14,644 - INFO - Video ts3oxb-qFg0 is not recent. Skipping.
+2025-07-27 18:18:14,645 - INFO - Video Mo3llzKdAD0 is not recent. Skipping.
+2025-07-27 18:18:14,645 - INFO - Video h9-7SksG23s is not recent. Skipping.
+2025-07-27 18:18:14,645 - INFO - Video edxK200E1z8 is not recent. Skipping.
+2025-07-27 18:18:14,645 - INFO - Video 7bRQroP3BgA is not recent. Skipping.
+2025-07-27 18:18:14,645 - INFO - Video A1hTo7EFDbg is not recent. Skipping.
+2025-07-27 18:18:14,645 - INFO - Video X64RXefS89o is not recent. Skipping.
+2025-07-27 18:18:14,646 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:18:14,646 - INFO - Fetching feed for channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:18:14,646 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:18:14,845 - INFO - Successfully fetched feed for UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:18:14,846 - INFO - Parsing XML feed.
+2025-07-27 18:18:14,848 - INFO - Found 15 videos in feed.
+2025-07-27 18:18:14,848 - INFO - Found 15 videos in the feed for channel UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:18:14,849 - INFO - Video zAZs7ewE53Y already in cache. Skipping.
+2025-07-27 18:18:14,849 - INFO - Video bepaaRPZO4M already in cache. Skipping.
+2025-07-27 18:18:14,849 - INFO - Video prj1bnTAM8A already in cache. Skipping.
+2025-07-27 18:18:14,849 - INFO - Video 3TUv15s3Y_Y already in cache. Skipping.
+2025-07-27 18:18:14,849 - INFO - Found new recent video: xwADKYeCMwI
+2025-07-27 18:18:14,850 - INFO - Attempting to download video: xwADKYeCMwI
+2025-07-27 18:18:58,629 - INFO - Loaded environment variables from /home/mehmet/Proyectos/TANZIMAT/scripts/tanzimat.env
+2025-07-27 18:18:58,630 - INFO - YouTube watchlist script started.
+2025-07-27 18:18:58,664 - INFO - Reading channels from /home/mehmet/Proyectos/TANZIMAT/scripts/channels.txt
+2025-07-27 18:18:58,665 - INFO - Found 21 channels.
+2025-07-27 18:18:58,665 - INFO - Loading cache from /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:18:58,666 - INFO - Loaded 0 video IDs from cache.
+2025-07-27 18:18:58,666 - INFO - Processing channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:18:58,666 - INFO - Fetching feed for channel: UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:18:58,667 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A
+2025-07-27 18:18:58,973 - INFO - Successfully fetched feed for UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:18:58,973 - INFO - Parsing XML feed.
+2025-07-27 18:18:58,977 - INFO - Found 15 videos in feed.
+2025-07-27 18:18:58,977 - INFO - Found 15 videos in the feed for channel UCK1XzxcKXB_v_dcw_tflC1A.
+2025-07-27 18:18:58,978 - INFO - Found new recent video: 9EH0MJ4Ob2k
+2025-07-27 18:18:58,979 - INFO - Attempting to download video: 9EH0MJ4Ob2k
+2025-07-27 18:19:38,507 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4
+2025-07-27 18:19:39,736 - INFO - Duration of /home/mehmet/yt-watchlist/Why Russia's Area 51 Is Scarier [9EH0MJ4Ob2k].mp4 is 792.869 seconds.
+2025-07-27 18:19:39,737 - INFO - Appending video ID 9EH0MJ4Ob2k to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:19:39,737 - INFO - Added video 9EH0MJ4Ob2k to cache.
+2025-07-27 18:19:39,738 - INFO - Video Ak85pCY5hqQ is not recent. Skipping.
+2025-07-27 18:19:39,739 - INFO - Video fdkhcV23mLg is not recent. Skipping.
+2025-07-27 18:19:39,743 - INFO - Video EC3-tAVi7lc is not recent. Skipping.
+2025-07-27 18:19:39,744 - INFO - Video h4uKhOptkjs is not recent. Skipping.
+2025-07-27 18:19:39,745 - INFO - Video 93ufLfOhax4 is not recent. Skipping.
+2025-07-27 18:19:39,746 - INFO - Video heHolXKYFE8 is not recent. Skipping.
+2025-07-27 18:19:39,747 - INFO - Video gc_NZT2OZbw is not recent. Skipping.
+2025-07-27 18:19:39,747 - INFO - Video ts3oxb-qFg0 is not recent. Skipping.
+2025-07-27 18:19:39,748 - INFO - Video Mo3llzKdAD0 is not recent. Skipping.
+2025-07-27 18:19:39,749 - INFO - Video h9-7SksG23s is not recent. Skipping.
+2025-07-27 18:19:39,750 - INFO - Video edxK200E1z8 is not recent. Skipping.
+2025-07-27 18:19:39,751 - INFO - Video 7bRQroP3BgA is not recent. Skipping.
+2025-07-27 18:19:39,752 - INFO - Video A1hTo7EFDbg is not recent. Skipping.
+2025-07-27 18:19:39,758 - INFO - Video X64RXefS89o is not recent. Skipping.
+2025-07-27 18:19:39,766 - INFO - Processing channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:19:39,769 - INFO - Fetching feed for channel: UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:19:39,770 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCUyDOdBWhC1MCxEjC46d-zw
+2025-07-27 18:19:39,975 - INFO - Successfully fetched feed for UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:19:39,976 - INFO - Parsing XML feed.
+2025-07-27 18:19:39,986 - INFO - Found 15 videos in feed.
+2025-07-27 18:19:39,991 - INFO - Found 15 videos in the feed for channel UCUyDOdBWhC1MCxEjC46d-zw.
+2025-07-27 18:19:39,992 - INFO - Found new recent video: zAZs7ewE53Y
+2025-07-27 18:19:39,994 - INFO - Attempting to download video: zAZs7ewE53Y
+2025-07-27 18:20:06,431 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/The Things I Enjoy The Most [zAZs7ewE53Y].mp4
+2025-07-27 18:20:07,236 - INFO - Duration of /home/mehmet/yt-watchlist/The Things I Enjoy The Most [zAZs7ewE53Y].mp4 is 51.499 seconds.
+2025-07-27 18:20:07,236 - INFO - Video zAZs7ewE53Y is shorter than 1 minute (51.499s), deleting.
+2025-07-27 18:20:07,239 - INFO - Deleted video file: /home/mehmet/yt-watchlist/The Things I Enjoy The Most [zAZs7ewE53Y].mp4
+2025-07-27 18:20:07,239 - INFO - Found new recent video: bepaaRPZO4M
+2025-07-27 18:20:07,240 - INFO - Attempting to download video: bepaaRPZO4M
+2025-07-27 18:20:34,108 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Can You Be Friends With Your Employees？ [bepaaRPZO4M].mp4
+2025-07-27 18:20:35,593 - INFO - Duration of /home/mehmet/yt-watchlist/Can You Be Friends With Your Employees？ [bepaaRPZO4M].mp4 is 38.763 seconds.
+2025-07-27 18:20:35,596 - INFO - Video bepaaRPZO4M is shorter than 1 minute (38.763s), deleting.
+2025-07-27 18:20:35,597 - INFO - Deleted video file: /home/mehmet/yt-watchlist/Can You Be Friends With Your Employees？ [bepaaRPZO4M].mp4
+2025-07-27 18:20:35,600 - INFO - Found new recent video: prj1bnTAM8A
+2025-07-27 18:20:35,601 - INFO - Attempting to download video: prj1bnTAM8A
+2025-07-27 18:22:07,429 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Your biggest advantage is no one knows who you are [prj1bnTAM8A].mp4
+2025-07-27 18:22:08,548 - INFO - Duration of /home/mehmet/yt-watchlist/Your biggest advantage is no one knows who you are [prj1bnTAM8A].mp4 is 2241.887 seconds.
+2025-07-27 18:22:08,549 - INFO - Appending video ID prj1bnTAM8A to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:22:08,549 - INFO - Added video prj1bnTAM8A to cache.
+2025-07-27 18:22:08,550 - INFO - Found new recent video: 3TUv15s3Y_Y
+2025-07-27 18:22:08,550 - INFO - Attempting to download video: 3TUv15s3Y_Y
+2025-07-27 18:22:25,134 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Should She Follow Her Passion？ [3TUv15s3Y_Y].mp4
+2025-07-27 18:22:25,518 - INFO - Duration of /home/mehmet/yt-watchlist/Should She Follow Her Passion？ [3TUv15s3Y_Y].mp4 is 90.453 seconds.
+2025-07-27 18:22:25,519 - INFO - Appending video ID 3TUv15s3Y_Y to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:22:25,519 - INFO - Added video 3TUv15s3Y_Y to cache.
+2025-07-27 18:22:25,519 - INFO - Found new recent video: xwADKYeCMwI
+2025-07-27 18:22:25,520 - INFO - Attempting to download video: xwADKYeCMwI
+2025-07-27 18:22:38,153 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/When I Die.. [xwADKYeCMwI].mp4
+2025-07-27 18:22:38,525 - INFO - Duration of /home/mehmet/yt-watchlist/When I Die.. [xwADKYeCMwI].mp4 is 22.976 seconds.
+2025-07-27 18:22:38,525 - INFO - Video xwADKYeCMwI is shorter than 1 minute (22.976s), deleting.
+2025-07-27 18:22:38,526 - INFO - Deleted video file: /home/mehmet/yt-watchlist/When I Die.. [xwADKYeCMwI].mp4
+2025-07-27 18:22:38,526 - INFO - Found new recent video: IlI3o0ves14
+2025-07-27 18:22:38,527 - INFO - Attempting to download video: IlI3o0ves14
+2025-07-27 18:22:50,468 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/So What？ [IlI3o0ves14].mp4
+2025-07-27 18:22:50,858 - INFO - Duration of /home/mehmet/yt-watchlist/So What？ [IlI3o0ves14].mp4 is 22.592 seconds.
+2025-07-27 18:22:50,858 - INFO - Video IlI3o0ves14 is shorter than 1 minute (22.592s), deleting.
+2025-07-27 18:22:50,859 - INFO - Deleted video file: /home/mehmet/yt-watchlist/So What？ [IlI3o0ves14].mp4
+2025-07-27 18:22:50,859 - INFO - Found new recent video: kMtoC8RR9RI
+2025-07-27 18:22:50,859 - INFO - Attempting to download video: kMtoC8RR9RI
+2025-07-27 18:23:02,593 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/You Can Sell Your Guarantee [kMtoC8RR9RI].mp4
+2025-07-27 18:23:02,987 - INFO - Duration of /home/mehmet/yt-watchlist/You Can Sell Your Guarantee [kMtoC8RR9RI].mp4 is 13.653 seconds.
+2025-07-27 18:23:02,988 - INFO - Video kMtoC8RR9RI is shorter than 1 minute (13.653s), deleting.
+2025-07-27 18:23:02,988 - INFO - Deleted video file: /home/mehmet/yt-watchlist/You Can Sell Your Guarantee [kMtoC8RR9RI].mp4
+2025-07-27 18:23:02,988 - INFO - Found new recent video: 9jeuJA2QuHw
+2025-07-27 18:23:02,989 - INFO - Attempting to download video: 9jeuJA2QuHw
+2025-07-27 18:23:17,769 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Sales Close For Uncertain Buyers [9jeuJA2QuHw].mp4
+2025-07-27 18:23:18,362 - INFO - Duration of /home/mehmet/yt-watchlist/Sales Close For Uncertain Buyers [9jeuJA2QuHw].mp4 is 31.915 seconds.
+2025-07-27 18:23:18,362 - INFO - Video 9jeuJA2QuHw is shorter than 1 minute (31.915s), deleting.
+2025-07-27 18:23:18,364 - INFO - Deleted video file: /home/mehmet/yt-watchlist/Sales Close For Uncertain Buyers [9jeuJA2QuHw].mp4
+2025-07-27 18:23:18,364 - INFO - Found new recent video: MRvX5hd9RSg
+2025-07-27 18:23:18,365 - INFO - Attempting to download video: MRvX5hd9RSg
+2025-07-27 18:23:38,228 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/There's No ＂Perfect Partner＂ [MRvX5hd9RSg].mp4
+2025-07-27 18:23:38,866 - INFO - Duration of /home/mehmet/yt-watchlist/There's No ＂Perfect Partner＂ [MRvX5hd9RSg].mp4 is 52.523 seconds.
+2025-07-27 18:23:38,866 - INFO - Video MRvX5hd9RSg is shorter than 1 minute (52.523s), deleting.
+2025-07-27 18:23:38,868 - INFO - Deleted video file: /home/mehmet/yt-watchlist/There's No ＂Perfect Partner＂ [MRvX5hd9RSg].mp4
+2025-07-27 18:23:38,868 - INFO - Found new recent video: _P2rWmJEL4s
+2025-07-27 18:23:38,869 - INFO - Attempting to download video: _P2rWmJEL4s
+2025-07-27 18:23:59,462 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Closing 55% Of Leads [_P2rWmJEL4s].mp4
+2025-07-27 18:24:00,267 - INFO - Duration of /home/mehmet/yt-watchlist/Closing 55% Of Leads [_P2rWmJEL4s].mp4 is 32.619 seconds.
+2025-07-27 18:24:00,268 - INFO - Video _P2rWmJEL4s is shorter than 1 minute (32.619s), deleting.
+2025-07-27 18:24:00,269 - INFO - Deleted video file: /home/mehmet/yt-watchlist/Closing 55% Of Leads [_P2rWmJEL4s].mp4
+2025-07-27 18:24:00,269 - INFO - Video 7lJZo51mLRU is not recent. Skipping.
+2025-07-27 18:24:00,275 - INFO - Video GPmWa5OgJSc is not recent. Skipping.
+2025-07-27 18:24:00,275 - INFO - Video zXzHlqLeBQo is not recent. Skipping.
+2025-07-27 18:24:00,276 - INFO - Video efWYrF1NWVE is not recent. Skipping.
+2025-07-27 18:24:00,276 - INFO - Video s-MOFv7WO6g is not recent. Skipping.
+2025-07-27 18:24:00,276 - INFO - Processing channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-27 18:24:00,276 - INFO - Fetching feed for channel: UCxCcu9pet4dljrBLf8R5nwA
+2025-07-27 18:24:00,277 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCxCcu9pet4dljrBLf8R5nwA
+2025-07-27 18:24:00,557 - INFO - Successfully fetched feed for UCxCcu9pet4dljrBLf8R5nwA.
+2025-07-27 18:24:00,557 - INFO - Parsing XML feed.
+2025-07-27 18:24:00,560 - INFO - Found 15 videos in feed.
+2025-07-27 18:24:00,560 - INFO - Found 15 videos in the feed for channel UCxCcu9pet4dljrBLf8R5nwA.
+2025-07-27 18:24:00,561 - INFO - Found new recent video: 85GsjmtJ__Y
+2025-07-27 18:24:00,562 - INFO - Attempting to download video: 85GsjmtJ__Y
+2025-07-27 18:24:15,951 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/How Alex and I got through our hardest years [85GsjmtJ__Y].mp4
+2025-07-27 18:24:16,394 - INFO - Duration of /home/mehmet/yt-watchlist/How Alex and I got through our hardest years [85GsjmtJ__Y].mp4 is 32.875 seconds.
+2025-07-27 18:24:16,395 - INFO - Video 85GsjmtJ__Y is shorter than 1 minute (32.875s), deleting.
+2025-07-27 18:24:16,396 - INFO - Deleted video file: /home/mehmet/yt-watchlist/How Alex and I got through our hardest years [85GsjmtJ__Y].mp4
+2025-07-27 18:24:16,396 - INFO - Found new recent video: D4mQbIFL2FM
+2025-07-27 18:24:16,397 - INFO - Attempting to download video: D4mQbIFL2FM
+2025-07-27 18:24:33,295 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/My favorite sales trick… [D4mQbIFL2FM].mp4
+2025-07-27 18:24:34,074 - INFO - Duration of /home/mehmet/yt-watchlist/My favorite sales trick… [D4mQbIFL2FM].mp4 is 19.285 seconds.
+2025-07-27 18:24:34,075 - INFO - Video D4mQbIFL2FM is shorter than 1 minute (19.285s), deleting.
+2025-07-27 18:24:34,076 - INFO - Deleted video file: /home/mehmet/yt-watchlist/My favorite sales trick… [D4mQbIFL2FM].mp4
+2025-07-27 18:24:34,076 - INFO - Found new recent video: SHvvkINqMPg
+2025-07-27 18:24:34,077 - INFO - Attempting to download video: SHvvkINqMPg
+2025-07-27 18:24:53,580 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Get back to work [SHvvkINqMPg].mp4
+2025-07-27 18:24:54,191 - INFO - Duration of /home/mehmet/yt-watchlist/Get back to work [SHvvkINqMPg].mp4 is 8.341 seconds.
+2025-07-27 18:24:54,191 - INFO - Video SHvvkINqMPg is shorter than 1 minute (8.341s), deleting.
+2025-07-27 18:24:54,192 - INFO - Deleted video file: /home/mehmet/yt-watchlist/Get back to work [SHvvkINqMPg].mp4
+2025-07-27 18:24:54,192 - INFO - Found new recent video: ZlOHmp7d8BA
+2025-07-27 18:24:54,193 - INFO - Attempting to download video: ZlOHmp7d8BA
+2025-07-27 18:25:10,933 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/How to make more money [ZlOHmp7d8BA].mp4
+2025-07-27 18:25:11,404 - INFO - Duration of /home/mehmet/yt-watchlist/How to make more money [ZlOHmp7d8BA].mp4 is 23.545042 seconds.
+2025-07-27 18:25:11,404 - INFO - Video ZlOHmp7d8BA is shorter than 1 minute (23.545042s), deleting.
+2025-07-27 18:25:11,405 - INFO - Deleted video file: /home/mehmet/yt-watchlist/How to make more money [ZlOHmp7d8BA].mp4
+2025-07-27 18:25:11,405 - INFO - Found new recent video: ssYg2B4wzaw
+2025-07-27 18:25:11,406 - INFO - Attempting to download video: ssYg2B4wzaw
+2025-07-27 18:25:26,557 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/When Alex asked for a prenup... [ssYg2B4wzaw].mp4
+2025-07-27 18:25:27,044 - INFO - Duration of /home/mehmet/yt-watchlist/When Alex asked for a prenup... [ssYg2B4wzaw].mp4 is 51.52 seconds.
+2025-07-27 18:25:27,044 - INFO - Video ssYg2B4wzaw is shorter than 1 minute (51.52s), deleting.
+2025-07-27 18:25:27,046 - INFO - Deleted video file: /home/mehmet/yt-watchlist/When Alex asked for a prenup... [ssYg2B4wzaw].mp4
+2025-07-27 18:25:27,046 - INFO - Found new recent video: ZILhL_5nvyM
+2025-07-27 18:25:27,047 - INFO - Attempting to download video: ZILhL_5nvyM
+2025-07-27 18:25:42,359 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/How to choose the right partner [ZILhL_5nvyM].mp4
+2025-07-27 18:25:42,872 - INFO - Duration of /home/mehmet/yt-watchlist/How to choose the right partner [ZILhL_5nvyM].mp4 is 39.381 seconds.
+2025-07-27 18:25:42,873 - INFO - Video ZILhL_5nvyM is shorter than 1 minute (39.381s), deleting.
+2025-07-27 18:25:42,874 - INFO - Deleted video file: /home/mehmet/yt-watchlist/How to choose the right partner [ZILhL_5nvyM].mp4
+2025-07-27 18:25:42,875 - INFO - Video LC-cUF-kLr8 is not recent. Skipping.
+2025-07-27 18:25:42,875 - INFO - Video y-QpiVosGv4 is not recent. Skipping.
+2025-07-27 18:25:42,875 - INFO - Video OzoQE_gOUQU is not recent. Skipping.
+2025-07-27 18:25:42,878 - INFO - Video KjQKtcMqSKQ is not recent. Skipping.
+2025-07-27 18:25:42,878 - INFO - Video yz2ZzWDf30s is not recent. Skipping.
+2025-07-27 18:25:42,878 - INFO - Video -HCQ9JgIfcM is not recent. Skipping.
+2025-07-27 18:25:42,878 - INFO - Video PI1mpoAjQ8w is not recent. Skipping.
+2025-07-27 18:25:42,878 - INFO - Video PlfA9CXqHSs is not recent. Skipping.
+2025-07-27 18:25:42,878 - INFO - Video aiO6RCVm4x0 is not recent. Skipping.
+2025-07-27 18:25:42,879 - INFO - Processing channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-27 18:25:42,879 - INFO - Fetching feed for channel: UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-27 18:25:42,879 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UC2ME6cK8jWnRSWyUdV0yWJw
+2025-07-27 18:25:43,447 - INFO - Successfully fetched feed for UC2ME6cK8jWnRSWyUdV0yWJw.
+2025-07-27 18:25:43,447 - INFO - Parsing XML feed.
+2025-07-27 18:25:43,449 - INFO - Found 15 videos in feed.
+2025-07-27 18:25:43,450 - INFO - Found 15 videos in the feed for channel UC2ME6cK8jWnRSWyUdV0yWJw.
+2025-07-27 18:25:43,450 - INFO - Video olhu9UhFGl4 is not recent. Skipping.
+2025-07-27 18:25:43,450 - INFO - Video lRq0pESKJgg is not recent. Skipping.
+2025-07-27 18:25:43,450 - INFO - Video iyg-p-NZx8w is not recent. Skipping.
+2025-07-27 18:25:43,450 - INFO - Video 2rIVNb91Too is not recent. Skipping.
+2025-07-27 18:25:43,450 - INFO - Video iGLFLjd5oGo is not recent. Skipping.
+2025-07-27 18:25:43,451 - INFO - Video ygDdVetnKa0 is not recent. Skipping.
+2025-07-27 18:25:43,451 - INFO - Video QH8vacVw5F0 is not recent. Skipping.
+2025-07-27 18:25:43,451 - INFO - Video X5aI2AGvkb4 is not recent. Skipping.
+2025-07-27 18:25:43,451 - INFO - Video QLWKYTxLYT4 is not recent. Skipping.
+2025-07-27 18:25:43,451 - INFO - Video 5yeyyEFp1J4 is not recent. Skipping.
+2025-07-27 18:25:43,452 - INFO - Video Mdmhiv7O5m8 is not recent. Skipping.
+2025-07-27 18:25:43,452 - INFO - Video UOhs9jxe4lM is not recent. Skipping.
+2025-07-27 18:25:43,452 - INFO - Video x4ieMzbXiRA is not recent. Skipping.
+2025-07-27 18:25:43,452 - INFO - Video a4r0CoXsGmk is not recent. Skipping.
+2025-07-27 18:25:43,452 - INFO - Video 6wUqVJJQGzc is not recent. Skipping.
+2025-07-27 18:25:43,452 - INFO - Processing channel: UCGglb26hdG81eW08n4dagUw
+2025-07-27 18:25:43,453 - INFO - Fetching feed for channel: UCGglb26hdG81eW08n4dagUw
+2025-07-27 18:25:43,453 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCGglb26hdG81eW08n4dagUw
+2025-07-27 18:25:44,564 - INFO - Successfully fetched feed for UCGglb26hdG81eW08n4dagUw.
+2025-07-27 18:25:44,564 - INFO - Parsing XML feed.
+2025-07-27 18:25:44,566 - INFO - Found 15 videos in feed.
+2025-07-27 18:25:44,566 - INFO - Found 15 videos in the feed for channel UCGglb26hdG81eW08n4dagUw.
+2025-07-27 18:25:44,567 - INFO - Found new recent video: ap22CF7X89o
+2025-07-27 18:25:44,568 - INFO - Attempting to download video: ap22CF7X89o
+2025-07-27 18:26:04,357 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Don't Recognize the State of Palestine [ap22CF7X89o].mp4
+2025-07-27 18:26:05,317 - INFO - Duration of /home/mehmet/yt-watchlist/Don't Recognize the State of Palestine [ap22CF7X89o].mp4 is 100.437 seconds.
+2025-07-27 18:26:05,317 - INFO - Appending video ID ap22CF7X89o to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:26:05,318 - INFO - Added video ap22CF7X89o to cache.
+2025-07-27 18:26:05,318 - INFO - Video BxE1LP6soTI is not recent. Skipping.
+2025-07-27 18:26:05,319 - INFO - Video x6CTNFTLns8 is not recent. Skipping.
+2025-07-27 18:26:05,319 - INFO - Video y8130oX9VRM is not recent. Skipping.
+2025-07-27 18:26:05,319 - INFO - Video ozdPbUnDSyE is not recent. Skipping.
+2025-07-27 18:26:05,319 - INFO - Video DQEru2v_V3w is not recent. Skipping.
+2025-07-27 18:26:05,319 - INFO - Video gc42LrsPvpo is not recent. Skipping.
+2025-07-27 18:26:05,320 - INFO - Video 1GnxBfIIZJ8 is not recent. Skipping.
+2025-07-27 18:26:05,320 - INFO - Video uMeJb3KPpNc is not recent. Skipping.
+2025-07-27 18:26:05,320 - INFO - Video ej4buuj0ofk is not recent. Skipping.
+2025-07-27 18:26:05,320 - INFO - Video -ydvRL8cr4E is not recent. Skipping.
+2025-07-27 18:26:05,321 - INFO - Video PrZY_4HSPQM is not recent. Skipping.
+2025-07-27 18:26:05,321 - INFO - Video foD-MwTxqGk is not recent. Skipping.
+2025-07-27 18:26:05,321 - INFO - Video pNeTzbuG8Wc is not recent. Skipping.
+2025-07-27 18:26:05,322 - INFO - Video NFebi8fLO9Q is not recent. Skipping.
+2025-07-27 18:26:05,322 - INFO - Processing channel: UCqlRE8sYdSeijg83yIDpq2w
+2025-07-27 18:26:05,323 - INFO - Fetching feed for channel: UCqlRE8sYdSeijg83yIDpq2w
+2025-07-27 18:26:05,323 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCqlRE8sYdSeijg83yIDpq2w
+2025-07-27 18:26:06,380 - INFO - Successfully fetched feed for UCqlRE8sYdSeijg83yIDpq2w.
+2025-07-27 18:26:06,381 - INFO - Parsing XML feed.
+2025-07-27 18:26:06,383 - INFO - Found 15 videos in feed.
+2025-07-27 18:26:06,387 - INFO - Found 15 videos in the feed for channel UCqlRE8sYdSeijg83yIDpq2w.
+2025-07-27 18:26:06,388 - INFO - Found new recent video: YCBYTTLM4zc
+2025-07-27 18:26:06,389 - INFO - Attempting to download video: YCBYTTLM4zc
+2025-07-27 18:27:09,299 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/عبدالله الشريف ｜ حلقة 17 ｜ ممر داوود ومعبر مسدود ｜ الموسم التاسع [YCBYTTLM4zc].mp4
+2025-07-27 18:27:10,012 - INFO - Duration of /home/mehmet/yt-watchlist/عبدالله الشريف ｜ حلقة 17 ｜ ممر داوود ومعبر مسدود ｜ الموسم التاسع [YCBYTTLM4zc].mp4 is 1046.477 seconds.
+2025-07-27 18:27:10,013 - INFO - Appending video ID YCBYTTLM4zc to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:27:10,013 - INFO - Added video YCBYTTLM4zc to cache.
+2025-07-27 18:27:10,014 - INFO - Video GfvpDSbq8No is not recent. Skipping.
+2025-07-27 18:27:10,014 - INFO - Video 0GflYG5FKLM is not recent. Skipping.
+2025-07-27 18:27:10,014 - INFO - Video bw5_1WcxbjM is not recent. Skipping.
+2025-07-27 18:27:10,014 - INFO - Video WOcw9hJAvYg is not recent. Skipping.
+2025-07-27 18:27:10,014 - INFO - Video dYins87-b-0 is not recent. Skipping.
+2025-07-27 18:27:10,015 - INFO - Video 5nOoAk_rmBU is not recent. Skipping.
+2025-07-27 18:27:10,015 - INFO - Video 4QzuF51F3o8 is not recent. Skipping.
+2025-07-27 18:27:10,015 - INFO - Video K909T_VjpPg is not recent. Skipping.
+2025-07-27 18:27:10,015 - INFO - Video HkgLSgO27fY is not recent. Skipping.
+2025-07-27 18:27:10,015 - INFO - Video P1Rk_VPFw90 is not recent. Skipping.
+2025-07-27 18:27:10,015 - INFO - Video vKJYsNkiIjM is not recent. Skipping.
+2025-07-27 18:27:10,016 - INFO - Video Ducek1k0eQA is not recent. Skipping.
+2025-07-27 18:27:10,016 - INFO - Video R359A2YCcgQ is not recent. Skipping.
+2025-07-27 18:27:10,016 - INFO - Video 670eVWYq4LY is not recent. Skipping.
+2025-07-27 18:27:10,016 - INFO - Processing channel: UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-27 18:27:10,016 - INFO - Fetching feed for channel: UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-27 18:27:10,016 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCQ4FNww3XoNgqIlkBqEAVCg
+2025-07-27 18:27:11,145 - INFO - Successfully fetched feed for UCQ4FNww3XoNgqIlkBqEAVCg.
+2025-07-27 18:27:11,146 - INFO - Parsing XML feed.
+2025-07-27 18:27:11,148 - INFO - Found 15 videos in feed.
+2025-07-27 18:27:11,149 - INFO - Found 15 videos in the feed for channel UCQ4FNww3XoNgqIlkBqEAVCg.
+2025-07-27 18:27:11,150 - INFO - Video T0HP7omFo58 is not recent. Skipping.
+2025-07-27 18:27:11,150 - INFO - Video US47EpxBVHk is not recent. Skipping.
+2025-07-27 18:27:11,151 - INFO - Video OImjfwCujYo is not recent. Skipping.
+2025-07-27 18:27:11,151 - INFO - Video c0rNGr5ztR8 is not recent. Skipping.
+2025-07-27 18:27:11,152 - INFO - Video D_z6n9CO_bc is not recent. Skipping.
+2025-07-27 18:27:11,152 - INFO - Video Qw5JcPUATV4 is not recent. Skipping.
+2025-07-27 18:27:11,153 - INFO - Video x5n0nlnTTm8 is not recent. Skipping.
+2025-07-27 18:27:11,153 - INFO - Video d1xFvRD2knU is not recent. Skipping.
+2025-07-27 18:27:11,154 - INFO - Video SOkYlgDsMDQ is not recent. Skipping.
+2025-07-27 18:27:11,154 - INFO - Video AqTbTxC3R60 is not recent. Skipping.
+2025-07-27 18:27:11,155 - INFO - Video 6KB9h-FcD8Q is not recent. Skipping.
+2025-07-27 18:27:11,155 - INFO - Video 8HZ2PuECPbY is not recent. Skipping.
+2025-07-27 18:27:11,155 - INFO - Video -B96nN9N6rs is not recent. Skipping.
+2025-07-27 18:27:11,156 - INFO - Video edM2x0NBMnI is not recent. Skipping.
+2025-07-27 18:27:11,156 - INFO - Video JeiihzsMaW8 is not recent. Skipping.
+2025-07-27 18:27:11,166 - INFO - Processing channel: UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-27 18:27:11,166 - INFO - Fetching feed for channel: UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-27 18:27:11,167 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCBMrOkjg3AbvLS5g1MhtlRQ
+2025-07-27 18:27:11,711 - INFO - Successfully fetched feed for UCBMrOkjg3AbvLS5g1MhtlRQ.
+2025-07-27 18:27:11,711 - INFO - Parsing XML feed.
+2025-07-27 18:27:11,714 - INFO - Found 15 videos in feed.
+2025-07-27 18:27:11,714 - INFO - Found 15 videos in the feed for channel UCBMrOkjg3AbvLS5g1MhtlRQ.
+2025-07-27 18:27:11,715 - INFO - Found new recent video: yyjIbdMhe7w
+2025-07-27 18:27:11,715 - INFO - Attempting to download video: yyjIbdMhe7w
+2025-07-27 18:27:36,466 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/＂Humanity has completely collapsed.＂  #substack #dropsitenews #gaza [yyjIbdMhe7w].mp4
+2025-07-27 18:27:38,094 - INFO - Duration of /home/mehmet/yt-watchlist/＂Humanity has completely collapsed.＂  #substack #dropsitenews #gaza [yyjIbdMhe7w].mp4 is 62.275911 seconds.
+2025-07-27 18:27:38,095 - INFO - Appending video ID yyjIbdMhe7w to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:27:38,095 - INFO - Added video yyjIbdMhe7w to cache.
+2025-07-27 18:27:38,095 - INFO - Found new recent video: -mURBYGoZ-c
+2025-07-27 18:27:38,096 - INFO - Attempting to download video: -mURBYGoZ-c
+2025-07-27 18:28:03,415 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/＂We know and recognize the Israeli aims...to normalize this—seeing the death by the famine.＂ #gaza [-mURBYGoZ-c].mp4
+2025-07-27 18:28:04,206 - INFO - Duration of /home/mehmet/yt-watchlist/＂We know and recognize the Israeli aims...to normalize this—seeing the death by the famine.＂ #gaza [-mURBYGoZ-c].mp4 is 49.412044 seconds.
+2025-07-27 18:28:04,207 - INFO - Video -mURBYGoZ-c is shorter than 1 minute (49.412044s), deleting.
+2025-07-27 18:28:04,208 - INFO - Deleted video file: /home/mehmet/yt-watchlist/＂We know and recognize the Israeli aims...to normalize this—seeing the death by the famine.＂ #gaza [-mURBYGoZ-c].mp4
+2025-07-27 18:28:04,209 - INFO - Found new recent video: rCdIb4LVF-s
+2025-07-27 18:28:04,209 - INFO - Attempting to download video: rCdIb4LVF-s
+2025-07-27 18:28:34,211 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/28 Countries Call for an Immediate Ceasefire： All Talk, No Action [rCdIb4LVF-s].mp4
+2025-07-27 18:28:35,123 - INFO - Duration of /home/mehmet/yt-watchlist/28 Countries Call for an Immediate Ceasefire： All Talk, No Action [rCdIb4LVF-s].mp4 is 400.915755 seconds.
+2025-07-27 18:28:35,124 - INFO - Appending video ID rCdIb4LVF-s to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:28:35,125 - INFO - Added video rCdIb4LVF-s to cache.
+2025-07-27 18:28:35,125 - INFO - Found new recent video: 4bVI4dJJEEI
+2025-07-27 18:28:35,126 - INFO - Attempting to download video: 4bVI4dJJEEI
+2025-07-27 18:35:33,746 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Abubaker Abed, Ryan Grim Interview Irish Antiwar Presidential Candidate in Dublin [4bVI4dJJEEI].mp4
+2025-07-27 18:35:34,860 - INFO - Duration of /home/mehmet/yt-watchlist/Abubaker Abed, Ryan Grim Interview Irish Antiwar Presidential Candidate in Dublin [4bVI4dJJEEI].mp4 is 5380.923 seconds.
+2025-07-27 18:35:34,860 - INFO - Appending video ID 4bVI4dJJEEI to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:35:34,860 - INFO - Added video 4bVI4dJJEEI to cache.
+2025-07-27 18:35:34,861 - INFO - Video wsScRdsTIBg is not recent. Skipping.
+2025-07-27 18:35:34,861 - INFO - Video 1YI22TtC8T0 is not recent. Skipping.
+2025-07-27 18:35:34,861 - INFO - Video DgadQ8aAfoc is not recent. Skipping.
+2025-07-27 18:35:34,861 - INFO - Video lnapf1b6tts is not recent. Skipping.
+2025-07-27 18:35:34,861 - INFO - Video wQwXxd1FSU4 is not recent. Skipping.
+2025-07-27 18:35:34,861 - INFO - Video ZiroVq2qCHU is not recent. Skipping.
+2025-07-27 18:35:34,862 - INFO - Video 7hdR7b3aq04 is not recent. Skipping.
+2025-07-27 18:35:34,862 - INFO - Video _FrCVcDJXrI is not recent. Skipping.
+2025-07-27 18:35:34,862 - INFO - Video iLv9o3U14vE is not recent. Skipping.
+2025-07-27 18:35:34,862 - INFO - Video A5hahgPOjmU is not recent. Skipping.
+2025-07-27 18:35:34,862 - INFO - Video UNyfkZ2f62A is not recent. Skipping.
+2025-07-27 18:35:34,862 - INFO - Processing channel: UCT4kJCZyg26egbPAuJVj2kA
+2025-07-27 18:35:34,864 - INFO - Fetching feed for channel: UCT4kJCZyg26egbPAuJVj2kA
+2025-07-27 18:35:34,865 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCT4kJCZyg26egbPAuJVj2kA
+2025-07-27 18:35:35,834 - INFO - Successfully fetched feed for UCT4kJCZyg26egbPAuJVj2kA.
+2025-07-27 18:35:35,835 - INFO - Parsing XML feed.
+2025-07-27 18:35:35,837 - INFO - Found 15 videos in feed.
+2025-07-27 18:35:35,837 - INFO - Found 15 videos in the feed for channel UCT4kJCZyg26egbPAuJVj2kA.
+2025-07-27 18:35:35,837 - INFO - Found new recent video: N778GLLe4c4
+2025-07-27 18:35:35,838 - INFO - Attempting to download video: N778GLLe4c4
+2025-07-27 18:36:04,387 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/“If Satan himself criticized Israel, some would repost it.”  #podcast #politics  #gaza [N778GLLe4c4].mp4
+2025-07-27 18:36:05,724 - INFO - Duration of /home/mehmet/yt-watchlist/“If Satan himself criticized Israel, some would repost it.”  #podcast #politics  #gaza [N778GLLe4c4].mp4 is 48.747 seconds.
+2025-07-27 18:36:05,724 - INFO - Video N778GLLe4c4 is shorter than 1 minute (48.747s), deleting.
+2025-07-27 18:36:05,726 - INFO - Deleted video file: /home/mehmet/yt-watchlist/“If Satan himself criticized Israel, some would repost it.”  #podcast #politics  #gaza [N778GLLe4c4].mp4
+2025-07-27 18:36:05,726 - INFO - Found new recent video: tO2byhlKF1Y
+2025-07-27 18:36:05,727 - INFO - Attempting to download video: tO2byhlKF1Y
+2025-07-27 18:41:02,748 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Genocide for sale & the end of legacy Media ｜ Ahmed Shihab-Eldin [tO2byhlKF1Y].mp4
+2025-07-27 18:41:03,726 - INFO - Duration of /home/mehmet/yt-watchlist/Genocide for sale & the end of legacy Media ｜ Ahmed Shihab-Eldin [tO2byhlKF1Y].mp4 is 5563.896 seconds.
+2025-07-27 18:41:03,726 - INFO - Appending video ID tO2byhlKF1Y to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:41:03,727 - INFO - Added video tO2byhlKF1Y to cache.
+2025-07-27 18:41:03,727 - INFO - Found new recent video: ktzTGlYHtGA
+2025-07-27 18:41:03,728 - INFO - Attempting to download video: ktzTGlYHtGA
+2025-07-27 18:41:43,776 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/“This is evil genius-level trolling. Nothing is random.”  #podcast #politics #warzone [ktzTGlYHtGA].mp4
+2025-07-27 18:41:44,752 - INFO - Duration of /home/mehmet/yt-watchlist/“This is evil genius-level trolling. Nothing is random.”  #podcast #politics #warzone [ktzTGlYHtGA].mp4 is 57.323 seconds.
+2025-07-27 18:41:44,753 - INFO - Video ktzTGlYHtGA is shorter than 1 minute (57.323s), deleting.
+2025-07-27 18:41:44,755 - INFO - Deleted video file: /home/mehmet/yt-watchlist/“This is evil genius-level trolling. Nothing is random.”  #podcast #politics #warzone [ktzTGlYHtGA].mp4
+2025-07-27 18:41:44,756 - INFO - Video 5QN-McCK1WI is not recent. Skipping.
+2025-07-27 18:41:44,756 - INFO - Video xmaRNrBOC48 is not recent. Skipping.
+2025-07-27 18:41:44,756 - INFO - Video OQjyih02YiU is not recent. Skipping.
+2025-07-27 18:41:44,757 - INFO - Video HqgIAnWk3nA is not recent. Skipping.
+2025-07-27 18:41:44,757 - INFO - Video zApE9mQI71c is not recent. Skipping.
+2025-07-27 18:41:44,757 - INFO - Video xdiK_wlp854 is not recent. Skipping.
+2025-07-27 18:41:44,758 - INFO - Video 5NRUUY3n7Sc is not recent. Skipping.
+2025-07-27 18:41:44,758 - INFO - Video XYmreKZxN-c is not recent. Skipping.
+2025-07-27 18:41:44,758 - INFO - Video AjeIjDlZ7VQ is not recent. Skipping.
+2025-07-27 18:41:44,759 - INFO - Video NzDpfFX1qt4 is not recent. Skipping.
+2025-07-27 18:41:44,759 - INFO - Video 4CJIZdVyMEU is not recent. Skipping.
+2025-07-27 18:41:44,759 - INFO - Video ZRDXE7-sRQc is not recent. Skipping.
+2025-07-27 18:41:44,760 - INFO - Processing channel: UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-27 18:41:44,760 - INFO - Fetching feed for channel: UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-27 18:41:44,760 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw
+2025-07-27 18:41:45,923 - INFO - Successfully fetched feed for UCPjNBjflYl0-HQtUvOx0Ibw.
+2025-07-27 18:41:45,924 - INFO - Parsing XML feed.
+2025-07-27 18:41:45,927 - INFO - Found 15 videos in feed.
+2025-07-27 18:41:45,928 - INFO - Found 15 videos in the feed for channel UCPjNBjflYl0-HQtUvOx0Ibw.
+2025-07-27 18:41:45,928 - INFO - Found new recent video: OAqCyVuZ_6o
+2025-07-27 18:41:45,929 - INFO - Attempting to download video: OAqCyVuZ_6o
+2025-07-27 18:43:11,962 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/He Built MY Startup Idea and Sold It in 8 Days ($15K Side Hustle) [OAqCyVuZ_6o].mp4
+2025-07-27 18:43:12,958 - INFO - Duration of /home/mehmet/yt-watchlist/He Built MY Startup Idea and Sold It in 8 Days ($15K Side Hustle) [OAqCyVuZ_6o].mp4 is 2254.147 seconds.
+2025-07-27 18:43:12,958 - INFO - Appending video ID OAqCyVuZ_6o to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:43:12,959 - INFO - Added video OAqCyVuZ_6o to cache.
+2025-07-27 18:43:12,964 - INFO - Video 6FSih5a5aIA is not recent. Skipping.
+2025-07-27 18:43:12,964 - INFO - Video DjR61qqdkuU is not recent. Skipping.
+2025-07-27 18:43:12,964 - INFO - Video cG8r7OT75lA is not recent. Skipping.
+2025-07-27 18:43:12,965 - INFO - Video tk2HbliM5u4 is not recent. Skipping.
+2025-07-27 18:43:12,965 - INFO - Video Xq0xJl-2D_s is not recent. Skipping.
+2025-07-27 18:43:12,965 - INFO - Video S8a7gkFhoBA is not recent. Skipping.
+2025-07-27 18:43:12,965 - INFO - Video ZvZ4aUXBtzU is not recent. Skipping.
+2025-07-27 18:43:12,966 - INFO - Video t3q5hCv_Kyo is not recent. Skipping.
+2025-07-27 18:43:12,966 - INFO - Video DxSDZwpgfRE is not recent. Skipping.
+2025-07-27 18:43:12,967 - INFO - Video VfwIpD5D-JM is not recent. Skipping.
+2025-07-27 18:43:12,967 - INFO - Video GOHdTwKdT14 is not recent. Skipping.
+2025-07-27 18:43:12,967 - INFO - Video -y5XDqMFT00 is not recent. Skipping.
+2025-07-27 18:43:12,968 - INFO - Video g8JM3prvEf4 is not recent. Skipping.
+2025-07-27 18:43:12,968 - INFO - Video F7MxPxNbFUw is not recent. Skipping.
+2025-07-27 18:43:12,969 - INFO - Processing channel: UC9jY5IcAA99wX8MZQ9K9r-Q
+2025-07-27 18:43:12,969 - INFO - Fetching feed for channel: UC9jY5IcAA99wX8MZQ9K9r-Q
+2025-07-27 18:43:12,970 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UC9jY5IcAA99wX8MZQ9K9r-Q
+2025-07-27 18:43:14,292 - INFO - Successfully fetched feed for UC9jY5IcAA99wX8MZQ9K9r-Q.
+2025-07-27 18:43:14,293 - INFO - Parsing XML feed.
+2025-07-27 18:43:14,295 - INFO - Found 15 videos in feed.
+2025-07-27 18:43:14,296 - INFO - Found 15 videos in the feed for channel UC9jY5IcAA99wX8MZQ9K9r-Q.
+2025-07-27 18:43:14,296 - INFO - Found new recent video: tgJ4bXcemdU
+2025-07-27 18:43:14,297 - INFO - Attempting to download video: tgJ4bXcemdU
+2025-07-27 18:43:41,492 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Even Israel didn't think it could take the genocide this far [tgJ4bXcemdU].mp4
+2025-07-27 18:43:42,221 - INFO - Duration of /home/mehmet/yt-watchlist/Even Israel didn't think it could take the genocide this far [tgJ4bXcemdU].mp4 is 178.731 seconds.
+2025-07-27 18:43:42,221 - INFO - Appending video ID tgJ4bXcemdU to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:43:42,221 - INFO - Added video tgJ4bXcemdU to cache.
+2025-07-27 18:43:42,222 - INFO - Found new recent video: hhu3ayMD21E
+2025-07-27 18:43:42,222 - INFO - Attempting to download video: hhu3ayMD21E
+2025-07-27 18:44:48,792 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/US, EU leaders still back genocide, with Ali Abunimah [hhu3ayMD21E].mp4
+2025-07-27 18:44:49,674 - INFO - Duration of /home/mehmet/yt-watchlist/US, EU leaders still back genocide, with Ali Abunimah [hhu3ayMD21E].mp4 is 1861.219 seconds.
+2025-07-27 18:44:49,675 - INFO - Appending video ID hhu3ayMD21E to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:44:49,675 - INFO - Added video hhu3ayMD21E to cache.
+2025-07-27 18:44:49,675 - INFO - Found new recent video: bTe1yeBrpGs
+2025-07-27 18:44:49,676 - INFO - Attempting to download video: bTe1yeBrpGs
+2025-07-27 18:45:11,816 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/AOC votes against cutting funding for Israel's Iron Dome. Ali Abunimah reacts [bTe1yeBrpGs].mp4
+2025-07-27 18:45:12,649 - INFO - Duration of /home/mehmet/yt-watchlist/AOC votes against cutting funding for Israel's Iron Dome. Ali Abunimah reacts [bTe1yeBrpGs].mp4 is 177.679102 seconds.
+2025-07-27 18:45:12,650 - INFO - Appending video ID bTe1yeBrpGs to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:45:12,651 - INFO - Added video bTe1yeBrpGs to cache.
+2025-07-27 18:45:12,651 - INFO - Found new recent video: L39sCinIOf4
+2025-07-27 18:45:12,652 - INFO - Attempting to download video: L39sCinIOf4
+2025-07-27 18:46:21,549 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Israel shoots at heads of children seeking aid, with Nora Barrows-Friedman [L39sCinIOf4].mp4
+2025-07-27 18:46:22,289 - INFO - Duration of /home/mehmet/yt-watchlist/Israel shoots at heads of children seeking aid, with Nora Barrows-Friedman [L39sCinIOf4].mp4 is 1863.146 seconds.
+2025-07-27 18:46:22,290 - INFO - Appending video ID L39sCinIOf4 to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:46:22,290 - INFO - Added video L39sCinIOf4 to cache.
+2025-07-27 18:46:22,290 - INFO - Found new recent video: fi_hkHpdfoE
+2025-07-27 18:46:22,291 - INFO - Attempting to download video: fi_hkHpdfoE
+2025-07-27 18:47:30,255 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Emerging from the rubble to ambush Israeli troops, with Jon Elmer [fi_hkHpdfoE].mp4
+2025-07-27 18:47:31,199 - INFO - Duration of /home/mehmet/yt-watchlist/Emerging from the rubble to ambush Israeli troops, with Jon Elmer [fi_hkHpdfoE].mp4 is 1613.23 seconds.
+2025-07-27 18:47:31,199 - INFO - Appending video ID fi_hkHpdfoE to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:47:31,200 - INFO - Added video fi_hkHpdfoE to cache.
+2025-07-27 18:47:31,200 - INFO - Found new recent video: XwQpoWvNZk0
+2025-07-27 18:47:31,201 - INFO - Attempting to download video: XwQpoWvNZk0
+2025-07-27 18:51:56,794 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/Breaking news and analysis on day 657 of the Gaza genocide ｜ The Electronic Intifada [XwQpoWvNZk0].mp4
+2025-07-27 18:51:58,001 - INFO - Duration of /home/mehmet/yt-watchlist/Breaking news and analysis on day 657 of the Gaza genocide ｜ The Electronic Intifada [XwQpoWvNZk0].mp4 is 9049.861 seconds.
+2025-07-27 18:51:58,002 - INFO - Appending video ID XwQpoWvNZk0 to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:51:58,003 - INFO - Added video XwQpoWvNZk0 to cache.
+2025-07-27 18:51:58,003 - INFO - Video k_RAqVEwRSI is not recent. Skipping.
+2025-07-27 18:51:58,004 - INFO - Video 6ATYMAXVfAs is not recent. Skipping.
+2025-07-27 18:51:58,004 - INFO - Video 0iAf0Jvv1UU is not recent. Skipping.
+2025-07-27 18:51:58,004 - INFO - Video sZJNOID1Haw is not recent. Skipping.
+2025-07-27 18:51:58,005 - INFO - Video k1fxja8BUlg is not recent. Skipping.
+2025-07-27 18:51:58,005 - INFO - Video erN8Jl2kb-s is not recent. Skipping.
+2025-07-27 18:51:58,006 - INFO - Video O1QtqzR3dqE is not recent. Skipping.
+2025-07-27 18:51:58,006 - INFO - Video b0uoKFNW3qw is not recent. Skipping.
+2025-07-27 18:51:58,006 - INFO - Video LLF6rXK6HuI is not recent. Skipping.
+2025-07-27 18:51:58,007 - INFO - Processing channel: UCfQk5qGOEO5cPPDFlQe2lFQ
+2025-07-27 18:51:58,008 - INFO - Fetching feed for channel: UCfQk5qGOEO5cPPDFlQe2lFQ
+2025-07-27 18:51:58,008 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCfQk5qGOEO5cPPDFlQe2lFQ
+2025-07-27 18:51:58,977 - INFO - Successfully fetched feed for UCfQk5qGOEO5cPPDFlQe2lFQ.
+2025-07-27 18:51:58,977 - INFO - Parsing XML feed.
+2025-07-27 18:51:58,979 - INFO - Found 15 videos in feed.
+2025-07-27 18:51:58,980 - INFO - Found 15 videos in the feed for channel UCfQk5qGOEO5cPPDFlQe2lFQ.
+2025-07-27 18:51:58,980 - INFO - Video Ge0uE9pmNIk is not recent. Skipping.
+2025-07-27 18:51:58,981 - INFO - Video 2o1105B3Cn4 is not recent. Skipping.
+2025-07-27 18:51:58,981 - INFO - Video LI3z9CQxcAU is not recent. Skipping.
+2025-07-27 18:51:58,982 - INFO - Video KOXG6fHGnVA is not recent. Skipping.
+2025-07-27 18:51:58,982 - INFO - Video IA3m-idjgWA is not recent. Skipping.
+2025-07-27 18:51:58,982 - INFO - Video qofx-eleuDM is not recent. Skipping.
+2025-07-27 18:51:58,983 - INFO - Video JwpCX_ZtAf0 is not recent. Skipping.
+2025-07-27 18:51:58,983 - INFO - Video 1N1_SzPqhA8 is not recent. Skipping.
+2025-07-27 18:51:58,983 - INFO - Video wsIb_EdhcY8 is not recent. Skipping.
+2025-07-27 18:51:58,983 - INFO - Video BYpirNrDV1Y is not recent. Skipping.
+2025-07-27 18:51:58,984 - INFO - Video eHc7VbiNTY0 is not recent. Skipping.
+2025-07-27 18:51:58,984 - INFO - Video seB1SAgtFoQ is not recent. Skipping.
+2025-07-27 18:51:58,984 - INFO - Video Vuozx5HXYmk is not recent. Skipping.
+2025-07-27 18:51:58,985 - INFO - Video PTU6vub2eU0 is not recent. Skipping.
+2025-07-27 18:51:58,985 - INFO - Video VO1e-OVmDeU is not recent. Skipping.
+2025-07-27 18:51:58,986 - INFO - Processing channel: UC12gqdHGgjPHhUSL97JnzOw
+2025-07-27 18:51:58,986 - INFO - Fetching feed for channel: UC12gqdHGgjPHhUSL97JnzOw
+2025-07-27 18:51:58,986 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UC12gqdHGgjPHhUSL97JnzOw
+2025-07-27 18:51:59,991 - INFO - Successfully fetched feed for UC12gqdHGgjPHhUSL97JnzOw.
+2025-07-27 18:51:59,992 - INFO - Parsing XML feed.
+2025-07-27 18:51:59,994 - INFO - Found 15 videos in feed.
+2025-07-27 18:51:59,994 - INFO - Found 15 videos in the feed for channel UC12gqdHGgjPHhUSL97JnzOw.
+2025-07-27 18:51:59,995 - INFO - Video qs6lN1uggSE is not recent. Skipping.
+2025-07-27 18:51:59,995 - INFO - Video --bYcYo0DdM is not recent. Skipping.
+2025-07-27 18:51:59,995 - INFO - Video nG-PpFDEw7Y is not recent. Skipping.
+2025-07-27 18:51:59,996 - INFO - Video Ry3PSPzL8e4 is not recent. Skipping.
+2025-07-27 18:51:59,996 - INFO - Video JhdJQVB4YGI is not recent. Skipping.
+2025-07-27 18:51:59,996 - INFO - Video CYv0LNE8gFo is not recent. Skipping.
+2025-07-27 18:51:59,997 - INFO - Video cdjaXRMiyFA is not recent. Skipping.
+2025-07-27 18:51:59,997 - INFO - Video Vg00SaGfKd0 is not recent. Skipping.
+2025-07-27 18:51:59,997 - INFO - Video CIL92yMWmzw is not recent. Skipping.
+2025-07-27 18:51:59,997 - INFO - Video SLWevZfMwPY is not recent. Skipping.
+2025-07-27 18:51:59,998 - INFO - Video 0ojixU42mi4 is not recent. Skipping.
+2025-07-27 18:51:59,998 - INFO - Video paMpLSRQsUw is not recent. Skipping.
+2025-07-27 18:51:59,998 - INFO - Video Zr9Zcop01Xw is not recent. Skipping.
+2025-07-27 18:51:59,999 - INFO - Video bqh5hk_i8qk is not recent. Skipping.
+2025-07-27 18:51:59,999 - INFO - Video yIbUzgfIxik is not recent. Skipping.
+2025-07-27 18:51:59,999 - INFO - Processing channel: UCYloxfuc3XHk8OH5wbjWqqw
+2025-07-27 18:52:00,000 - INFO - Fetching feed for channel: UCYloxfuc3XHk8OH5wbjWqqw
+2025-07-27 18:52:00,000 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCYloxfuc3XHk8OH5wbjWqqw
+2025-07-27 18:52:01,027 - INFO - Successfully fetched feed for UCYloxfuc3XHk8OH5wbjWqqw.
+2025-07-27 18:52:01,027 - INFO - Parsing XML feed.
+2025-07-27 18:52:01,029 - INFO - Found 15 videos in feed.
+2025-07-27 18:52:01,030 - INFO - Found 15 videos in the feed for channel UCYloxfuc3XHk8OH5wbjWqqw.
+2025-07-27 18:52:01,031 - INFO - Found new recent video: mDyf92230xU
+2025-07-27 18:52:01,031 - INFO - Attempting to download video: mDyf92230xU
+2025-07-27 18:52:47,955 - INFO - Getting duration for video: /home/mehmet/yt-watchlist/خير الناس للناس فى زمن القسوة أهل الخير ماقصروا شكرا بنت السعودية (طحين الحياة) [mDyf92230xU].mp4
+2025-07-27 18:52:49,016 - INFO - Duration of /home/mehmet/yt-watchlist/خير الناس للناس فى زمن القسوة أهل الخير ماقصروا شكرا بنت السعودية (طحين الحياة) [mDyf92230xU].mp4 is 656.288802 seconds.
+2025-07-27 18:52:49,017 - INFO - Appending video ID mDyf92230xU to cache file /home/mehmet/Proyectos/TANZIMAT/scripts/downloaded_videos.txt
+2025-07-27 18:52:49,017 - INFO - Added video mDyf92230xU to cache.
+2025-07-27 18:52:49,018 - INFO - Video 8UzoAj7DE3M is not recent. Skipping.
+2025-07-27 18:52:49,018 - INFO - Video nHyf1U2pbt4 is not recent. Skipping.
+2025-07-27 18:52:49,019 - INFO - Video U-RmHQ5hPZw is not recent. Skipping.
+2025-07-27 18:52:49,019 - INFO - Video PR49HMNrIX0 is not recent. Skipping.
+2025-07-27 18:52:49,019 - INFO - Video nJmB-ezpG0M is not recent. Skipping.
+2025-07-27 18:52:49,020 - INFO - Video YTFFOBNTVmA is not recent. Skipping.
+2025-07-27 18:52:49,020 - INFO - Video n4xT9UQam7o is not recent. Skipping.
+2025-07-27 18:52:49,020 - INFO - Video RFVvmK0gixU is not recent. Skipping.
+2025-07-27 18:52:49,020 - INFO - Video PE2f5Csi28s is not recent. Skipping.
+2025-07-27 18:52:49,021 - INFO - Video tWSdHG3m7js is not recent. Skipping.
+2025-07-27 18:52:49,021 - INFO - Video xGZzFEc49Ek is not recent. Skipping.
+2025-07-27 18:52:49,022 - INFO - Video aZ3swqHr8Qk is not recent. Skipping.
+2025-07-27 18:52:49,022 - INFO - Video R2lbIqc5biQ is not recent. Skipping.
+2025-07-27 18:52:49,022 - INFO - Video pTh3orZ6UJM is not recent. Skipping.
+2025-07-27 18:52:49,022 - INFO - Processing channel: UCzB7zFhM1jLQdV0A-iZtZqg
+2025-07-27 18:52:49,023 - INFO - Fetching feed for channel: UCzB7zFhM1jLQdV0A-iZtZqg
+2025-07-27 18:52:49,023 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCzB7zFhM1jLQdV0A-iZtZqg
+2025-07-27 18:52:50,103 - INFO - Successfully fetched feed for UCzB7zFhM1jLQdV0A-iZtZqg.
+2025-07-27 18:52:50,103 - INFO - Parsing XML feed.
+2025-07-27 18:52:50,106 - INFO - Found 15 videos in feed.
+2025-07-27 18:52:50,106 - INFO - Found 15 videos in the feed for channel UCzB7zFhM1jLQdV0A-iZtZqg.
+2025-07-27 18:52:50,107 - INFO - Video tEYF6VvgOic is not recent. Skipping.
+2025-07-27 18:52:50,107 - INFO - Video 0lfeGPW3BcY is not recent. Skipping.
+2025-07-27 18:52:50,108 - INFO - Video JEW5Zv7f4Og is not recent. Skipping.
+2025-07-27 18:52:50,108 - INFO - Video 5cFmOZG-LfU is not recent. Skipping.
+2025-07-27 18:52:50,108 - INFO - Video 6EP6Iv4qffs is not recent. Skipping.
+2025-07-27 18:52:50,108 - INFO - Video xBqVBTC2Ids is not recent. Skipping.
+2025-07-27 18:52:50,109 - INFO - Video 1D7RsOVC-lE is not recent. Skipping.
+2025-07-27 18:52:50,109 - INFO - Video aNKq4X5MZrU is not recent. Skipping.
+2025-07-27 18:52:50,109 - INFO - Video D9_mxGvxAA8 is not recent. Skipping.
+2025-07-27 18:52:50,110 - INFO - Video o7blrkYeNo4 is not recent. Skipping.
+2025-07-27 18:52:50,110 - INFO - Video sQGX-cUa-EI is not recent. Skipping.
+2025-07-27 18:52:50,110 - INFO - Video ekpA_Ya1DCg is not recent. Skipping.
+2025-07-27 18:52:50,111 - INFO - Video mjnXWREhExw is not recent. Skipping.
+2025-07-27 18:52:50,111 - INFO - Video rrLUATOK8qw is not recent. Skipping.
+2025-07-27 18:52:50,111 - INFO - Video T4wuXjbDkZ4 is not recent. Skipping.
+2025-07-27 18:52:50,112 - INFO - Processing channel: UC936KXo1Dh7FfO-O7YhtSGQ
+2025-07-27 18:52:50,112 - INFO - Fetching feed for channel: UC936KXo1Dh7FfO-O7YhtSGQ
+2025-07-27 18:52:50,112 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UC936KXo1Dh7FfO-O7YhtSGQ
+2025-07-27 18:52:51,087 - ERROR - Failed fetching feed for UC936KXo1Dh7FfO-O7YhtSGQ: HTTP Error 404: Not Found
+2025-07-27 18:52:51,088 - INFO - Processing channel: UCnw3tgWDG1CjN6Q9mFxLwxg
+2025-07-27 18:52:51,088 - INFO - Fetching feed for channel: UCnw3tgWDG1CjN6Q9mFxLwxg
+2025-07-27 18:52:51,088 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCnw3tgWDG1CjN6Q9mFxLwxg
+2025-07-27 18:52:52,110 - ERROR - Failed fetching feed for UCnw3tgWDG1CjN6Q9mFxLwxg: HTTP Error 404: Not Found
+2025-07-27 18:52:52,111 - INFO - Processing channel: UCsBjURrPoezykLs9EqgamOA
+2025-07-27 18:52:52,112 - INFO - Fetching feed for channel: UCsBjURrPoezykLs9EqgamOA
+2025-07-27 18:52:52,112 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA
+2025-07-27 18:52:53,149 - INFO - Successfully fetched feed for UCsBjURrPoezykLs9EqgamOA.
+2025-07-27 18:52:53,150 - INFO - Parsing XML feed.
+2025-07-27 18:52:53,152 - INFO - Found 15 videos in feed.
+2025-07-27 18:52:53,153 - INFO - Found 15 videos in the feed for channel UCsBjURrPoezykLs9EqgamOA.
+2025-07-27 18:52:53,153 - INFO - Video -w53i6Ae-YM is not recent. Skipping.
+2025-07-27 18:52:53,153 - INFO - Video gA6r7iVzP6M is not recent. Skipping.
+2025-07-27 18:52:53,154 - INFO - Video 2USUfv7klr8 is not recent. Skipping.
+2025-07-27 18:52:53,154 - INFO - Video -_6dHIPVoTM is not recent. Skipping.
+2025-07-27 18:52:53,154 - INFO - Video qqP1ucSiVkE is not recent. Skipping.
+2025-07-27 18:52:53,155 - INFO - Video nFoXCLi8FCc is not recent. Skipping.
+2025-07-27 18:52:53,155 - INFO - Video pF1UvN7SEGU is not recent. Skipping.
+2025-07-27 18:52:53,155 - INFO - Video rUCOwCJDh8o is not recent. Skipping.
+2025-07-27 18:52:53,156 - INFO - Video Q57_iaGrxLg is not recent. Skipping.
+2025-07-27 18:52:53,156 - INFO - Video cNywlNWan9o is not recent. Skipping.
+2025-07-27 18:52:53,156 - INFO - Video Sd6F2pfKJmk is not recent. Skipping.
+2025-07-27 18:52:53,157 - INFO - Video NLjnOsP_q1U is not recent. Skipping.
+2025-07-27 18:52:53,157 - INFO - Video NIgrGqmoeHs is not recent. Skipping.
+2025-07-27 18:52:53,157 - INFO - Video jCTvblRXnzg is not recent. Skipping.
+2025-07-27 18:52:53,158 - INFO - Video 6fnmXX8RK0s is not recent. Skipping.
+2025-07-27 18:52:53,158 - INFO - Processing channel: UCmFozxZBUWtbkCvs_aSCU5w
+2025-07-27 18:52:53,158 - INFO - Fetching feed for channel: UCmFozxZBUWtbkCvs_aSCU5w
+2025-07-27 18:52:53,159 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFozxZBUWtbkCvs_aSCU5w
+2025-07-27 18:52:54,159 - ERROR - Failed fetching feed for UCmFozxZBUWtbkCvs_aSCU5w: HTTP Error 404: Not Found
+2025-07-27 18:52:54,161 - INFO - Processing channel: UCPhM8T8FgRiPm6UacVmKxZw
+2025-07-27 18:52:54,161 - INFO - Fetching feed for channel: UCPhM8T8FgRiPm6UacVmKxZw
+2025-07-27 18:52:54,161 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCPhM8T8FgRiPm6UacVmKxZw
+2025-07-27 18:52:55,184 - ERROR - Failed fetching feed for UCPhM8T8FgRiPm6UacVmKxZw: HTTP Error 404: Not Found
+2025-07-27 18:52:55,185 - INFO - Processing channel: UCMzbNvfJ4osPOxbjI0K5BeA
+2025-07-27 18:52:55,185 - INFO - Fetching feed for channel: UCMzbNvfJ4osPOxbjI0K5BeA
+2025-07-27 18:52:55,186 - INFO - Fetching feed from URL: https://www.youtube.com/feeds/videos.xml?channel_id=UCMzbNvfJ4osPOxbjI0K5BeA
+2025-07-27 18:52:56,312 - INFO - Successfully fetched feed for UCMzbNvfJ4osPOxbjI0K5BeA.
+2025-07-27 18:52:56,312 - INFO - Parsing XML feed.
+2025-07-27 18:52:56,314 - INFO - Found 15 videos in feed.
+2025-07-27 18:52:56,314 - INFO - Found 15 videos in the feed for channel UCMzbNvfJ4osPOxbjI0K5BeA.
+2025-07-27 18:52:56,314 - INFO - Video 2Kups2Sg298 is not recent. Skipping.
+2025-07-27 18:52:56,314 - INFO - Video A940aSkLhUA is not recent. Skipping.
+2025-07-27 18:52:56,315 - INFO - Video osczIJerUis is not recent. Skipping.
+2025-07-27 18:52:56,315 - INFO - Video wlyfs7QCL1M is not recent. Skipping.
+2025-07-27 18:52:56,315 - INFO - Video OQf2aW05tZI is not recent. Skipping.
+2025-07-27 18:52:56,315 - INFO - Video 5poR11mE9P4 is not recent. Skipping.
+2025-07-27 18:52:56,315 - INFO - Video o8NaF88oxTc is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video 8aJMErBlctU is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video fCGRqw_onmg is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video P0ujBzB1lco is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video 8vnUS_x0-Yg is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video nBhgNo94SKU is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video _6OWmDCFgWc is not recent. Skipping.
+2025-07-27 18:52:56,316 - INFO - Video piqABlOtEVU is not recent. Skipping.
+2025-07-27 18:52:56,317 - INFO - Video x5hgT5fTXCY is not recent. Skipping.
+2025-07-27 18:52:56,317 - INFO - Script finished.

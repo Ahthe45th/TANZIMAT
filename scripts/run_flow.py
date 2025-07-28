@@ -114,6 +114,12 @@ def run_action(action: Dict):
                 break
             subprocess.run(["xdotool", "key", "ctrl+Tab"])
             time.sleep(0.5)
+    elif name == "ctrl_alt_slash":
+        subprocess.run(["xdotool", "key", "ctrl+alt+slash"])
+        logging.info("Sent Ctrl+Alt+/")
+    elif name == "backspace":
+        subprocess.run(["xdotool", "key", "BackSpace"])
+        logging.info("Sent Backspace key.")
 
 
 def find_text_coords(text: str, image_path: str):
@@ -205,15 +211,24 @@ def find_text_coordinates(image_path, target_text, service_account_path):
 
 def main():
     logging.info("Starting run_flow.py script.")
-    flows = [f for f in FLOW_DIR.glob("*.json")]
-    if not flows:
-        subprocess.run(["notify-send", "Flow", "No flows found"])
-        logging.warning("No flows found in flow directory.")
-        return
-    choice = rofi("Pick flow", [p.name for p in flows])
-    if not choice:
-        logging.info("No flow selected. Exiting.")
-        return
+    
+    import sys
+    if len(sys.argv) > 1:
+        choice = sys.argv[1]
+        if not choice.endswith(".json"):
+            choice += ".json"
+        logging.info(f"Flow name provided as command-line argument: {choice}")
+    else:
+        flows = [f for f in FLOW_DIR.glob("*.json")]
+        if not flows:
+            subprocess.run(["notify-send", "Flow", "No flows found"])
+            logging.warning("No flows found in flow directory.")
+            return
+        choice = rofi("Pick flow", [p.name for p in flows])
+        if not choice:
+            logging.info("No flow selected. Exiting.")
+            return
+
     path = FLOW_DIR / choice
     try:
         with open(path) as f:

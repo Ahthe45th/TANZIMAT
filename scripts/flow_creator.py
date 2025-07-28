@@ -263,6 +263,24 @@ def action_wait() -> Dict:
         return {"action": "wait", "seconds": float(seconds)}
     return {"action": "wait", "seconds": 0}
 
+def action_kill() -> Dict:
+    logging.info("Action: kill")
+    subprocess.run(["bspc", "node", "-k"])
+    logging.info("Killed the current node.")
+    return {"action": "kill"}
+
+def action_ctrl_alt_slash() -> Dict:
+    logging.info("Action: ctrl_alt_slash")
+    subprocess.run(["xdotool", "key", "ctrl+alt+slash"])
+    logging.info("Sent Ctrl+Alt+/")
+    return {"action": "ctrl_alt_slash"}
+
+def action_backspace() -> Dict:
+    logging.info("Action: backspace")
+    subprocess.run(["xdotool", "key", "BackSpace"])
+    logging.info("Sent Backspace key.")
+    return {"action": "backspace"}
+
 
 ACTION_MAP = {
     "coordinate click": action_coordinate_click,
@@ -275,6 +293,9 @@ ACTION_MAP = {
     "enter": action_enter,
     "wait": action_wait,
     "cycle tabs": action_cycle_tabs,
+    "kill": action_kill,
+    "ctrl+alt+/": action_ctrl_alt_slash,
+    "backspace": action_backspace,
 }
 
 

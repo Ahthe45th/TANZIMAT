@@ -1,0 +1,182 @@
+2025-07-24 14:57:26,937 - INFO - Starting run_flow.py script.
+2025-07-24 14:57:26,940 - INFO - Rofi prompt: Pick flow, options: ['ADBALANCES.json', 'LUPERCAL.json', 'trial.json', 'SCROLL.json', 'l.json']
+2025-07-24 14:57:28,927 - INFO - Rofi selection: ADBALANCES.json
+2025-07-24 14:57:28,928 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-24 14:57:28,928 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-24 14:57:28,936 - INFO - Switched to desktop: 3
+2025-07-24 14:57:28,937 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-24 14:57:28,937 - INFO - Clicking coordinates: (357, 736)
+2025-07-24 14:57:29,048 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-24 14:57:29,088 - INFO - Typed text: 'Ad'
+2025-07-24 14:57:29,089 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-24 14:57:29,113 - INFO - Sent Enter key.
+2025-07-24 14:57:29,113 - INFO - run_flow.py script finished.
+2025-07-24 15:45:16,286 - INFO - Starting run_flow.py script.
+2025-07-24 15:45:16,287 - INFO - Flow name provided as command-line argument: ADBALANCES.json
+2025-07-24 15:45:16,287 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-24 15:45:16,287 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-24 15:45:16,296 - INFO - Switched to desktop: 3
+2025-07-24 15:45:16,296 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-24 15:45:16,296 - INFO - Clicking coordinates: (357, 736)
+2025-07-24 15:45:16,408 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-24 15:45:16,444 - INFO - Typed text: 'Ad'
+2025-07-24 15:45:16,444 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-24 15:45:16,470 - INFO - Sent Enter key.
+2025-07-24 15:45:16,470 - INFO - run_flow.py script finished.
+2025-07-24 17:51:29,553 - INFO - Starting run_flow.py script.
+2025-07-24 17:51:29,553 - INFO - Flow name provided as command-line argument: ADBALANCES.json
+2025-07-24 17:51:29,554 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-24 17:51:29,554 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-24 17:51:29,562 - INFO - Switched to desktop: 3
+2025-07-24 17:51:29,562 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-24 17:51:29,562 - INFO - Clicking coordinates: (357, 736)
+2025-07-24 17:51:29,678 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-24 17:51:29,723 - INFO - Typed text: 'Ad'
+2025-07-24 17:51:29,723 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-24 17:51:29,747 - INFO - Sent Enter key.
+2025-07-24 17:51:29,748 - INFO - run_flow.py script finished.
+2025-07-24 17:51:30,815 - INFO - Starting run_flow.py script.
+2025-07-24 17:51:30,815 - INFO - Flow name provided as command-line argument: KILLFIREFOX.json
+2025-07-24 17:51:30,816 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/KILLFIREFOX.json with 6 actions.
+2025-07-24 17:51:30,816 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 2}
+2025-07-24 17:51:30,826 - INFO - Switched to desktop: 2
+2025-07-24 17:51:30,828 - INFO - Running action: kill with data: {'action': 'kill'}
+2025-07-24 17:51:30,828 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-24 17:51:32,828 - INFO - Waited for 2.0 seconds.
+2025-07-24 17:51:32,828 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-24 17:51:32,839 - INFO - Switched to desktop: 3
+2025-07-24 17:51:32,839 - INFO - Running action: kill with data: {'action': 'kill'}
+2025-07-24 17:51:32,840 - INFO - Running action: kill with data: {'action': 'kill'}
+2025-07-24 17:51:32,840 - INFO - run_flow.py script finished.
+2025-07-24 17:51:34,619 - INFO - Starting run_flow.py script.
+2025-07-24 17:51:34,620 - INFO - Flow name provided as command-line argument: STARTWHATSAPP.json
+2025-07-24 17:51:34,621 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/STARTWHATSAPP.json with 12 actions.
+2025-07-24 17:51:34,621 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-24 17:51:34,632 - INFO - Switched to desktop: 3
+2025-07-24 17:51:34,633 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-24 17:51:36,633 - INFO - Waited for 2.0 seconds.
+2025-07-24 17:51:36,633 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 261, 'y': 740}
+2025-07-24 17:51:36,634 - INFO - Clicking coordinates: (261, 740)
+2025-07-24 17:51:36,787 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-24 17:51:38,788 - INFO - Waited for 2.0 seconds.
+2025-07-24 17:51:38,788 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 708, 'y': 328}
+2025-07-24 17:51:38,788 - INFO - Clicking coordinates: (708, 328)
+2025-07-24 17:51:38,906 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-24 17:51:40,907 - INFO - Waited for 2.0 seconds.
+2025-07-24 17:51:40,907 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 770, 'y': 513}
+2025-07-24 17:51:40,907 - INFO - Clicking coordinates: (770, 513)
+2025-07-24 17:51:41,022 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-24 17:51:43,023 - INFO - Waited for 2.0 seconds.
+2025-07-24 17:51:43,023 - INFO - Running action: type with data: {'action': 'type', 'text': 'web.whatsapp.com'}
+2025-07-24 17:51:43,160 - INFO - Typed text: 'web.whatsapp.com'
+2025-07-24 17:51:43,161 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-24 17:51:45,161 - INFO - Waited for 2.0 seconds.
+2025-07-24 17:51:45,162 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-24 17:51:45,194 - INFO - Sent Enter key.
+2025-07-24 17:51:45,194 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 60.0}
+2025-07-24 17:52:45,194 - INFO - Waited for 60.0 seconds.
+2025-07-24 17:52:45,195 - INFO - run_flow.py script finished.
+2025-07-25 10:18:17,286 - INFO - Starting run_flow.py script.
+2025-07-25 10:18:17,286 - INFO - Flow name provided as command-line argument: ADBALANCES.json
+2025-07-25 10:18:17,287 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-25 10:18:17,287 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-25 10:18:17,294 - INFO - Switched to desktop: 3
+2025-07-25 10:18:17,294 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-25 10:18:17,295 - INFO - Clicking coordinates: (357, 736)
+2025-07-25 10:18:17,414 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-25 10:18:17,450 - INFO - Typed text: 'Ad'
+2025-07-25 10:18:17,450 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-25 10:18:17,476 - INFO - Sent Enter key.
+2025-07-25 10:18:17,477 - INFO - run_flow.py script finished.
+2025-07-25 10:21:39,217 - INFO - Starting run_flow.py script.
+2025-07-25 10:21:39,218 - INFO - Rofi prompt: Pick flow, options: ['ADBALANCES.json', 'LUPERCAL.json', 'trial.json', 'KILLFIREFOX.json', 'SCROLL.json', 'STARTWHATSAPP.json', 'l.json']
+2025-07-25 10:21:43,772 - INFO - Rofi selection: ADBALANCES.json
+2025-07-25 10:21:43,773 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-25 10:21:43,773 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-25 10:21:43,780 - INFO - Switched to desktop: 3
+2025-07-25 10:21:43,781 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-25 10:21:43,781 - INFO - Clicking coordinates: (357, 736)
+2025-07-25 10:21:43,905 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-25 10:21:43,934 - INFO - Typed text: 'Ad'
+2025-07-25 10:21:43,934 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-25 10:21:43,959 - INFO - Sent Enter key.
+2025-07-25 10:21:43,959 - INFO - run_flow.py script finished.
+2025-07-25 10:22:59,016 - INFO - Starting run_flow.py script.
+2025-07-25 10:22:59,017 - INFO - Rofi prompt: Pick flow, options: ['ADBALANCES.json', 'LUPERCAL.json', 'trial.json', 'KILLFIREFOX.json', 'SCROLL.json', 'STARTWHATSAPP.json', 'l.json']
+2025-07-25 10:23:00,767 - INFO - Rofi selection: KILLFIREFOX.json
+2025-07-25 10:23:00,768 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/KILLFIREFOX.json with 6 actions.
+2025-07-25 10:23:00,768 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 2}
+2025-07-25 10:23:00,776 - INFO - Switched to desktop: 2
+2025-07-25 10:23:00,777 - INFO - Running action: kill with data: {'action': 'kill'}
+2025-07-25 10:23:00,777 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-25 10:23:02,778 - INFO - Waited for 2.0 seconds.
+2025-07-25 10:23:02,778 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-25 10:23:02,785 - INFO - Switched to desktop: 3
+2025-07-25 10:23:02,786 - INFO - Running action: kill with data: {'action': 'kill'}
+2025-07-25 10:23:02,787 - INFO - Running action: kill with data: {'action': 'kill'}
+2025-07-25 10:23:02,787 - INFO - run_flow.py script finished.
+2025-07-25 10:24:14,255 - INFO - Starting run_flow.py script.
+2025-07-25 10:24:14,256 - INFO - Rofi prompt: Pick flow, options: ['ADBALANCES.json', 'LUPERCAL.json', 'trial.json', 'KILLFIREFOX.json', 'SCROLL.json', 'STARTWHATSAPP.json', 'l.json']
+2025-07-25 10:24:16,339 - INFO - Rofi selection: STARTWHATSAPP.json
+2025-07-25 10:24:16,341 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/STARTWHATSAPP.json with 12 actions.
+2025-07-25 10:24:16,341 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-25 10:24:16,349 - INFO - Switched to desktop: 3
+2025-07-25 10:24:16,349 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-25 10:24:18,350 - INFO - Waited for 2.0 seconds.
+2025-07-25 10:24:18,350 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 261, 'y': 740}
+2025-07-25 10:24:18,350 - INFO - Clicking coordinates: (261, 740)
+2025-07-25 10:24:18,470 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-25 10:24:20,471 - INFO - Waited for 2.0 seconds.
+2025-07-25 10:24:20,471 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 708, 'y': 328}
+2025-07-25 10:24:20,472 - INFO - Clicking coordinates: (708, 328)
+2025-07-25 10:24:20,591 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-25 10:24:22,592 - INFO - Waited for 2.0 seconds.
+2025-07-25 10:24:22,592 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 770, 'y': 513}
+2025-07-25 10:24:22,592 - INFO - Clicking coordinates: (770, 513)
+2025-07-25 10:24:22,703 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-25 10:24:24,704 - INFO - Waited for 2.0 seconds.
+2025-07-25 10:24:24,704 - INFO - Running action: type with data: {'action': 'type', 'text': 'web.whatsapp.com'}
+2025-07-25 10:24:24,847 - INFO - Typed text: 'web.whatsapp.com'
+2025-07-25 10:24:24,847 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 2.0}
+2025-07-25 10:24:26,847 - INFO - Waited for 2.0 seconds.
+2025-07-25 10:24:26,847 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-25 10:24:26,876 - INFO - Sent Enter key.
+2025-07-25 10:24:26,876 - INFO - Running action: wait with data: {'action': 'wait', 'seconds': 60.0}
+2025-07-25 10:25:26,876 - INFO - Waited for 60.0 seconds.
+2025-07-25 10:25:26,877 - INFO - run_flow.py script finished.
+2025-07-25 21:43:07,945 - INFO - Starting run_flow.py script.
+2025-07-25 21:43:07,946 - INFO - Flow name provided as command-line argument: ADBALANCES.json
+2025-07-25 21:43:07,948 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-25 21:43:07,948 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-25 21:43:07,956 - INFO - Switched to desktop: 3
+2025-07-25 21:43:07,956 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-25 21:43:07,957 - INFO - Clicking coordinates: (357, 736)
+2025-07-25 21:43:08,078 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-25 21:43:08,114 - INFO - Typed text: 'Ad'
+2025-07-25 21:43:08,114 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-25 21:43:08,143 - INFO - Sent Enter key.
+2025-07-25 21:43:08,143 - INFO - run_flow.py script finished.
+2025-07-26 18:20:36,060 - INFO - Starting run_flow.py script.
+2025-07-26 18:20:36,061 - INFO - Flow name provided as command-line argument: ADBALANCES.json
+2025-07-26 18:20:36,062 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-26 18:20:36,062 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-26 18:20:36,068 - INFO - Switched to desktop: 3
+2025-07-26 18:20:36,069 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-26 18:20:36,069 - INFO - Clicking coordinates: (357, 736)
+2025-07-26 18:20:36,180 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-26 18:20:36,235 - INFO - Typed text: 'Ad'
+2025-07-26 18:20:36,235 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-26 18:20:36,267 - INFO - Sent Enter key.
+2025-07-26 18:20:36,267 - INFO - run_flow.py script finished.
+2025-07-27 10:40:02,431 - INFO - Starting run_flow.py script.
+2025-07-27 10:40:02,432 - INFO - Flow name provided as command-line argument: ADBALANCES.json
+2025-07-27 10:40:02,434 - INFO - Loaded flow from /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json with 4 actions.
+2025-07-27 10:40:02,434 - INFO - Running action: window_switch with data: {'action': 'window_switch', 'desktop': 3}
+2025-07-27 10:40:02,440 - INFO - Switched to desktop: 3
+2025-07-27 10:40:02,441 - INFO - Running action: coordinate_click with data: {'action': 'coordinate_click', 'x': 357, 'y': 736}
+2025-07-27 10:40:02,441 - INFO - Clicking coordinates: (357, 736)
+2025-07-27 10:40:02,556 - INFO - Running action: type with data: {'action': 'type', 'text': 'Ad'}
+2025-07-27 10:40:02,589 - INFO - Typed text: 'Ad'
+2025-07-27 10:40:02,590 - INFO - Running action: enter with data: {'action': 'enter'}
+2025-07-27 10:40:02,614 - INFO - Sent Enter key.
+2025-07-27 10:40:02,614 - INFO - run_flow.py script finished.

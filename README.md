@@ -1,30 +1,38 @@
-# TANZIMAT
+# MCP Server Systemd Service
 
-Collection of automation scripts used for various daily tasks.
+This document provides information about the `mcp-server.service` systemd unit file.
 
-## YouTube Watchlist
+## Service File Location
 
-`scripts/youtube_watchlist.py` checks a list of channels in
-`scripts/channels.txt`. If any videos were uploaded in the last 24 hours and are
-not listed in `scripts/downloaded_videos.txt`, they are downloaded using
-`yt-dlp` at 360p to `~/yt-watchlist/`.
+The service file is located at `~/.config/systemd/user/mcp-server.service`.
 
-Run the script manually or via cron:
+A symbolic link to this file is also present at `~/.config/systemd/user/default.target.wants/mcp-server.service` to ensure it is started automatically at user login.
 
-```bash
-python3 scripts/youtube_watchlist.py
-```
+## Service Description
 
-The channel list accepts IDs (starting with ``UC``), legacy usernames or handles
-prefixed with ``@``. Handles are automatically resolved to their channel ID.
-Ensure `yt-dlp` is installed and network access is available.
+The `mcp-server.service` file defines a systemd service that manages the MCP Server application.
 
-## Qur'an Polybar Widget
+### [Unit] Section
 
-See `quran_widget/README.md` for a local verse-by-verse playback tool
-aimed at memorization and review.
+*   `Description=MCP Server`: This provides a human-readable description of the service.
 
-See `quran_widget/README.md
-**NOTE**: If you move `programstarter.bash` or `programs.txt`, you must update the path in `~/.config/bspwm/bspwmrc` accordingly.
-` for a local verse-by-verse playback tool
-aimed at memorization and review.
+### [Service] Section
+
+*   `WorkingDirectory=/home/mehmet/Proyectos/TANZIMAT/template-mcp-server`: This sets the working directory for the service to the MCP Server project directory.
+*   `ExecStart=/home/mehmet/.bun/bin/bun run src/server/http-server.ts`: This is the command that is executed to start the service. It uses `bun` to run the TypeScript server file.
+*   `Restart=always`: This ensures that the service is automatically restarted if it crashes or is stopped.
+
+### [Install] Section
+
+*   `WantedBy=default.target`: This enables the service to be started automatically when the user logs in.
+
+## Usage
+
+To control the service, you can use the `systemctl` command with the `--user` flag:
+
+*   **Start the service:** `systemctl --user start mcp-server.service`
+*   **Stop the service:** `systemctl --user stop mcp-server.service`
+*   **Restart the service:** `systemctl --user restart mcp-server.service`
+*   **Check the status of the service:** `systemctl --user status mcp-server.service`
+*   **Enable the service to start on boot:** `systemctl --user enable mcp-server.service`
+*   **Disable the service from starting on boot:** `systemctl --user disable mcp-server.service`

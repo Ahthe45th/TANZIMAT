@@ -215,3 +215,189 @@
 2025-07-23 07:29:30,005 - INFO - Notification: ✅ Message sent
 2025-07-23 07:29:30,005 - INFO - Message pasted and sent.
 2025-07-23 07:29:30,006 - INFO - sendsbillsauto.py script finished successfully.
+2025-07-24 13:56:26,219 - INFO - Starting sendsbillsauto.py script.
+2025-07-24 13:56:26,249 - INFO - Notification: 🚀 Running WhatsApp bot...
+2025-07-24 13:56:26,250 - INFO - Running WhatsApp bot.
+2025-07-24 13:56:26,250 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-24 13:56:28,510 - INFO - Message fetched successfully.
+2025-07-24 13:56:28,565 - INFO - Notification: 📥 Message fetched
+2025-07-24 13:56:28,565 - INFO - Message fetched.
+2025-07-24 13:56:28,566 - INFO - Setting clipboard content.
+2025-07-24 13:56:28,670 - INFO - Notification: 📋 Clipboard set
+2025-07-24 13:56:28,670 - INFO - Clipboard set.
+2025-07-24 13:56:29,723 - INFO - Notification: 🖥️ Switched to desktop 3
+2025-07-24 13:56:29,723 - INFO - Switched to desktop 3.
+2025-07-24 13:56:29,776 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-24 13:56:29,776 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-24 13:56:29,776 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-24 13:56:29,965 - INFO - Finding text 'WhatsApp' in image /tmp/screen.png
+2025-07-24 13:56:33,267 - WARNING - Text 'WhatsApp' not found in image /tmp/screen.png.
+2025-07-24 13:56:33,298 - INFO - Notification: ⚠️ WhatsApp text not found — falling back to tab switch...
+2025-07-24 13:56:33,298 - WARNING - WhatsApp text not found, falling back to tab switch.
+2025-07-24 13:56:33,922 - INFO - Cycling tabs until WhatsApp is found.
+2025-07-24 13:56:35,012 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(80) Billing & payments — Mozilla Firefox"
+2025-07-24 13:56:36,092 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(14) WhatsApp Business — Mozilla Firefox"
+2025-07-24 13:56:36,122 - INFO - Notification: ✅ Found WhatsApp tab after 2 switches
+2025-07-24 13:56:36,123 - INFO - Found WhatsApp tab after 2 switches.
+2025-07-24 13:56:36,123 - INFO - Attempting to click text: BILLS
+2025-07-24 13:56:36,124 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-24 13:56:36,287 - INFO - Finding text 'BILLS' in image /tmp/screen.png
+2025-07-24 13:56:38,330 - INFO - Found text 'BILLS' at (182, 479) using Tesseract.
+2025-07-24 13:56:38,477 - INFO - Notification: ✅ Clicked 'BILLS'
+2025-07-24 13:56:38,478 - INFO - Clicked text: BILLS
+2025-07-24 13:56:39,078 - INFO - Pasting clipboard content.
+2025-07-24 13:56:39,433 - INFO - Notification: ✅ Message sent
+2025-07-24 13:56:39,434 - INFO - Message pasted and sent.
+2025-07-24 13:56:39,434 - INFO - sendsbillsauto.py script finished successfully.
+2025-07-24 14:59:56,012 - INFO - Starting sendsbillsauto.py script.
+2025-07-24 14:59:56,045 - INFO - Notification: 🚀 Running WhatsApp bot...
+2025-07-24 14:59:56,046 - INFO - Running WhatsApp bot.
+2025-07-24 14:59:56,046 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-24 14:59:57,324 - INFO - Notification: ❌ Failed to fetch message
+2025-07-24 14:59:57,324 - ERROR - Failed to fetch message: 502 Server Error: Bad Gateway for url: https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-24 14:59:57,361 - INFO - Notification: 📥 Message fetched
+2025-07-24 14:59:57,362 - INFO - Message fetched.
+2025-07-24 14:59:57,362 - INFO - Setting clipboard content.
+2025-07-24 14:59:57,418 - INFO - Notification: 📋 Clipboard set
+2025-07-24 14:59:57,418 - INFO - Clipboard set.
+2025-07-24 14:59:58,463 - INFO - Notification: 🖥️ Switched to desktop 3
+2025-07-24 14:59:58,463 - INFO - Switched to desktop 3.
+2025-07-24 14:59:58,504 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-24 14:59:58,504 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-24 14:59:58,504 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-24 14:59:58,671 - INFO - Finding text 'WhatsApp' in image /tmp/screen.png
+2025-07-24 15:00:01,108 - WARNING - Text 'WhatsApp' not found in image /tmp/screen.png.
+2025-07-24 15:00:01,144 - INFO - Notification: ⚠️ WhatsApp text not found — falling back to tab switch...
+2025-07-24 15:00:01,144 - WARNING - WhatsApp text not found, falling back to tab switch.
+2025-07-24 15:00:01,761 - INFO - Cycling tabs until WhatsApp is found.
+2025-07-24 15:00:02,860 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:03,943 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:05,031 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:06,109 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:07,197 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:08,280 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:09,370 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:10,457 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:11,546 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:12,632 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(68) Billing & payments — Mozilla Firefox"
+2025-07-24 15:00:12,663 - INFO - Notification: ❌ WhatsApp tab not found
+2025-07-24 15:00:12,663 - WARNING - WhatsApp tab not found after cycling.
+2025-07-24 15:00:12,663 - INFO - Attempting to click text: BILLS
+2025-07-24 15:00:12,663 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-24 15:00:12,809 - INFO - Finding text 'BILLS' in image /tmp/screen.png
+2025-07-24 15:00:14,827 - INFO - Found text 'BILLS' at (182, 479) using Tesseract.
+2025-07-24 15:00:14,989 - INFO - Notification: ✅ Clicked 'BILLS'
+2025-07-24 15:00:14,989 - INFO - Clicked text: BILLS
+2025-07-24 15:00:15,590 - INFO - Pasting clipboard content.
+2025-07-24 15:00:15,929 - INFO - Notification: ✅ Message sent
+2025-07-24 15:00:15,930 - INFO - Message pasted and sent.
+2025-07-24 15:00:15,930 - INFO - sendsbillsauto.py script finished successfully.
+2025-07-25 10:25:56,920 - INFO - Starting sendsbillsauto.py script.
+2025-07-25 10:25:56,956 - INFO - Notification: 🚀 Running WhatsApp bot...
+2025-07-25 10:25:56,956 - INFO - Running WhatsApp bot.
+2025-07-25 10:25:56,956 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-25 10:26:00,312 - INFO - Message fetched successfully.
+2025-07-25 10:26:00,343 - INFO - Notification: 📥 Message fetched
+2025-07-25 10:26:00,343 - INFO - Message fetched.
+2025-07-25 10:26:00,343 - INFO - Setting clipboard content.
+2025-07-25 10:26:00,391 - INFO - Notification: 📋 Clipboard set
+2025-07-25 10:26:00,391 - INFO - Clipboard set.
+2025-07-25 10:26:01,442 - INFO - Notification: 🖥️ Switched to desktop 3
+2025-07-25 10:26:01,442 - INFO - Switched to desktop 3.
+2025-07-25 10:26:01,477 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-25 10:26:01,477 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-25 10:26:01,477 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-25 10:26:01,650 - INFO - Finding text 'WhatsApp' in image /tmp/screen.png
+2025-07-25 10:26:04,015 - INFO - Found text 'WhatsApp' at (146, 183) using Tesseract.
+2025-07-25 10:26:04,168 - INFO - Notification: ✅ Clicked WhatsApp via OCR
+2025-07-25 10:26:04,169 - INFO - Clicked WhatsApp via OCR.
+2025-07-25 10:26:04,169 - INFO - Attempting to click text: BILLS
+2025-07-25 10:26:04,169 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-25 10:26:04,329 - INFO - Finding text 'BILLS' in image /tmp/screen.png
+2025-07-25 10:26:06,421 - WARNING - Text 'BILLS' not found in image /tmp/screen.png.
+2025-07-25 10:26:06,458 - INFO - Notification: ⚠️ Text 'BILLS' not found on screen.
+2025-07-25 10:26:06,459 - WARNING - Text 'BILLS' not found on screen.
+2025-07-25 10:26:06,459 - INFO - Pasting clipboard content.
+2025-07-25 10:26:06,791 - INFO - Notification: ✅ Message sent
+2025-07-25 10:26:06,791 - INFO - Message pasted and sent.
+2025-07-25 10:26:06,792 - INFO - sendsbillsauto.py script finished successfully.
+2025-07-26 06:21:15,468 - INFO - Starting sendsbillsauto.py script.
+2025-07-26 06:21:15,569 - INFO - Notification: 🚀 Running WhatsApp bot...
+2025-07-26 06:21:15,569 - INFO - Running WhatsApp bot.
+2025-07-26 06:21:15,569 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-26 06:21:18,133 - INFO - Message fetched successfully.
+2025-07-26 06:21:18,168 - INFO - Notification: 📥 Message fetched
+2025-07-26 06:21:18,169 - INFO - Message fetched.
+2025-07-26 06:21:18,169 - INFO - Setting clipboard content.
+2025-07-26 06:21:18,243 - INFO - Notification: 📋 Clipboard set
+2025-07-26 06:21:18,243 - INFO - Clipboard set.
+2025-07-26 06:21:19,296 - INFO - Notification: 🖥️ Switched to desktop 3
+2025-07-26 06:21:19,296 - INFO - Switched to desktop 3.
+2025-07-26 06:21:19,335 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-26 06:21:19,336 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-26 06:21:19,336 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-26 06:21:20,023 - INFO - Finding text 'WhatsApp' in image /tmp/screen.png
+2025-07-26 06:21:23,539 - INFO - Found text 'WhatsApp' at (789, 519) using Tesseract.
+2025-07-26 06:21:23,694 - INFO - Notification: ✅ Clicked WhatsApp via OCR
+2025-07-26 06:21:23,695 - INFO - Clicked WhatsApp via OCR.
+2025-07-26 06:21:23,695 - INFO - Attempting to click text: BILLS
+2025-07-26 06:21:23,695 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-26 06:21:24,344 - INFO - Finding text 'BILLS' in image /tmp/screen.png
+2025-07-26 06:21:27,664 - INFO - Found text 'BILLS' at (182, 479) using Tesseract.
+2025-07-26 06:21:27,815 - INFO - Notification: ✅ Clicked 'BILLS'
+2025-07-26 06:21:27,816 - INFO - Clicked text: BILLS
+2025-07-26 06:21:28,416 - INFO - Pasting clipboard content.
+2025-07-26 06:21:28,755 - INFO - Notification: ✅ Message sent
+2025-07-26 06:21:28,756 - INFO - Message pasted and sent.
+2025-07-26 06:21:28,756 - INFO - sendsbillsauto.py script finished successfully.
+2025-07-27 14:14:54,831 - INFO - Starting sendsbillsauto.py script.
+2025-07-27 14:14:54,922 - INFO - Notification: 🚀 Running WhatsApp bot...
+2025-07-27 14:14:54,922 - INFO - Running WhatsApp bot.
+2025-07-27 14:14:54,922 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-27 14:14:57,282 - INFO - Message fetched successfully.
+2025-07-27 14:14:57,394 - INFO - Notification: 📥 Message fetched
+2025-07-27 14:14:57,394 - INFO - Message fetched.
+2025-07-27 14:14:57,394 - INFO - Setting clipboard content.
+2025-07-27 14:14:57,544 - INFO - Notification: 📋 Clipboard set
+2025-07-27 14:14:57,545 - INFO - Clipboard set.
+2025-07-27 14:14:58,601 - INFO - Notification: 🖥️ Switched to desktop 3
+2025-07-27 14:14:58,602 - INFO - Switched to desktop 3.
+2025-07-27 14:14:58,657 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-27 14:14:58,657 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-27 14:14:58,657 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-27 14:14:59,015 - INFO - Finding text 'WhatsApp' in image /tmp/screen.png
+2025-07-27 14:15:31,221 - WARNING - Text 'WhatsApp' not found in image /tmp/screen.png.
+2025-07-27 14:15:31,259 - INFO - Notification: ⚠️ WhatsApp text not found — falling back to tab switch...
+2025-07-27 14:15:31,260 - WARNING - WhatsApp text not found, falling back to tab switch.
+2025-07-27 14:15:31,893 - INFO - Cycling tabs until WhatsApp is found.
+2025-07-27 14:15:33,029 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "AREAS — Mozilla Firefox"
+2025-07-27 14:15:34,150 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "Expat Elite Singles — Mozilla Firefox"
+2025-07-27 14:15:35,256 - INFO - Active window title: WM_NAME(COMPOUND_TEXT) = "(12) WhatsApp Business — Mozilla Firefox"
+2025-07-27 14:15:35,330 - INFO - Notification: ✅ Found WhatsApp tab after 3 switches
+2025-07-27 14:15:35,331 - INFO - Found WhatsApp tab after 3 switches.
+2025-07-27 14:15:35,331 - INFO - Attempting to click text: BILLS
+2025-07-27 14:15:35,331 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-27 14:15:35,566 - INFO - Finding text 'BILLS' in image /tmp/screen.png
+2025-07-27 14:15:56,293 - WARNING - Text 'BILLS' not found in image /tmp/screen.png.
+2025-07-27 14:15:56,336 - INFO - Notification: ⚠️ Text 'BILLS' not found on screen.
+2025-07-27 14:15:56,336 - WARNING - Text 'BILLS' not found on screen.
+2025-07-27 14:15:56,337 - INFO - Pasting clipboard content.
+2025-07-27 14:15:56,707 - INFO - Notification: ✅ Message sent
+2025-07-27 14:15:56,707 - INFO - Message pasted and sent.
+2025-07-27 14:15:56,707 - INFO - sendsbillsauto.py script finished successfully.
+2025-07-28 05:23:37,108 - INFO - Starting sendsbillsauto.py script.
+2025-07-28 05:23:37,277 - INFO - Notification: 🚀 Running WhatsApp bot...
+2025-07-28 05:23:37,277 - INFO - Running WhatsApp bot.
+2025-07-28 05:23:37,278 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/73ab8574-6a42-49d4-ae71-c65138680699
+2025-07-28 05:23:39,860 - INFO - Message fetched successfully.
+2025-07-28 05:23:40,022 - INFO - Notification: 📥 Message fetched
+2025-07-28 05:23:40,022 - INFO - Message fetched.
+2025-07-28 05:23:40,022 - INFO - Setting clipboard content.
+2025-07-28 05:23:40,297 - INFO - Notification: 📋 Clipboard set
+2025-07-28 05:23:40,297 - INFO - Clipboard set.
+2025-07-28 05:23:41,615 - INFO - Notification: 🖥️ Switched to desktop 3
+2025-07-28 05:23:41,615 - INFO - Switched to desktop 3.
+2025-07-28 05:23:41,757 - INFO - Notification: 🔍 Trying to click WhatsApp...
+2025-07-28 05:23:41,757 - INFO - Attempting to click WhatsApp or cycle tabs.
+2025-07-28 05:23:41,758 - INFO - Taking screenshot to /tmp/screen.png
+2025-07-28 05:23:43,203 - INFO - Finding text 'WhatsApp' in image /tmp/screen.png

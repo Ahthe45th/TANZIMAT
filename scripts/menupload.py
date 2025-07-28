@@ -40,16 +40,48 @@ def random_string(length=10):
 def random_email():
     return f"{random_string(7)}@example.com"
 
+def pick_multiline_text_yad():
+    try:
+        env = os.environ.copy()
+        env["DISPLAY"] = ":0"
+        if "DBUS_SESSION_BUS_ADDRESS" not in env:
+            env["DBUS_SESSION_BUS_ADDRESS"] = f'unix:path=/run/user/{os.getuid()}/bus'
+
+        result = subprocess.run(['zenity', '--text-info', '--editable', '--title', 'Multiline Input', '--width', '400', '--height', '300', '--filename=/dev/stdin'], input="Caption:", capture_output=True, text=True).stdout.strip().strip()
+
+        #if result.returncode != 0:
+        #    logging.warning("Yad was cancelled or failed.")
+        #    return ""
+
+        return result
+    except Exception as e:
+        logging.error(f"Yad failed: {e}")
+        return ""
+
 def pick_multiline_text():
     try:
+        env = os.environ.copy()
+        env["DISPLAY"] = ":0"  # or whatever your display is
+        if "DBUS_SESSION_BUS_ADDRESS" not in env:
+            # Try to load it manually if not present
+            try:
+                bus_address = subprocess.check_output(
+                    ["grep", "-z", "DBUS_SESSION_BUS_ADDRESS", f"/proc/$(pgrep -u $USER gnome-session)/environ"],
+                    shell=True
+                ).decode().split("DBUS_SESSION_BUS_ADDRESS=", 1)[1].strip('\x00\n')
+                env["DBUS_SESSION_BUS_ADDRESS"] = bus_address
+            except Exception as e:
+                logging.warning("Could not retrieve DBUS_SESSION_BUS_ADDRESS")
+
         result = subprocess.run([
-            "zenity", "--text-info", "--editable",
+            "zenity", "--editable", "--text-info",
             "--title=Enter Profile Info", "--width=400", "--height=300"
-        ], capture_output=True, text=True, check=True)
+        ], capture_output=True, text=True, check=True, env=env)
         return result.stdout.strip()
     except subprocess.CalledProcessError as e:
-        logging.error(f"Zenity failed: {e}")
+        logging.error(f"Zenity failed: {e}. stderr: {e.stderr}")
         return ""
+
 
 def pick_image_from_rofi(directory):
     logging.info(f"Picking image from directory: {directory}")
@@ -70,7 +102,7 @@ def pick_image_from_rofi(directory):
 
 def main():
     logging.info("Starting menupload.py script.")
-    multiline_text = pick_multiline_text()
+    multiline_text = pick_multiline_text_yad()
     if not multiline_text:
         notify("No text entered. Exiting.")
         logging.warning("No text entered. Exiting.")
@@ -173,6 +205,7 @@ def main():
 
 if __name__ == '__main__':
     try:
+        notify("Men upload script")
         main()
     except Exception as e:
         logging.critical(f"Script failed: {e}")
