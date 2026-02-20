@@ -4,3 +4,8 @@ scripts/logs/*
 *.xlsx
 *.log
 *.env
+
+# Logs
+*.log
+logs/
+
