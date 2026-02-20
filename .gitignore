@@ -1,5 +1,5 @@
-scripts/logs/timermode.log
-scripts/logs/timer.log
+scripts/logs/*
+scripts/logs/*
 *.bak
 *.xlsx
 *.log
