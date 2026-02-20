@@ -1,0 +1,31 @@
+- 4:00 Wake 
+- 06:00-06:15 Plan for the day
+- 06:15-06:30 Think through something
+- 06:30 Sleep
+- 06:15-07:15 Workout (option 1)
+- 10:00 Wake
+- 10:00-10:30 Waking
+- 10:30-11:00 Quran
+- 11:00-12:00 Maintenance Tasks/Meeting/Work Band
+- 12:00-12:45 Work/Meeting
+- 12:45-12:55 Adhan
+- 12:55-13:05 Prep
+- 13:05-13:15 Learning
+- 13:15-14:00 Dhuhr
+- 14:00-16:00 Work Band (Maintenance tasks n Ad)
+- 16:00-16:45 Asr
+- 16:45-17:40 Outside (familia)/Work Band
+- 17:40-18:20 Contenido/Work
+- 18:55-19:30 Dinner 
+- 19:30-20:00 Work (personal item)
+- 20:00-20:30 Isha 
+- 20:30-22:00 Entertainment
+- 22:00-22:20 Contenido
+- 22:20-23:20 Workout (option 2)
+- 23:30 Sleep
+
+- 5 min run/skip (+1min/mo)
+- 5 pullups (+1/mo)
+- 30 sec frog stance (+30s/mo)
+- 1 min wall handstand (+30s/mo)
+- 10 handstand push ups (+1/mo)

@@ -1,0 +1,318 @@
+2025-07-24 14:55:38,349 - INFO - Starting flow_creator.py script.
+2025-07-24 14:55:38,350 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'save & exit', 'quit']
+2025-07-24 14:55:40,403 - INFO - Rofi selection: window switch
+2025-07-24 14:55:40,404 - INFO - Action: window_switch
+2025-07-24 14:55:40,404 - INFO - Rofi input prompt: Desktop number
+2025-07-24 14:55:40,404 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 14:55:42,123 - INFO - Rofi selection: 3
+2025-07-24 14:55:42,132 - INFO - Switched to desktop: 3
+2025-07-24 14:55:42,133 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'save & exit', 'quit']
+2025-07-24 14:55:55,645 - INFO - Rofi selection: coordinate click
+2025-07-24 14:55:55,645 - INFO - Action: coordinate_click
+2025-07-24 14:56:00,699 - INFO - Captured mouse coordinates: (357, 736)
+2025-07-24 14:56:00,726 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'save & exit', 'quit']
+2025-07-24 14:56:13,627 - INFO - Rofi selection: typing action
+2025-07-24 14:56:13,627 - INFO - Action: typing_action
+2025-07-24 14:56:13,627 - INFO - Rofi input prompt: Type text
+2025-07-24 14:56:13,627 - INFO - Rofi prompt: Type text, options: ['']
+2025-07-24 14:56:22,496 - INFO - Rofi selection: Ad
+2025-07-24 14:56:22,540 - INFO - Typed text: 'Ad'
+2025-07-24 14:56:22,541 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'save & exit', 'quit']
+2025-07-24 14:56:33,773 - INFO - Rofi selection: enter
+2025-07-24 14:56:33,774 - INFO - Action: enter
+2025-07-24 14:56:33,813 - INFO - Sent Enter key.
+2025-07-24 14:56:33,813 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'save & exit', 'quit']
+2025-07-24 14:56:47,489 - INFO - Rofi selection: save & exit
+2025-07-24 14:56:47,490 - INFO - Exiting flow creation loop.
+2025-07-24 14:56:47,490 - INFO - Rofi input prompt: Flow file name
+2025-07-24 14:56:47,490 - INFO - Rofi prompt: Flow file name, options: ['']
+2025-07-24 14:56:52,408 - INFO - Rofi selection: ADBALANCES
+2025-07-24 14:56:52,453 - INFO - Flow saved to /home/mehmet/Proyectos/TANZIMAT/flows/ADBALANCES.json
+2025-07-24 16:36:01,516 - INFO - Starting flow_creator.py script.
+2025-07-24 16:36:01,516 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:05,907 - INFO - Rofi selection: kill
+2025-07-24 16:36:05,908 - INFO - Action: kill
+2025-07-24 16:36:05,915 - INFO - Killed the current node.
+2025-07-24 16:36:05,915 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:08,435 - INFO - Rofi selection: window switch
+2025-07-24 16:36:08,435 - INFO - Action: window_switch
+2025-07-24 16:36:08,435 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:36:08,436 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:36:09,911 - INFO - Rofi selection: 3
+2025-07-24 16:36:09,920 - INFO - Switched to desktop: 3
+2025-07-24 16:36:09,920 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:13,588 - INFO - Rofi selection: kill
+2025-07-24 16:36:13,589 - INFO - Action: kill
+2025-07-24 16:36:13,599 - INFO - Killed the current node.
+2025-07-24 16:36:13,599 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:16,813 - INFO - Rofi selection: wait
+2025-07-24 16:36:16,814 - INFO - Action: wait
+2025-07-24 16:36:16,814 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:36:16,814 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:36:18,290 - INFO - Rofi selection: 5
+2025-07-24 16:36:23,291 - INFO - Waited for 5 seconds.
+2025-07-24 16:36:23,292 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:25,133 - INFO - Rofi selection: coordinate click
+2025-07-24 16:36:25,133 - INFO - Action: coordinate_click
+2025-07-24 16:36:30,174 - INFO - Captured mouse coordinates: (279, 740)
+2025-07-24 16:36:30,203 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:35,776 - INFO - Rofi selection: wait
+2025-07-24 16:36:35,776 - INFO - Action: wait
+2025-07-24 16:36:35,776 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:36:35,776 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:36:37,836 - INFO - Rofi selection: 2
+2025-07-24 16:36:39,837 - INFO - Waited for 2 seconds.
+2025-07-24 16:36:39,837 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:45,376 - INFO - Rofi selection: coordinate click
+2025-07-24 16:36:45,376 - INFO - Action: coordinate_click
+2025-07-24 16:36:50,416 - INFO - Captured mouse coordinates: (780, 505)
+2025-07-24 16:36:50,446 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:36:54,888 - INFO - Rofi selection: quit
+2025-07-24 16:36:54,891 - INFO - Quitting flow_creator.py script.
+2025-07-24 16:37:13,287 - INFO - Starting flow_creator.py script.
+2025-07-24 16:37:13,288 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:21,360 - INFO - Rofi selection: kill
+2025-07-24 16:37:21,360 - INFO - Action: kill
+2025-07-24 16:37:21,368 - INFO - Killed the current node.
+2025-07-24 16:37:21,369 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:26,969 - INFO - Rofi selection: quit
+2025-07-24 16:37:26,969 - INFO - Quitting flow_creator.py script.
+2025-07-24 16:37:38,034 - INFO - Starting flow_creator.py script.
+2025-07-24 16:37:38,034 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:39,537 - INFO - Rofi selection: window switch
+2025-07-24 16:37:39,538 - INFO - Action: window_switch
+2025-07-24 16:37:39,538 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:37:39,538 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:37:40,872 - INFO - Rofi selection: 2
+2025-07-24 16:37:40,882 - INFO - Switched to desktop: 2
+2025-07-24 16:37:40,882 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:44,034 - INFO - Rofi selection: kill
+2025-07-24 16:37:44,034 - INFO - Action: kill
+2025-07-24 16:37:44,042 - INFO - Killed the current node.
+2025-07-24 16:37:44,043 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:47,615 - INFO - Rofi selection: wait
+2025-07-24 16:37:47,615 - INFO - Action: wait
+2025-07-24 16:37:47,615 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:37:47,616 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:37:48,471 - INFO - Rofi selection: 2
+2025-07-24 16:37:50,472 - INFO - Waited for 2 seconds.
+2025-07-24 16:37:50,472 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:52,273 - INFO - Rofi selection: window switch
+2025-07-24 16:37:52,273 - INFO - Action: window_switch
+2025-07-24 16:37:52,273 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:37:52,273 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:37:53,925 - INFO - Rofi selection: 3
+2025-07-24 16:37:53,938 - INFO - Switched to desktop: 3
+2025-07-24 16:37:53,939 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:37:57,072 - INFO - Rofi selection: kill
+2025-07-24 16:37:57,072 - INFO - Action: kill
+2025-07-24 16:37:57,080 - INFO - Killed the current node.
+2025-07-24 16:37:57,080 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:38:11,084 - INFO - Rofi selection: kill
+2025-07-24 16:38:11,084 - INFO - Action: kill
+2025-07-24 16:38:11,095 - INFO - Killed the current node.
+2025-07-24 16:38:11,096 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:38:15,440 - INFO - Rofi selection: save & exit
+2025-07-24 16:38:15,440 - INFO - Exiting flow creation loop.
+2025-07-24 16:38:15,441 - INFO - Rofi input prompt: Flow file name
+2025-07-24 16:38:15,441 - INFO - Rofi prompt: Flow file name, options: ['']
+2025-07-24 16:38:19,976 - INFO - Rofi selection: KILLFIREFOX
+2025-07-24 16:38:20,007 - INFO - Flow saved to /home/mehmet/Proyectos/TANZIMAT/flows/KILLFIREFOX.json
+2025-07-24 16:39:07,197 - INFO - Starting flow_creator.py script.
+2025-07-24 16:39:07,198 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:39:17,042 - INFO - Rofi selection: window switch
+2025-07-24 16:39:17,042 - INFO - Action: window_switch
+2025-07-24 16:39:17,044 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:39:17,044 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:39:18,602 - INFO - Rofi selection: 3
+2025-07-24 16:39:18,613 - INFO - Switched to desktop: 3
+2025-07-24 16:39:18,613 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:39:24,146 - INFO - Rofi selection: wait
+2025-07-24 16:39:24,147 - INFO - Action: wait
+2025-07-24 16:39:24,147 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:39:24,147 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:39:25,455 - INFO - Rofi selection: 2
+2025-07-24 16:39:27,455 - INFO - Waited for 2 seconds.
+2025-07-24 16:39:27,456 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:39:40,648 - INFO - Rofi selection: coordinate click
+2025-07-24 16:39:40,649 - INFO - Action: coordinate_click
+2025-07-24 16:39:45,693 - INFO - Captured mouse coordinates: (268, 746)
+2025-07-24 16:39:45,720 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:39:49,251 - INFO - Rofi selection: wait
+2025-07-24 16:39:49,251 - INFO - Action: wait
+2025-07-24 16:39:49,251 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:39:49,251 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:39:50,265 - INFO - Rofi selection: 3
+2025-07-24 16:39:53,265 - INFO - Waited for 3 seconds.
+2025-07-24 16:39:53,266 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:39:54,507 - INFO - Rofi selection: coordinate click
+2025-07-24 16:39:54,507 - INFO - Action: coordinate_click
+2025-07-24 16:39:59,560 - INFO - Captured mouse coordinates: (789, 515)
+2025-07-24 16:39:59,589 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:04,257 - INFO - Rofi selection: quit
+2025-07-24 16:40:04,258 - INFO - Quitting flow_creator.py script.
+2025-07-24 16:40:18,416 - INFO - Starting flow_creator.py script.
+2025-07-24 16:40:18,416 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:20,592 - INFO - Rofi selection: window switch
+2025-07-24 16:40:20,592 - INFO - Action: window_switch
+2025-07-24 16:40:20,592 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:40:20,592 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:40:22,264 - INFO - Rofi selection: 3
+2025-07-24 16:40:22,274 - INFO - Switched to desktop: 3
+2025-07-24 16:40:22,275 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:28,951 - INFO - Rofi selection: wait
+2025-07-24 16:40:28,951 - INFO - Action: wait
+2025-07-24 16:40:28,952 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:40:28,952 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:40:30,339 - INFO - Rofi selection: 1
+2025-07-24 16:40:31,340 - INFO - Waited for 1 seconds.
+2025-07-24 16:40:31,340 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:34,696 - INFO - Rofi selection: coordinate click
+2025-07-24 16:40:34,697 - INFO - Action: coordinate_click
+2025-07-24 16:40:39,747 - INFO - Captured mouse coordinates: (272, 741)
+2025-07-24 16:40:39,779 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:52,825 - INFO - Starting flow_creator.py script.
+2025-07-24 16:40:52,825 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:54,407 - INFO - Rofi selection: window switch
+2025-07-24 16:40:54,407 - INFO - Action: window_switch
+2025-07-24 16:40:54,407 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:40:54,407 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:40:55,255 - INFO - Rofi selection: 3
+2025-07-24 16:40:55,264 - INFO - Switched to desktop: 3
+2025-07-24 16:40:55,264 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:40:57,514 - INFO - Rofi selection: coordinate click
+2025-07-24 16:40:57,514 - INFO - Action: coordinate_click
+2025-07-24 16:41:02,563 - INFO - Captured mouse coordinates: (263, 747)
+2025-07-24 16:41:02,593 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:41:05,597 - INFO - Rofi selection: wait
+2025-07-24 16:41:05,597 - INFO - Action: wait
+2025-07-24 16:41:05,597 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:41:05,598 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:41:06,386 - INFO - Rofi selection: 5
+2025-07-24 16:41:11,387 - INFO - Waited for 5 seconds.
+2025-07-24 16:41:11,387 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:41:15,717 - INFO - Rofi selection: coordinate click
+2025-07-24 16:41:15,717 - INFO - Action: coordinate_click
+2025-07-24 16:41:20,770 - INFO - Captured mouse coordinates: (694, 292)
+2025-07-24 16:41:20,802 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:41:27,669 - INFO - Rofi selection: wait
+2025-07-24 16:41:27,670 - INFO - Action: wait
+2025-07-24 16:41:27,670 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:41:27,670 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:41:29,480 - INFO - Rofi selection: 3
+2025-07-24 16:41:32,481 - INFO - Waited for 3 seconds.
+2025-07-24 16:41:32,481 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:41:33,876 - INFO - Rofi selection: coordinate click
+2025-07-24 16:41:33,876 - INFO - Action: coordinate_click
+2025-07-24 16:41:38,935 - INFO - Captured mouse coordinates: (800, 507)
+2025-07-24 16:41:39,000 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:41:45,215 - INFO - Rofi selection: wait
+2025-07-24 16:41:45,216 - INFO - Action: wait
+2025-07-24 16:41:45,216 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:41:45,216 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:41:59,386 - INFO - Rofi selection: 5
+2025-07-24 16:42:04,386 - INFO - Waited for 5 seconds.
+2025-07-24 16:42:04,387 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:42:24,394 - INFO - Rofi selection: ctrl send
+2025-07-24 16:42:24,394 - INFO - Action: ctrl_send
+2025-07-24 16:42:24,394 - INFO - Rofi input prompt: Ctrl + ?
+2025-07-24 16:42:24,394 - INFO - Rofi prompt: Ctrl + ?, options: ['']
+2025-07-24 16:42:27,251 - INFO - Rofi selection: t
+2025-07-24 16:42:27,306 - INFO - Sent Ctrl+t
+2025-07-24 16:42:27,307 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:42:32,175 - INFO - Rofi selection: wait
+2025-07-24 16:42:32,176 - INFO - Action: wait
+2025-07-24 16:42:32,176 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:42:32,176 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:42:44,553 - INFO - Rofi selection: 3
+2025-07-24 16:42:47,554 - INFO - Waited for 3 seconds.
+2025-07-24 16:42:47,554 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:43:19,177 - INFO - Rofi selection: typing action
+2025-07-24 16:43:19,178 - INFO - Action: typing_action
+2025-07-24 16:43:19,179 - INFO - Rofi input prompt: Type text
+2025-07-24 16:43:19,179 - INFO - Rofi prompt: Type text, options: ['']
+2025-07-24 16:43:28,409 - INFO - Rofi selection: web.whatsapp.com
+2025-07-24 16:43:28,553 - INFO - Typed text: 'web.whatsapp.com'
+2025-07-24 16:43:28,553 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:43:37,041 - INFO - Rofi selection: quit
+2025-07-24 16:43:37,042 - INFO - Quitting flow_creator.py script.
+2025-07-24 16:44:53,289 - INFO - Starting flow_creator.py script.
+2025-07-24 16:44:53,289 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:44:55,553 - INFO - Rofi selection: window switch
+2025-07-24 16:44:55,553 - INFO - Action: window_switch
+2025-07-24 16:44:55,553 - INFO - Rofi input prompt: Desktop number
+2025-07-24 16:44:55,553 - INFO - Rofi prompt: Desktop number, options: ['']
+2025-07-24 16:44:56,745 - INFO - Rofi selection: 3
+2025-07-24 16:44:56,756 - INFO - Switched to desktop: 3
+2025-07-24 16:44:56,756 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:44:59,375 - INFO - Rofi selection: wait
+2025-07-24 16:44:59,375 - INFO - Action: wait
+2025-07-24 16:44:59,376 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:44:59,376 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:45:00,357 - INFO - Rofi selection: 2
+2025-07-24 16:45:02,357 - INFO - Waited for 2 seconds.
+2025-07-24 16:45:02,358 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:45:03,581 - INFO - Rofi selection: coordinate click
+2025-07-24 16:45:03,581 - INFO - Action: coordinate_click
+2025-07-24 16:45:08,630 - INFO - Captured mouse coordinates: (261, 740)
+2025-07-24 16:45:08,659 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:45:13,451 - INFO - Rofi selection: wait
+2025-07-24 16:45:13,451 - INFO - Action: wait
+2025-07-24 16:45:13,451 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:45:13,452 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:45:14,345 - INFO - Rofi selection: 2
+2025-07-24 16:45:16,346 - INFO - Waited for 2 seconds.
+2025-07-24 16:45:16,347 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:45:17,568 - INFO - Rofi selection: coordinate click
+2025-07-24 16:45:17,569 - INFO - Action: coordinate_click
+2025-07-24 16:45:22,618 - INFO - Captured mouse coordinates: (708, 328)
+2025-07-24 16:45:22,649 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:45:29,959 - INFO - Rofi selection: wait
+2025-07-24 16:45:29,960 - INFO - Action: wait
+2025-07-24 16:45:29,960 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:45:29,960 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:45:31,192 - INFO - Rofi selection: 2
+2025-07-24 16:45:33,193 - INFO - Waited for 2 seconds.
+2025-07-24 16:45:33,193 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:45:36,025 - INFO - Rofi selection: coordinate click
+2025-07-24 16:45:36,026 - INFO - Action: coordinate_click
+2025-07-24 16:45:41,072 - INFO - Captured mouse coordinates: (770, 513)
+2025-07-24 16:45:41,103 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:45:47,800 - INFO - Rofi selection: wait
+2025-07-24 16:45:47,801 - INFO - Action: wait
+2025-07-24 16:45:47,801 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:45:47,801 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:45:49,188 - INFO - Rofi selection: 2
+2025-07-24 16:45:51,189 - INFO - Waited for 2 seconds.
+2025-07-24 16:45:51,189 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:46:05,205 - INFO - Rofi selection: typing action
+2025-07-24 16:46:05,206 - INFO - Action: typing_action
+2025-07-24 16:46:05,206 - INFO - Rofi input prompt: Type text
+2025-07-24 16:46:05,206 - INFO - Rofi prompt: Type text, options: ['']
+2025-07-24 16:46:11,616 - INFO - Rofi selection: web.whatsapp.com
+2025-07-24 16:46:11,763 - INFO - Typed text: 'web.whatsapp.com'
+2025-07-24 16:46:11,763 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:46:16,061 - INFO - Rofi selection: wait
+2025-07-24 16:46:16,062 - INFO - Action: wait
+2025-07-24 16:46:16,062 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:46:16,062 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:46:17,341 - INFO - Rofi selection: 2
+2025-07-24 16:46:19,342 - INFO - Waited for 2 seconds.
+2025-07-24 16:46:19,342 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:46:28,958 - INFO - Rofi selection: enter
+2025-07-24 16:46:28,959 - INFO - Action: enter
+2025-07-24 16:46:28,993 - INFO - Sent Enter key.
+2025-07-24 16:46:28,993 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:46:34,526 - INFO - Rofi selection: wait
+2025-07-24 16:46:34,527 - INFO - Action: wait
+2025-07-24 16:46:34,529 - INFO - Rofi input prompt: Seconds to wait
+2025-07-24 16:46:34,529 - INFO - Rofi prompt: Seconds to wait, options: ['']
+2025-07-24 16:46:35,876 - INFO - Rofi selection: 60
+2025-07-24 16:47:35,876 - INFO - Waited for 60 seconds.
+2025-07-24 16:47:35,877 - INFO - Rofi prompt: Pick action, options: ['coordinate click', 'window switch', 'text finder', 'ctrl send', 'typing action', 'scroll down', 'scroll up', 'enter', 'wait', 'cycle tabs', 'kill', 'ctrl+alt+/', 'backspace', 'save & exit', 'quit']
+2025-07-24 16:48:15,999 - INFO - Rofi selection: save & exit
+2025-07-24 16:48:16,000 - INFO - Exiting flow creation loop.
+2025-07-24 16:48:16,000 - INFO - Rofi input prompt: Flow file name
+2025-07-24 16:48:16,000 - INFO - Rofi prompt: Flow file name, options: ['']
+2025-07-24 16:48:22,548 - INFO - Rofi selection: STARTWHATSAPP
+2025-07-24 16:48:22,580 - INFO - Flow saved to /home/mehmet/Proyectos/TANZIMAT/flows/STARTWHATSAPP.json

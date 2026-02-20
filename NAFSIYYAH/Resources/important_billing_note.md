@@ -1,0 +1,1 @@
+in there is a billing item called google bucket on the first, this is a placeholder and on that day alot of google stuff comes due so never have money on the card on that day

@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+
+RITUAL_FILE="$HOME/.rituals.yml"
+
+scenario="$1"
+
+if [ -z "$scenario" ]; then
+    echo "Usage: ritual <scenario>"
+    exit 1
+fi
+
+# check scenario exists
+exists=$(yq ".\"$scenario\"" "$RITUAL_FILE")
+if [ "$exists" = "null" ]; then
+    echo "No such scenario: $scenario"
+    exit 1
+fi
+
+# get target desktop
+desktop=$(yq -r ".\"$scenario\".desktop" "$RITUAL_FILE")
+if [ "$desktop" != "null" ] && [ -n "$desktop" ]; then
+    bspc desktop -f "^$desktop"
+fi
+
+# get reminders list as a block of lines
+reminders=$(yq -r ".\"$scenario\".reminders[]" "$RITUAL_FILE")
+
+# show reminders in rofi
+# we join them into one block so you read all at once instead of selecting
+printf "%s\n" "$reminders" | rofi -dmenu -p "$scenario" -lines 10 -width 60 -no-fixed-num-lines
+
+# run follow-up commands (optional)
+cmd_count=$(yq ".\"$scenario\".run | length" "$RITUAL_FILE" 2>/dev/null)
+
+if [ "$cmd_count" != "null" ] && [ "$cmd_count" -gt 0 ]; then
+    i=0
+    while [ $i -lt $cmd_count ]; do
+        cmd=$(yq -r ".\"$scenario\".run[$i]" "$RITUAL_FILE")
+        # run each command in the background so we don't block
+        bash -c "$cmd" &
+        i=$((i+1))
+    done
+fi
+
+# optional: lightweight logging
+logdir="$HOME/.ritual_logs"
+mkdir -p "$logdir"
+timestamp=$(date +"%Y-%m-%d %H:%M:%S")
+echo "[$timestamp] ran $scenario" >> "$logdir/$scenario.log"

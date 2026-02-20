@@ -1,0 +1,3 @@
+- 9 am journalling reminder
+- 7 am daily tasks 
+- 7 am overview.md of what i haven't done specifically

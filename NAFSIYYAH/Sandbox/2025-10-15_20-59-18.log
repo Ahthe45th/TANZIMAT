@@ -1,0 +1,73 @@
+error: unexpected argument '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+error: unexpected argument '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though' found
+
+  tip: to pass '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though' as a value, use '-- --- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though'
+
+Usage: codex exec --cd <DIR> --skip-git-repo-check --dangerously-bypass-approvals-and-sandbox [PROMPT]
+
+For more information, try '--help'.
+
+--- NEW PROMPT ---
+hi' found
+
+  tip: to pass '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+error: unexpected argument '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though' found
+
+  tip: to pass '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though' as a value, use '-- --- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though'
+
+Usage: codex exec --cd <DIR> --skip-git-repo-check --dangerously-bypass-approvals-and-sandbox [PROMPT]
+
+For more information, try '--help'.
+
+--- NEW PROMPT ---
+hi' as a value, use '-- --- CONTEXT FROM PREVIOUS LOGS TODAY ---
+error: unexpected argument '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though' found
+
+  tip: to pass '--- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though' as a value, use '-- --- CONTEXT FROM PREVIOUS LOGS TODAY ---
+
+
+--- NEW PROMPT ---
+How art though'
+
+Usage: codex exec --cd <DIR> --skip-git-repo-check --dangerously-bypass-approvals-and-sandbox [PROMPT]
+
+For more information, try '--help'.
+
+--- NEW PROMPT ---
+hi'
+
+Usage: codex exec --cd <DIR> --skip-git-repo-check --dangerously-bypass-approvals-and-sandbox [PROMPT]
+
+For more information, try '--help'.

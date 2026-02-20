@@ -1,0 +1,1 @@
+Compile kid-friendly resources for vibe coding to teach later.

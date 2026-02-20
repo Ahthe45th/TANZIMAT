@@ -1,0 +1,65 @@
+[
+    {
+        "time": "07:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Reminders/Weekend.md",
+        "last_triggered": null,
+        "days": [
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": null
+    },
+    {
+        "time": "09:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Journalling.md",
+        "last_triggered": null,
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/dailyshadowwork.py"
+    },
+    {
+        "time": "09:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Sandbox/AllTasks.md",
+        "last_triggered": null,
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": "grep -v '~~.*~~' /home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Overview.md > /home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Sandbox/AllTasks.md",
+        "post_command": null
+    },
+    {
+        "time": "06:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/IGcheck.md",
+        "last_triggered": null,
+        "days": null,
+        "days_of_month": null,
+        "repeat_days": 3,
+        "start_date": "2025-11-01",
+        "pre_command": "notify-send \"ATTENTION!!! CHECK IG NEWS\"",
+        "post_command": "Make sure to get it done"
+    }
+]

@@ -1,0 +1,13 @@
+- The rock of tanios
+- Leo africanus
+- Crusades through arab eyes
+- Wissam rafidi
+- a dream of red mensions
+- Doris lessing the good terror
+- Frankenstein in Baghdad
+- djinn city
+- cyber mage
+- season of migration to the north
+- my name is red
+- cairo trilogy
+- gold dust

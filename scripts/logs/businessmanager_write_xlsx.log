@@ -1,0 +1,455 @@
+2025-10-30 15:16:34,278 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:16:34,286 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 197, in <module>
+    download_from_nextcloud(REMOTE_XLSX_PATH, LOCAL_XLSX_PATH)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 95, in download_from_nextcloud
+    r = subprocess.run([GET_FROM_NC, remote_path, local_path])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 1950, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/mehmet/Proyectos/TANZIMAT/scripts/get_from_nextcloud.sh'
+2025-10-30 15:17:07,823 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:17:10,380 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-151710.bak
+2025-10-30 15:17:55,367 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 227, in <module>
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 158, in append_rows_to_sheet
+    df_existing = pd.read_excel(xlsx_path, sheet_name=sheet_name)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 1554, in __init__
+    raise ValueError(
+ValueError: Excel file format cannot be determined, you must specify an engine manually.
+2025-10-30 15:19:49,096 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:19:52,143 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-151952.bak
+2025-10-30 15:20:15,556 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1381, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1354, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1318, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 227, in <module>
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 158, in append_rows_to_sheet
+    df_existing = pd.read_excel(xlsx_path, sheet_name=sheet_name, engine="openpyxl")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_openpyxl.py", line 552, in __init__
+    import_optional_dependency("openpyxl")
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/compat/_optional.py", line 138, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-10-30 15:20:51,591 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:20:56,151 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-152056.bak
+2025-10-30 15:21:17,433 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 227, in <module>
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 158, in append_rows_to_sheet
+    df_existing = pd.read_excel(xlsx_path, sheet_name=sheet_name, engine="openpyxl")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_openpyxl.py", line 553, in __init__
+    super().__init__(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 573, in __init__
+    self.book = self.load_workbook(self.handles.handle, engine_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_openpyxl.py", line 572, in load_workbook
+    return load_workbook(
+           ^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/openpyxl/reader/excel.py", line 346, in load_workbook
+    reader = ExcelReader(filename, read_only, keep_vba,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/openpyxl/reader/excel.py", line 123, in __init__
+    self.archive = _validate_archive(fn)
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/openpyxl/reader/excel.py", line 95, in _validate_archive
+    archive = ZipFile(filename, 'r')
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/zipfile/__init__.py", line 1338, in __init__
+    self._RealGetContents()
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/zipfile/__init__.py", line 1405, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+2025-10-30 15:24:43,745 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:25:02,468 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-152502.bak
+2025-10-30 15:25:31,762 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 227, in <module>
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 158, in append_rows_to_sheet
+    df_existing = pd.read_excel(xlsx_path, sheet_name=sheet_name, engine="openpyxl")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 508, in read_excel
+    data = io.parse(
+           ^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 1616, in parse
+    return self._reader.parse(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 773, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_openpyxl.py", line 582, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/site-packages/pandas/io/excel/_base.py", line 624, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'İNCOME DATA' not found
+2025-10-30 15:27:41,751 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:27:44,687 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-152744.bak
+2025-10-30 15:28:27,396 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:28:50,330 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-152850.bak
+2025-10-30 15:29:16,500 - INFO - Inserted 1 rows into İNCOME DATA
+2025-10-30 15:29:16,535 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2025-10-30 15:29:16,549 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 233, in <module>
+    upload_to_nextcloud(LOCAL_XLSX_PATH, REMOTE_XLSX_PATH)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 101, in upload_to_nextcloud
+    r = subprocess.run([PUT_TO_NC, local_path, remote_path])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 1950, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/mehmet/Proyectos/TANZIMAT/scripts/put_to_nextcloud.sh'
+2025-10-30 15:30:28,559 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:30:52,591 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-153052.bak
+2025-10-30 15:31:15,057 - INFO - Inserted 1 rows into İNCOME DATA
+2025-10-30 15:31:15,093 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2025-10-30 15:31:17,470 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 233, in <module>
+    upload_to_nextcloud(LOCAL_XLSX_PATH, REMOTE_XLSX_PATH)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 103, in upload_to_nextcloud
+    raise RuntimeError(f"Upload failed: {remote_path}")
+RuntimeError: Upload failed: /Documents/BUSINESSMANAGER.xlsx
+2025-10-30 15:36:19,596 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:36:23,803 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-153623.bak
+2025-10-30 15:36:58,197 - INFO - Inserted 1 rows into İNCOME DATA
+2025-10-30 15:36:58,235 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2025-10-30 15:36:58,250 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 233, in <module>
+    upload_to_nextcloud(LOCAL_XLSX_PATH, REMOTE_XLSX_PATH)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 101, in upload_to_nextcloud
+    r = subprocess.run([PUT_TO_NC, local_path, remote_path])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.12/subprocess.py", line 1950, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/mehmet/Proyectos/TANZIMAT/scripts/put_to_nextcloud.sh'
+2025-10-30 15:37:05,634 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2025-10-30 15:37:31,271 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20251030-153731.bak
+2025-10-30 15:37:54,464 - INFO - Inserted 1 rows into İNCOME DATA
+2025-10-30 15:37:54,501 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-05 15:23:28,800 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:23:28,802 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 197, in <module>
+    download_from_nextcloud(REMOTE_XLSX_PATH, LOCAL_XLSX_PATH)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 95, in download_from_nextcloud
+    r = subprocess.run([GET_FROM_NC, remote_path, local_path])
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/subprocess.py", line 1863, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/mehmet/Proyectos/TANZIMAT/scripts/get_from_nextcloud.sh'
+2026-01-05 15:24:00,764 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:24:03,738 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260105-152403.bak
+2026-01-05 15:25:39,889 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 211, in <module>
+    raw_rows = clipboardread()  # list of dicts from your LLM pattern
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 76, in clipboardread
+    return json.loads(result)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-01-05 15:46:34,892 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:46:37,270 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260105-154637.bak
+2026-01-05 15:46:48,327 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 227, in <module>
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 158, in append_rows_to_sheet
+    df_existing = pd.read_excel(xlsx_path, sheet_name=sheet_name, engine="openpyxl")
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 552, in __init__
+    import_optional_dependency("openpyxl")
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/compat/_optional.py", line 138, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2026-01-05 15:47:20,388 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:47:22,532 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260105-154722.bak
+2026-01-05 15:47:34,513 - INFO - Inserted 1 rows into İNCOME DATA
+2026-01-05 15:47:34,533 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-05 15:47:34,534 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 233, in <module>
+    upload_to_nextcloud(LOCAL_XLSX_PATH, REMOTE_XLSX_PATH)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 101, in upload_to_nextcloud
+    r = subprocess.run([PUT_TO_NC, local_path, remote_path])
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/subprocess.py", line 1863, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/home/mehmet/Proyectos/TANZIMAT/scripts/put_to_nextcloud.sh'
+2026-01-05 15:47:59,905 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:48:01,955 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260105-154801.bak
+2026-01-05 15:48:21,423 - INFO - Inserted 1 rows into İNCOME DATA
+2026-01-05 15:48:21,449 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-05 15:50:01,931 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:50:04,325 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260105-155004.bak
+2026-01-05 15:50:15,992 - INFO - Inserted 1 rows into İNCOME DATA
+2026-01-05 15:50:16,012 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-05 15:51:29,165 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-05 15:51:31,031 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260105-155131.bak
+2026-01-05 15:51:46,432 - INFO - Inserted 1 rows into İNCOME DATA
+2026-01-05 15:51:46,458 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:20:04,914 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:20:08,674 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182008.bak
+2026-01-20 18:20:40,092 - INFO - Inserted 5 rows into İNCOME DATA
+2026-01-20 18:20:40,122 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:20:45,800 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:20:49,190 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182049.bak
+2026-01-20 18:20:56,700 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 211, in <module>
+    raw_rows = clipboardread()  # list of dicts from your LLM pattern
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 76, in clipboardread
+    return json.loads(result)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-01-20 18:21:01,170 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:21:31,647 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182131.bak
+2026-01-20 18:22:06,116 - INFO - Inserted 13 rows into İNCOME DATA
+2026-01-20 18:22:06,136 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:22:23,245 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:22:26,956 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182226.bak
+2026-01-20 18:22:57,413 - INFO - Inserted 14 rows into İNCOME DATA
+2026-01-20 18:22:57,434 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:23:06,466 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:23:42,639 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182342.bak
+2026-01-20 18:24:14,419 - INFO - Inserted 12 rows into İNCOME DATA
+2026-01-20 18:24:14,441 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:24:26,412 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:25:11,037 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182511.bak
+2026-01-20 18:25:53,984 - INFO - Inserted 15 rows into İNCOME DATA
+2026-01-20 18:25:54,006 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:26:05,926 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:26:08,814 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182608.bak
+2026-01-20 18:26:50,461 - INFO - Inserted 10 rows into İNCOME DATA
+2026-01-20 18:26:50,494 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:27:18,436 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:27:58,906 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182758.bak
+2026-01-20 18:28:31,676 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-20 18:28:33,515 - INFO - Inserted 11 rows into İNCOME DATA
+2026-01-20 18:28:33,537 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-20 18:28:34,528 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260120-182834.bak
+2026-01-20 18:28:57,285 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 227, in <module>
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/businessmanagerwrite_xlsx.py", line 158, in append_rows_to_sheet
+    df_existing = pd.read_excel(xlsx_path, sheet_name=sheet_name, engine="openpyxl")
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 553, in __init__
+    super().__init__(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 573, in __init__
+    self.book = self.load_workbook(self.handles.handle, engine_kwargs)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 572, in load_workbook
+    return load_workbook(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/openpyxl/reader/excel.py", line 289, in read
+    self.read_manifest()
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/openpyxl/reader/excel.py", line 134, in read_manifest
+    src = self.archive.read(ARC_CONTENT_TYPES)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/zipfile.py", line 1499, in read
+    with self.open(name, "r", pwd) as fp:
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/zipfile.py", line 1559, in open
+    raise BadZipFile("Bad magic number for file header")
+zipfile.BadZipFile: Bad magic number for file header
+2026-01-23 00:18:55,538 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:19:02,865 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-001902.bak
+2026-01-23 00:19:39,971 - INFO - Inserted 5 rows into İNCOME DATA
+2026-01-23 00:19:39,997 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:20:24,237 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:21:48,775 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-002148.bak
+2026-01-23 00:22:24,079 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 229, in <module>
+    raw_rows = clipboardread()  # list of dicts from your LLM pattern
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 76, in clipboardread
+    return json.loads(result)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-01-23 00:23:23,953 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:24:39,997 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-002439.bak
+2026-01-23 00:35:45,435 - INFO - Inserted 6 rows into İNCOME DATA
+2026-01-23 00:35:45,466 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:36:07,798 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:37:13,491 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-003713.bak
+2026-01-23 00:38:08,204 - INFO - Inserted 7 rows into İNCOME DATA
+2026-01-23 00:38:08,230 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:38:36,767 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:38:42,994 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-003842.bak
+2026-01-23 00:39:30,587 - INFO - Inserted 13 rows into İNCOME DATA
+2026-01-23 00:39:30,620 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:39:51,409 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:39:57,706 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-003957.bak
+2026-01-23 00:40:59,613 - INFO - Inserted 14 rows into İNCOME DATA
+2026-01-23 00:40:59,643 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:41:32,583 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:41:38,710 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-004138.bak
+2026-01-23 00:42:28,904 - INFO - Inserted 9 rows into İNCOME DATA
+2026-01-23 00:42:28,931 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:42:46,717 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:42:52,920 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-004252.bak
+2026-01-23 00:45:25,325 - INFO - Inserted 15 rows into İNCOME DATA
+2026-01-23 00:45:25,351 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:45:53,768 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:47:02,628 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:47:23,951 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-004723.bak
+2026-01-23 00:47:53,813 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-004753.bak
+2026-01-23 00:49:01,133 - INFO - Inserted 13 rows into İNCOME DATA
+2026-01-23 00:49:01,164 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:50:23,958 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 242, in <module>
+    rows = normalize_rows(raw_rows)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 149, in normalize_rows
+    d = parse_date_flex(str(row["DATE"]))
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 140, in parse_date_flex
+    raise ValueError(f"Unrecognized DATE: {s}")
+ValueError: Unrecognized DATE: 2023-03-15
+2026-01-23 00:50:41,305 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:52:22,862 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-005222.bak
+2026-01-23 00:52:49,774 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 229, in <module>
+    raw_rows = clipboardread()  # list of dicts from your LLM pattern
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 76, in clipboardread
+    return json.loads(result)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-01-23 00:54:02,940 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:54:11,106 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-005411.bak
+2026-01-23 00:54:50,576 - INFO - Inserted 10 rows into İNCOME DATA
+2026-01-23 00:54:50,596 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:55:01,975 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:55:08,184 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-005508.bak
+2026-01-23 00:56:05,923 - INFO - Inserted 15 rows into İNCOME DATA
+2026-01-23 00:56:05,943 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:56:22,649 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:56:29,268 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-005629.bak
+2026-01-23 00:57:05,757 - INFO - Inserted 12 rows into İNCOME DATA
+2026-01-23 00:57:05,776 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:57:22,192 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 00:57:28,282 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-005728.bak
+2026-01-23 00:58:44,623 - INFO - Inserted 26 rows into İNCOME DATA
+2026-01-23 00:58:44,645 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 00:58:56,350 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 01:00:07,214 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-010007.bak
+2026-01-23 01:01:31,901 - INFO - Inserted 16 rows into İNCOME DATA
+2026-01-23 01:01:31,924 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 01:02:22,360 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 01:03:19,134 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-010319.bak
+2026-01-23 01:03:33,116 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 242, in <module>
+    rows = normalize_rows(raw_rows)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 149, in normalize_rows
+    d = parse_date_flex(str(row["DATE"]))
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/income_recorder.py", line 140, in parse_date_flex
+    raise ValueError(f"Unrecognized DATE: {s}")
+ValueError: Unrecognized DATE: 2023-03-15
+2026-01-23 01:04:58,662 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 01:05:05,363 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-010505.bak
+2026-01-23 01:06:07,384 - INFO - Inserted 27 rows into İNCOME DATA
+2026-01-23 01:06:07,407 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-01-23 01:06:28,645 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-01-23 01:06:35,261 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260123-010635.bak
+2026-01-23 01:07:27,597 - INFO - Inserted 22 rows into İNCOME DATA
+2026-01-23 01:07:27,623 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx

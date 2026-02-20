@@ -1,0 +1,329 @@
+[
+    {
+        "time": "07:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Reminders/Weekend.md",
+        "last_triggered": "2026-02-15",
+        "days": [
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": null,
+        "label": "Weekend"
+    },
+    {
+        "time": "09:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Journalling.md",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/dailyshadowwork.py",
+        "label": "Journal"
+    },
+    {
+        "time": "20:30",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/SpendJournalling.md",
+        "last_triggered": "2026-02-19",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/spend_recorder.py",
+        "label": "Recording daily spend"
+    },
+    {
+        "time": "04:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Prayertimesset.md",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/add_prayer_reminders.py",
+        "label": "Added the timings for salah"
+    },
+    {
+        "time": "20:30",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Prayertimesset.md",
+        "last_triggered": "2026-02-19",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/remove_prayer_reminders.py",
+        "label": "Removed the timings for salah"
+    },
+    {
+        "time": "12:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Journalling.md",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/post_workout_log.py",
+        "label": "Workout"
+    },
+    {
+        "time": "20:30",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Journalling.md",
+        "last_triggered": "2026-02-19",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/daily_reflection.py",
+        "label": "Daily reflection"
+    },
+    {
+        "time": "20:30",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Journalling.md",
+        "last_triggered": "2026-02-15",
+        "days": [
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/weekly_review.py",
+        "label": "Weekly reflection"
+    },
+    {
+        "time": "20:30",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/Journalling.md",
+        "last_triggered": "2026-02-15",
+        "days": [
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/monthly_checkin.py",
+        "label": "Monthly reflection"
+    },
+    {
+        "time": "20:30",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Reminders/DailyCommunication.md",
+        "last_triggered": "2026-02-19",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": null,
+        "post_command": "",
+        "label": "Comms reminder"
+    },
+    {
+        "time": "09:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Sandbox/AllTasks.md",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": "2025-11-01",
+        "pre_command": "grep -v '~~.*~~' /home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Overview.md > /home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Sandbox/AllTasks.md",
+        "post_command": null,
+        "label": "Undone Tasks"
+    },
+    {
+        "time": "06:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Resources/IGcheck.md",
+        "last_triggered": "2026-02-20",
+        "days": null,
+        "days_of_month": null,
+        "repeat_days": 3,
+        "start_date": "2025-11-01",
+        "pre_command": "",
+        "post_command": "notify-send \"Make sure to get it done\"",
+        "label": "Meta Ads Manager"
+    },
+    {
+        "time": "23:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/reminders_content/20251122114056_Task_Organizing.txt",
+        "label": "Task Organizing",
+        "last_triggered": "2026-02-19",
+        "days": null,
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": null
+    },
+    {
+        "time": "05:39",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/prayer_reminder.md",
+        "label": "Fajr Prayer",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+    },
+    {
+        "time": "12:41",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/prayer_reminder.md",
+        "label": "Dhuhr Prayer",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+    },
+    {
+        "time": "16:-4",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/prayer_reminder.md",
+        "label": "Asr Prayer",
+        "last_triggered": "2026-02-20",
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+    },
+    {
+        "time": "18:46",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/prayer_reminder.md",
+        "label": "Maghrib Prayer",
+        "last_triggered": null,
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+    },
+    {
+        "time": "19:44",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/prayer_reminder.md",
+        "label": "Isha Prayer",
+        "last_triggered": null,
+        "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+    }
+]

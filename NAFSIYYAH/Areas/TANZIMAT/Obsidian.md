@@ -1,0 +1,1 @@
+### Current Actionsn- Set up mcp if possiblenn### Completed Actionsnn### Notesnn### Completion Specification

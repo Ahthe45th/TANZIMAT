@@ -1,0 +1,18 @@
+[
+  {
+    "action": "window_switch",
+    "desktop": 3
+  },
+  {
+    "action": "coordinate_click",
+    "x": 357,
+    "y": 736
+  },
+  {
+    "action": "type",
+    "text": "Ad"
+  },
+  {
+    "action": "enter"
+  }
+]

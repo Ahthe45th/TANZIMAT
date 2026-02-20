@@ -1,0 +1,20 @@
+### Maintenance Tasks
+- DUSTBIN & SANDALS (MONTH END)
+- LIVING ROOM & CORRIDOR (WEEK END)
+- MY ROOM (WEEK END)
+- KIDS ROOM (WEEK END)
+- PARENTS ROOM
+- RECORD INCOME
+- RECORD SPEND
+- BILL REPORTS
+- RENT AND AD BALANCES
+- SOCIAL MEDIA CHARGES
+- throwing trash
+- replacing toothpaste
+- cutting potatoes on the weekend
+- dishes on the weekend
+- organizing entertainment for the weekend
+- movie every two weeks with fam
+- adeenas weekend hour
+- yuwannas weekend hour
+- throwinsh trash to balcony

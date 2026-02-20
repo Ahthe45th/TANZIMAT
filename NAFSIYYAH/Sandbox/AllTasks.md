@@ -1,0 +1,8 @@
+- Create SOP for creating videos (project: Content_schedule) (type: current action)
+- Lock up security (project: Staying ahead of the curve using customer feedback) (type: current action)
+- [ ] Set up pricing (15% discount prime number packages UpTo 29 starting at 500) (project: Zawjiah_Project_Page) (type: current action)
+- Set up so the profile url looks alright (project: Zawjiah_Project_Page) (type: current action)
+- [ ] Create account on LinkedIn as PH (project: LinkedIn) (type: current action)
+- [ ] Each person on site needs to have a q&a section under their specific page but only yasins works (project: Drivevest) (type: current action)
+- [ ] How can replies be stored and sent to recipient (project: Drivevest) (type: current action)
+- [ ] Spending aggregation script fix (project: Palestinian_Cloud) (type: current action)

@@ -1,0 +1,216 @@
+### Current Actions
+~~- [ ] - How to get started~~
+~~- Pick topic~~
+~~- Draft~~
+~~- Record~~
+~~- Edit~~
+~~- Title~~
+~~- Upload~~
+~~- Check analytics~~
+- Create SOP for creating videos
+
+### Notes
+- Right — without a clear editing routine, the whole system collapses. Here’s how to integrate editing into your workflow so it’s **consistent, light, and never overwhelming**.
+- 
+- I’ll keep it natural and practical.
+- 
+- ---
+- 
+- # **Where Editing Fits**
+- 
+- ### **Editing is NOT part of daily creation.**
+- 
+- If you try to script, record, and edit in the same day, you’ll burn out fast.
+- 
+- Instead:
+- 
+- ### **Edit on two dedicated days:**
+- 
+- * **Friday afternoon or evening**
+- * **Sunday (1–2 hours)**
+- 
+- This keeps creation and editing separate, which makes everything smoother.
+- 
+- ---
+- 
+- # **Your Editing Workflow (Simple + Consistent)**
+- 
+- ## **Friday – Batch Edit Day**
+- 
+- After you upload and review analytics:
+- 
+- ### **1. Grab all raw clips from the week**
+- 
+- Everything you recorded Monday–Thursday:
+- 
+- * Reaction/clips
+- * WH40K drafts
+- * Study-with-me moment
+- * Book review note
+- * Islamic reflection
+- * Opinion-breakdown clip
+- 
+- Put them in one folder.
+- 
+- ### **2. Choose 2–4 videos to finish**
+- 
+- You don’t need to finish everything you recorded. Just pick a few that feel strong or easy.
+- 
+- ### **3. Edit using the “minimal viable edit” rule**
+- 
+- Your weekly default edit should be extremely lightweight:
+- 
+- * Trim start/end
+- * Add captions (auto if possible)
+- * Maybe add a few keywords on screen
+- * Export at vertical format if short
+- * Export at horizontal if longer
+- 
+- No fancy transitions. No cinematic nonsense.
+- Keep it straightforward.
+- 
+- ### **4. Upload all finished edits**
+- 
+- That’s your Friday publishing ritual.
+- 
+- ---
+- 
+- ## **Sunday – Deep or Creative Edit Day**
+- 
+- Use this day for videos that need more care:
+- 
+- * Ambience videos
+- * WH40K lore shorts with narration
+- * Book review long-form
+- * Islamic history breakdowns
+- * Any story-based content
+- 
+- This is where you can:
+- 
+- * Add music
+- * Layer sound effects
+- * Add images or clips
+- * Add structured subtitles
+- * Add chapter transitions
+- 
+- Think of Sunday as your “craft day.”
+- 
+- You do NOT need to do this every Sunday — only when you have a bigger project.
+- 
+- ---
+- 
+- # **Daily Editing (Optional, 10 minutes)**
+- 
+- If you want editing to feel lighter:
+- 
+- ### **Do micro-edits daily, but don’t finish videos.**
+- 
+- For example:
+- 
+- * Monday: Rough cut 1 minute from yesterday’s clip
+- * Tuesday: Add subtitles to one draft
+- * Wednesday: Clean audio on one clip
+- * Thursday: Add intro/outro
+- 
+- Then Friday you finalize and export.
+- 
+- But this micro-editing is optional. The weekly system works even without it.
+- 
+- ---
+- 
+- # **How Your Full Weekly Flow Looks Now**
+- 
+- ### **Mon–Thu**
+- 
+- * Collect ideas
+- * Write 30 min
+- * Record 10–20 min
+- * Light review
+-   **No editing**
+- 
+- ### **Friday**
+- 
+- * Idea sourcing
+- * Upload finished videos
+- * **Batch edit 2–4 videos**
+- * Publish everything created
+- 
+- ### **Saturday**
+- 
+- * Ambience planning
+- * Series watching for ideas
+- * Script drafting
+-   **No editing**
+- 
+- ### **Sunday**
+- 
+- * Relax
+- * Read
+- * Work on long-form
+- * **Optional deep editing for ambience or longer videos**
+- 
+- ---
+- 
+- # **If you want, I can also give you:**
+- 
+- * A **30-minute editing routine** (for fast edits)
+- * A **1-hour editing routine** (for lore and ambience)
+- * A recommended **editing software workflow** based on your OS
+- * A **file folder structure** to keep everything organised
+- * A **content pipeline tracker** so you always know what’s in scripting, recording, editing, and uploading
+- 
+- Tell me which you want next.
+- Basically the first thing we're going to do is turn a lot of our content watching into something more productive so.
+- 
+- - Every Friday look through the channels of people who yk are religious figures or high profile Muslims and watch some of their videos or even just get a transcript and if there's ever an opinion a person has that you disagree with then note to break that down and turn it into a video. This is also applicable to any non Muslim who says something you think is outrageous can also be broken down into a vid.
+- - Every Friday you also attempt to upload all the videos created on the various channels and mediums and then check back later.
+- - Every 1-2 weeks you want to create an Ambience video so you pick an idea say "you are a janissary cleaning his sword"
+- - In terms of book reading you can have two books one is entertainment, one is secular, one is Islamic. You make notes on the same and then once done with the book begin to develop a book review video.
+- - Record yourself working sometimes and then just compile and upload gathering you know, Poems in Arabic and the like
+- - Over the weekend while watching Turkish series and even some Islamic ones note anything interesting to talk about and then flesh it out 
+- - in terms of Deen self improvement and income give progress updates on a monthly 
+- - In terms of wh40k lore develop short stories and based off of that create shorts
+- - First of all there are a number of topics I want to try out:
+- - Going against people for opinions I don't like
+- - Book review
+- - Sharing my studies in terms of Islamic history
+- - A sort of wh40k like book about but you develop the lore and then just develop videos that sort of make it seem that the lore for this is already fleshed out
+- - Self improvement stuff
+- - getting income stuff
+- - Deen related stuff
+- - Ambience
+- - Also start work on the 40k lore thing
+- - Your working on X but islamic
+- - Study with me
+- - Valaritas style videos on islamic series
+- First of all there are a number of topics I want to try out: 
+- Going against people for opinions I don't like 
+- Book review 
+- Sharing my studies in terms of Islamic history 
+- A sort of wh40k like book about but you develop the lore and then just develop videos that sort of make it seem that the lore for this is already fleshed out
+- Self improvement stuff 
+- getting income stuff
+- Deen related stuff
+- Ambience
+- Also start work on the 40k lore thing
+- Your working on X but islamic
+- Study with me
+- Valaritas style videos on islamic series
+
+Importance on continuity rather than quality.
+### Completed Actions
+- ~Pick topic~
+- ~Draft~
+- ~Record~
+- ~Edit~
+- ~Title~
+- ~Upload~
+- ~Check analytics~
+- ~Make all of this backed up on nextcloud by script~
+- ~Pick topic (Steps to take to do the goals and tasks that will make it >
+- ~Draft~
+- ~Record~
+- ~Edit~
+- ~Title~
+- ~Upload~
+- ~Check analytics~
