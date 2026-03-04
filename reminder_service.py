@@ -28,9 +28,9 @@ def check_reminders():
     current_date_str = now.strftime("%Y-%m-%d")
     current_day_of_week = now.weekday() # Monday is 0 and Sunday is 6
     reminder_triggered = False
-    reminders_to_remove = []
+    reminder_indices_to_remove = []
 
-    for reminder in reminders:
+    for reminder_index, reminder in enumerate(reminders[:]):
         reminder_time_str = reminder['time']
         last_triggered_date = reminder.get('last_triggered')
         allowed_days = reminder.get('days')
@@ -40,7 +40,7 @@ def check_reminders():
         pre_command = reminder.get('pre_command')
         post_command = reminder.get('post_command')
         no_notif = reminder.get('skip_notification', False)
-        one_off = reminder.get('one_off', False)
+        is_one_off = reminder.get("one_off", False)
 
         # Check if the reminder should be triggered based on the day of the week
         if allowed_days and current_day_of_week not in allowed_days:
@@ -89,10 +89,10 @@ def check_reminders():
                 
                 if returncode == 0: # Acknowledged
                     logging.info(f"Reminder for {reminder['file']} acknowledged.")
-                    reminder['last_triggered'] = current_date_str
-
-                    if one_off:
-                        reminders_to_remove.append(reminder)
+                    if is_one_off:
+                        reminder_indices_to_remove.append(reminder_index)
+                    else:
+                        reminder['last_triggered'] = current_date_str
 
                     if post_command:
                         logging.info(f"Executing post-command: {post_command}")
@@ -127,8 +127,9 @@ def check_reminders():
             except Exception as e:
                 logging.exception(f"An unexpected error occurred: {e}")
 
-    if reminders_to_remove:
-        reminders = [reminder for reminder in reminders if reminder not in reminders_to_remove]
+    if reminder_indices_to_remove:
+        for reminder_index in sorted(set(reminder_indices_to_remove), reverse=True):
+            del reminders[reminder_index]
 
     save_reminders(reminders)
     
