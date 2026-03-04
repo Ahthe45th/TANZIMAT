@@ -1,0 +1,10 @@
+Now it is time for you to handle troubleshooting matters and activations at least for the first time. The second time should be before you go to bed.
+
+SOP for activation:
+- Set package
+- Check profession is relevant, inform if not
+- Look for relevant sale in group
+- Press activate, inputting the date and amount
+- Refresh
+- Press on the kebab menu for recently activated person generate hubby and auto messages.
+

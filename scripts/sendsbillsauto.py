@@ -14,6 +14,7 @@ import glob
 import logging
 import datetime
 import re
+from datetime import date
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 env_path = os.path.join(script_dir, 'tanzimat.env')
@@ -265,10 +266,26 @@ if __name__ == "__main__":
         notify("📥 Message fetched")
         logging.info("Message fetched.")
         print(message)
+        # Send HTTP POST request
+        try:
+            current_date_str = date.today().isoformat()
+            subject = f"Bills for {current_date_str}"
+            payload = {
+                            "SUBJECT": subject,
+                            "BODY": message, "extras": "abushuriya@gmail.com,dchege411@gmail.com"
+            }
+            webhook_url = "https://n8n.tuongeechat.com/webhook/ddf10b7c-7764-4d25-8459-6cef88d2041f"
+            response = requests.post(webhook_url, json=payload)
+            response.raise_for_status() # Raise an exception for HTTP errors
+            logging.info(f"Successfully sent POST request for {subject}. Status Code: {response.status_code}")
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to send POST request for {subject}: {e}")
+            notify("Sending email of bills failed brother. Check the logs.")
+
         # 2. Set clipboard
-        set_clipboard(message)
-        notify("📋 Clipboard set")
-        logging.info("Clipboard set.")
+        #set_clipboard(message)
+        #notify("📋 Clipboard set")
+        #logging.info("Clipboard set.")
 
         # 3. Focus desktop 3
         #subprocess.run(["bspc", "desktop", "-f", "^3"])
@@ -283,7 +300,6 @@ if __name__ == "__main__":
         #click_text("BILLS")
 
         # 6. Paste message and send
-        paste_clipboard()
         logging.info("sendsbillsauto.py script finished successfully.")
     except Exception as e:
         logging.critical(f"Script failed: {e}")

@@ -1,2 +1,4 @@
 your journal begins brother. 
-Or perhaps something else.
+The basic journal. 
+You may want to improve it so it provides more insight brother.
+But plan this carefully.

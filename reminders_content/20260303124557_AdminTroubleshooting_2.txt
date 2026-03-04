@@ -1,0 +1,9 @@
+This is the second time in which you should handle admin and troubleshooting matters.
+
+SOP for activation:
+- Set package
+- Check profession is relevant, inform if not
+- Look for relevant sale in group
+- Press activate, inputting the date and amount
+- Refresh
+- Press on the kebab menu for recently activated person generate hubby and auto messages.

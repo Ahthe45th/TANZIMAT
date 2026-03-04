@@ -2665,3 +2665,124 @@
 2026-02-16 14:11:28,899 - INFO - Notification: ✅ Message pasted
 2026-02-16 14:11:28,900 - INFO - Message pasted and sent.
 2026-02-16 14:11:28,900 - INFO - sendsbillsauto.py script finished successfully.
+2026-02-23 16:50:02,177 - INFO - Starting sendsbillsauto.py script.
+2026-02-23 16:50:02,543 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-02-23 16:50:09,709 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-02-23 16:50:09,730 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-02-23 16:50:09,731 - INFO - Running WhatsApp bot.
+2026-02-23 16:50:09,732 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-02-23 16:50:11,831 - INFO - Message fetched successfully.
+2026-02-23 16:50:12,182 - INFO - Notification: 📥 Message fetched
+2026-02-23 16:50:12,182 - INFO - Message fetched.
+2026-02-23 16:50:13,453 - INFO - Successfully sent POST request for Bills for 2026-02-23. Status Code: 200
+2026-02-23 16:50:13,463 - INFO - sendsbillsauto.py script finished successfully.
+2026-02-24 06:04:24,278 - INFO - Starting sendsbillsauto.py script.
+2026-02-24 06:04:24,298 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-02-24 06:04:29,000 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-02-24 06:04:29,023 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-02-24 06:04:29,023 - INFO - Running WhatsApp bot.
+2026-02-24 06:04:29,023 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-02-24 06:04:30,989 - INFO - Message fetched successfully.
+2026-02-24 06:04:31,006 - INFO - Notification: 📥 Message fetched
+2026-02-24 06:04:31,007 - INFO - Message fetched.
+2026-02-24 06:04:31,670 - INFO - Successfully sent POST request for Bills for 2026-02-24. Status Code: 200
+2026-02-24 06:04:31,671 - INFO - sendsbillsauto.py script finished successfully.
+2026-02-25 06:06:57,265 - INFO - Starting sendsbillsauto.py script.
+2026-02-25 06:06:57,282 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-02-25 06:07:02,560 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-02-25 06:07:02,578 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-02-25 06:07:02,579 - INFO - Running WhatsApp bot.
+2026-02-25 06:07:02,579 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-02-25 06:07:05,270 - INFO - Message fetched successfully.
+2026-02-25 06:07:05,301 - INFO - Notification: 📥 Message fetched
+2026-02-25 06:07:05,302 - INFO - Message fetched.
+2026-02-25 06:07:06,301 - INFO - Successfully sent POST request for Bills for 2026-02-25. Status Code: 200
+2026-02-25 06:07:06,302 - INFO - sendsbillsauto.py script finished successfully.
+2026-02-26 06:01:19,899 - INFO - Starting sendsbillsauto.py script.
+2026-02-26 06:01:19,922 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-02-26 06:01:26,126 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-02-26 06:01:26,152 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-02-26 06:01:26,152 - INFO - Running WhatsApp bot.
+2026-02-26 06:01:26,152 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-02-26 06:01:28,267 - INFO - Message fetched successfully.
+2026-02-26 06:01:28,292 - INFO - Notification: 📥 Message fetched
+2026-02-26 06:01:28,293 - INFO - Message fetched.
+2026-02-26 06:01:29,069 - INFO - Successfully sent POST request for Bills for 2026-02-26. Status Code: 200
+2026-02-26 06:01:29,070 - INFO - sendsbillsauto.py script finished successfully.
+2026-02-27 11:25:41,695 - INFO - Starting sendsbillsauto.py script.
+2026-02-27 11:25:41,713 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-02-27 11:25:48,057 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-02-27 11:25:48,078 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-02-27 11:25:48,079 - INFO - Running WhatsApp bot.
+2026-02-27 11:25:48,079 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-02-27 11:25:51,285 - INFO - Message fetched successfully.
+2026-02-27 11:25:51,991 - INFO - Notification: 📥 Message fetched
+2026-02-27 11:25:51,991 - INFO - Message fetched.
+2026-02-27 11:25:52,651 - INFO - Successfully sent POST request for Bills for 2026-02-27. Status Code: 200
+2026-02-27 11:25:52,652 - INFO - sendsbillsauto.py script finished successfully.
+2026-02-28 06:08:41,833 - INFO - Starting sendsbillsauto.py script.
+2026-02-28 06:08:41,852 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-02-28 06:08:45,992 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-02-28 06:08:46,009 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-02-28 06:08:46,011 - INFO - Running WhatsApp bot.
+2026-02-28 06:08:46,011 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-02-28 06:08:47,724 - INFO - Message fetched successfully.
+2026-02-28 06:08:47,741 - INFO - Notification: 📥 Message fetched
+2026-02-28 06:08:47,742 - INFO - Message fetched.
+2026-02-28 06:08:48,340 - INFO - Successfully sent POST request for Bills for 2026-02-28. Status Code: 200
+2026-02-28 06:08:48,341 - INFO - sendsbillsauto.py script finished successfully.
+2026-03-01 06:01:14,175 - INFO - Starting sendsbillsauto.py script.
+2026-03-01 06:01:14,193 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-03-01 06:01:18,474 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-03-01 06:01:18,493 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-03-01 06:01:18,493 - INFO - Running WhatsApp bot.
+2026-03-01 06:01:18,493 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-03-01 06:01:20,396 - INFO - Message fetched successfully.
+2026-03-01 06:01:20,424 - INFO - Notification: 📥 Message fetched
+2026-03-01 06:01:20,424 - INFO - Message fetched.
+2026-03-01 06:01:21,083 - INFO - Successfully sent POST request for Bills for 2026-03-01. Status Code: 200
+2026-03-01 06:01:21,084 - INFO - sendsbillsauto.py script finished successfully.
+2026-03-02 12:54:23,746 - INFO - Starting sendsbillsauto.py script.
+2026-03-02 12:54:23,764 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-03-02 12:54:27,370 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-03-02 12:54:27,386 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-03-02 12:54:27,386 - INFO - Running WhatsApp bot.
+2026-03-02 12:54:27,386 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-03-02 12:54:29,023 - INFO - Message fetched successfully.
+2026-03-02 12:54:29,042 - INFO - Notification: 📥 Message fetched
+2026-03-02 12:54:29,044 - INFO - Message fetched.
+2026-03-02 12:54:29,758 - INFO - Successfully sent POST request for Bills for 2026-03-02. Status Code: 200
+2026-03-02 12:54:29,759 - INFO - sendsbillsauto.py script finished successfully.
+2026-03-02 14:54:37,527 - INFO - Starting sendsbillsauto.py script.
+2026-03-02 14:54:37,623 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-03-02 14:54:42,439 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-03-02 14:54:42,457 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-03-02 14:54:42,457 - INFO - Running WhatsApp bot.
+2026-03-02 14:54:42,457 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-03-02 14:54:44,447 - INFO - Message fetched successfully.
+2026-03-02 14:54:44,464 - INFO - Notification: 📥 Message fetched
+2026-03-02 14:54:44,465 - INFO - Message fetched.
+2026-03-02 14:54:45,184 - INFO - Successfully sent POST request for Bills for 2026-03-02. Status Code: 200
+2026-03-02 14:54:45,184 - INFO - sendsbillsauto.py script finished successfully.
+2026-03-03 06:03:32,081 - INFO - Starting sendsbillsauto.py script.
+2026-03-03 06:03:32,096 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-03-03 06:03:37,443 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-03-03 06:03:37,457 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-03-03 06:03:37,457 - INFO - Running WhatsApp bot.
+2026-03-03 06:03:37,457 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-03-03 06:03:41,829 - INFO - Message fetched successfully.
+2026-03-03 06:03:41,846 - INFO - Notification: 📥 Message fetched
+2026-03-03 06:03:41,846 - INFO - Message fetched.
+2026-03-03 06:03:44,537 - INFO - Successfully sent POST request for Bills for 2026-03-03. Status Code: 200
+2026-03-03 06:03:44,540 - INFO - sendsbillsauto.py script finished successfully.
+2026-03-04 06:06:57,954 - INFO - Starting sendsbillsauto.py script.
+2026-03-04 06:06:57,973 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-03-04 06:07:03,611 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-03-04 06:07:03,631 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-03-04 06:07:03,632 - INFO - Running WhatsApp bot.
+2026-03-04 06:07:03,632 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-03-04 06:07:05,446 - INFO - Message fetched successfully.
+2026-03-04 06:07:05,475 - INFO - Notification: 📥 Message fetched
+2026-03-04 06:07:05,475 - INFO - Message fetched.
+2026-03-04 06:07:06,282 - INFO - Successfully sent POST request for Bills for 2026-03-04. Status Code: 200
+2026-03-04 06:07:06,283 - INFO - sendsbillsauto.py script finished successfully.

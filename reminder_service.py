@@ -38,6 +38,7 @@ def check_reminders():
         start_date = reminder.get('start_date')
         pre_command = reminder.get('pre_command')
         post_command = reminder.get('post_command')
+        no_notif = reminder.get('skip_notification', False)
 
         # Check if the reminder should be triggered based on the day of the week
         if allowed_days and current_day_of_week not in allowed_days:
@@ -76,9 +77,15 @@ def check_reminders():
                     file_content = f.read()
 
                 # Call the graphical display script
-                result = subprocess.run(["/home/mehmet/miniconda3/envs/idris/bin/python", DISPLAY_SCRIPT, file_content], capture_output=True, text=True)
-
-                if result.returncode == 0: # Acknowledged
+                if no_notif:
+                    logging.info("SKip notif was enabled")
+                    returncode = 0
+                else:
+                    logging.info("Skip notif was not enabled")
+                    result = subprocess.run(["/home/mehmet/miniconda3/envs/idris/bin/python", DISPLAY_SCRIPT, file_content], capture_output=True, text=True)
+                    returncode = result.returncode
+                
+                if returncode == 0: # Acknowledged
                     logging.info(f"Reminder for {reminder['file']} acknowledged.")
                     reminder['last_triggered'] = current_date_str
                     save_reminders(reminders)
@@ -93,19 +100,19 @@ def check_reminders():
                             logging.error(f"Post-command stderr: {post_result.stderr}")
 
                     # Send HTTP POST request
-                    try:
-                        filename_end = os.path.basename(reminder['file'])
-                        subject = f"{filename_end} reminder {current_date_str}"
-                        payload = {
-                            "SUBJECT": subject,
-                            "BODY": file_content
-                        }
-                        webhook_url = "https://n8n.tuongeechat.com/webhook/ddf10b7c-7764-4d25-8459-6cef88d2041f"
-                        response = requests.post(webhook_url, json=payload)
-                        response.raise_for_status() # Raise an exception for HTTP errors
-                        logging.info(f"Successfully sent POST request for {subject}. Status Code: {response.status_code}")
-                    except requests.exceptions.RequestException as e:
-                        logging.error(f"Failed to send POST request for {subject}: {e}")
+                    #try:
+                    #    filename_end = os.path.basename(reminder['file'])
+                    #    subject = f"{filename_end} reminder {current_date_str}"
+                    #    payload = {
+                    #        "SUBJECT": subject,
+                    ##        "BODY": file_content
+                    #    }
+                    #    webhook_url = "https://n8n.tuongeechat.com/webhook/ddf10b7c-7764-4d25-8459-6cef88d2041f"
+                    #    response = requests.post(webhook_url, json=payload)
+                    #    response.raise_for_status() # Raise an exception for HTTP errors
+                    #    logging.info(f"Successfully sent POST request for {subject}. Status Code: {response.status_code}")
+                    #except requests.exceptions.RequestException as e:
+                    #    logging.error(f"Failed to send POST request for {subject}: {e}")
 
                 else:
                     logging.warning(f"Reminder for {reminder['file']} not acknowledged (script exited with {result.returncode}).")

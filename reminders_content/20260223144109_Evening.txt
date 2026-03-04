@@ -1,0 +1,3 @@
+Evening reminders come soon brother.
+
+Remember for the prayer question the input is supposed to be a number i.e the number of rakat in which you followed the recitation procedure within this day.
