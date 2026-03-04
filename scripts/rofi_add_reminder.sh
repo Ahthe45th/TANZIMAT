@@ -23,6 +23,12 @@ if [ -z "$LABEL" ]; then
     exit 1
 fi
 
+# Prompt for one-off reminder status
+ONE_OFF_RESPONSE=$(printf "yes\nno" | rofi -dmenu -i -p "One-off reminder? (yes/no)")
+if [ -z "$ONE_OFF_RESPONSE" ]; then
+    exit 1
+fi
+
 # Create a unique filename for the reminder content
 # Using label and current timestamp for uniqueness
 FILENAME="${LABEL// /_}" # Replace spaces in label with underscores
@@ -34,7 +40,22 @@ FULL_FILE_PATH="$REMINDER_CONTENT_DIR/$FILENAME"
 echo "$REMINDER_MESSAGE" > "$FULL_FILE_PATH"
 
 # Call add_reminder.py with the new file path
-/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/add_reminder.py --time "$TIME" --file "$FULL_FILE_PATH" --label "$LABEL"
+ADD_REMINDER_CMD=(
+    /home/mehmet/miniconda3/envs/idris/bin/python
+    /home/mehmet/Proyectos/TANZIMAT/scripts/add_reminder.py
+    --time "$TIME"
+    --file "$FULL_FILE_PATH"
+    --label "$LABEL"
+)
 
-notify-send "Reminder Added" "Reminder with label '$LABEL' has been added. Content saved to: $FULL_FILE_PATH"
+if [ "$ONE_OFF_RESPONSE" = "yes" ]; then
+    ADD_REMINDER_CMD+=(--one-off)
+fi
 
+"${ADD_REMINDER_CMD[@]}"
+
+if [ "$ONE_OFF_RESPONSE" = "yes" ]; then
+    notify-send "Reminder Added" "One-off reminder with label '$LABEL' has been added. Content saved to: $FULL_FILE_PATH"
+else
+    notify-send "Reminder Added" "Reminder with label '$LABEL' has been added. Content saved to: $FULL_FILE_PATH"
+fi
