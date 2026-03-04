@@ -1,13 +1,14 @@
 [
-  {
-    "time": "09:00",
-    "file": "/home/mehmet/Proyectos/TANZIMAT/reminder_file.md",
-    "last_triggered": null,
-    "days": null,
-    "days_of_month": null,
-    "repeat_days": null,
-    "start_date": null,
-    "pre_command": null,
-    "post_command": null
-  }
+    {
+        "time": "09:00",
+        "file": "/home/mehmet/Proyectos/TANZIMAT/reminder_file.md",
+        "last_triggered": null,
+        "days": null,
+        "days_of_month": null,
+        "repeat_days": null,
+        "start_date": null,
+        "pre_command": null,
+        "post_command": null,
+        "one_off": false
+    }
 ]

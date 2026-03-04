@@ -12,7 +12,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": null,
-        "label": "Weekend"
+        "label": "Weekend",
+        "one_off": false
     },
     {
         "time": "06:00",
@@ -32,7 +33,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/dailyshadowwork.py",
-        "label": "Journal"
+        "label": "Journal",
+        "one_off": false
     },
     {
         "time": "06:00",
@@ -53,7 +55,8 @@
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/sendsbillsauto.py",
         "label": "Bills",
-        "skip_notification": "true"
+        "skip_notification": "true",
+        "one_off": false
     },
     {
         "time": "06:00",
@@ -73,7 +76,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/spend_recorder.py",
-        "label": "Recording daily spend"
+        "label": "Recording daily spend",
+        "one_off": false
     },
     {
         "time": "04:00",
@@ -93,7 +97,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/add_prayer_reminders.py",
-        "label": "Added the timings for salah"
+        "label": "Added the timings for salah",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -113,7 +118,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/remove_prayer_reminders.py",
-        "label": "Removed the timings for salah"
+        "label": "Removed the timings for salah",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -132,7 +138,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/post_workout_log.py",
-        "label": "Workout"
+        "label": "Workout",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -152,7 +159,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/daily_reflection.py",
-        "label": "Daily reflection"
+        "label": "Daily reflection",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -166,7 +174,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/weekly_review.py",
-        "label": "Weekly reflection"
+        "label": "Weekly reflection",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -180,7 +189,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/monthly_checkin.py",
-        "label": "Monthly reflection"
+        "label": "Monthly reflection",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -200,7 +210,8 @@
         "start_date": "2025-11-01",
         "pre_command": null,
         "post_command": "",
-        "label": "Comms reminder"
+        "label": "Comms reminder",
+        "one_off": false
     },
     {
         "time": "06:00",
@@ -212,7 +223,8 @@
         "start_date": "2025-11-01",
         "pre_command": "",
         "post_command": "notify-send \"Make sure to get it done\"",
-        "label": "Meta Ads Manager"
+        "label": "Meta Ads Manager",
+        "one_off": false
     },
     {
         "time": "20:30",
@@ -224,7 +236,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": null
+        "post_command": null,
+        "one_off": false
     },
     {
         "time": "05:00",
@@ -236,7 +249,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": null
+        "post_command": null,
+        "one_off": false
     },
     {
         "time": "19:30",
@@ -248,7 +262,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": null
+        "post_command": null,
+        "one_off": false
     },
     {
         "time": "06:00",
@@ -263,7 +278,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": null
+        "post_command": null,
+        "one_off": false
     },
     {
         "time": "05:29",
@@ -283,7 +299,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py",
+        "one_off": false
     },
     {
         "time": "12:30",
@@ -303,7 +320,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py",
+        "one_off": false
     },
     {
         "time": "15:39",
@@ -323,7 +341,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py",
+        "one_off": false
     },
     {
         "time": "18:34",
@@ -343,7 +362,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py",
+        "one_off": false
     },
     {
         "time": "19:31",
@@ -363,7 +383,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"
+        "post_command": "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py",
+        "one_off": false
     },
     {
         "time": "13:30",
@@ -375,7 +396,8 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": null
+        "post_command": null,
+        "one_off": false
     },
     {
         "time": "22:30",
@@ -387,6 +409,7 @@
         "repeat_days": null,
         "start_date": null,
         "pre_command": null,
-        "post_command": null
+        "post_command": null,
+        "one_off": false
     }
 ]
