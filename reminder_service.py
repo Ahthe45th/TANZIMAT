@@ -28,6 +28,7 @@ def check_reminders():
     current_date_str = now.strftime("%Y-%m-%d")
     current_day_of_week = now.weekday() # Monday is 0 and Sunday is 6
     reminder_triggered = False
+    reminders_to_remove = []
 
     for reminder in reminders:
         reminder_time_str = reminder['time']
@@ -39,6 +40,7 @@ def check_reminders():
         pre_command = reminder.get('pre_command')
         post_command = reminder.get('post_command')
         no_notif = reminder.get('skip_notification', False)
+        one_off = reminder.get('one_off', False)
 
         # Check if the reminder should be triggered based on the day of the week
         if allowed_days and current_day_of_week not in allowed_days:
@@ -88,7 +90,9 @@ def check_reminders():
                 if returncode == 0: # Acknowledged
                     logging.info(f"Reminder for {reminder['file']} acknowledged.")
                     reminder['last_triggered'] = current_date_str
-                    save_reminders(reminders)
+
+                    if one_off:
+                        reminders_to_remove.append(reminder)
 
                     if post_command:
                         logging.info(f"Executing post-command: {post_command}")
@@ -122,6 +126,11 @@ def check_reminders():
                 logging.error(f"Error: Reminder file not found: {reminder['file']}")
             except Exception as e:
                 logging.exception(f"An unexpected error occurred: {e}")
+
+    if reminders_to_remove:
+        reminders = [reminder for reminder in reminders if reminder not in reminders_to_remove]
+
+    save_reminders(reminders)
     
     if not reminder_triggered:
         logging.info("No reminders to launch at this time.")

@@ -43,7 +43,8 @@ def add_reminder(args):
         "repeat_days": args.repeat_days,
         "start_date": args.start_date,
         "pre_command": args.pre_command,
-        "post_command": args.post_command
+        "post_command": args.post_command,
+        "one_off": args.one_off
     }
 
     # Remove any existing reminder with the same label (new one wins)
@@ -70,6 +71,7 @@ if __name__ == "__main__":
     parser.add_argument("--start-date", help="Start date for repeating reminders (YYYY-MM-DD).")
     parser.add_argument("--pre-command", help="Command to execute before the reminder.")
     parser.add_argument("--post-command", help="Command to execute after the reminder.")
+    parser.add_argument("--one-off", action="store_true", help="Remove reminder after acknowledged display.")
 
     args = parser.parse_args()
 
