@@ -1,4 +1,4 @@
-#!/home/mehmet/miniconda3/envs/idris/bin/python
+#!/home/jazeelakarima/expatenv/bin/python3
 import os
 import re
 import json
