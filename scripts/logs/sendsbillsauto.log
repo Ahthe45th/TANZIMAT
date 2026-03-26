@@ -3017,3 +3017,16 @@
 2026-03-25 06:56:31,288 - INFO - Message fetched.
 2026-03-25 06:56:31,994 - INFO - Successfully sent POST request for Bills for 2026-03-25. Status Code: 200
 2026-03-25 06:56:31,994 - INFO - sendsbillsauto.py script finished successfully.
+2026-03-26 12:32:23,543 - INFO - Starting sendsbillsauto.py script.
+2026-03-26 12:32:23,560 - INFO - Notification: 🔄 Updating bills on Nextcloud...
+2026-03-26 12:32:27,993 - INFO - Successfully ran update_nextcloud_bills.sh.
+2026-03-26 12:32:28,018 - INFO - Notification: 🚀 Running WhatsApp bot...
+2026-03-26 12:32:28,018 - INFO - Running WhatsApp bot.
+2026-03-26 12:32:28,019 - INFO - Fetching message from https://n8n.tuongeechat.com/webhook/dc00ae57-d004-4f30-a9da-14fd6a632e3a
+2026-03-26 12:32:29,016 - INFO - Notification: ❌ Failed to fetch message
+2026-03-26 12:32:29,016 - ERROR - Failed to fetch message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-03-26 12:32:29,034 - INFO - Notification: 📥 Message fetched
+2026-03-26 12:32:29,034 - INFO - Message fetched.
+2026-03-26 12:32:29,915 - ERROR - Failed to send POST request for Bills for 2026-03-26: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-03-26 12:32:29,931 - INFO - Notification: Sending email of bills failed brother. Check the logs.
+2026-03-26 12:32:29,931 - INFO - sendsbillsauto.py script finished successfully.
