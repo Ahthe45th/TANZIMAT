@@ -44,7 +44,8 @@ def add_reminder(args):
         "start_date": args.start_date,
         "pre_command": args.pre_command,
         "post_command": args.post_command,
-        "one_off": args.one_off
+        "one_off": args.one_off,
+        "skip_notification": args.skip_notification
     }
 
     # Remove any existing reminder with the same label (new one wins)
@@ -72,6 +73,7 @@ if __name__ == "__main__":
     parser.add_argument("--pre-command", help="Command to execute before the reminder.")
     parser.add_argument("--post-command", help="Command to execute after the reminder.")
     parser.add_argument("--one-off", action="store_true", help="Remove reminder after acknowledged display.")
+    parser.add_argument("--skip-notification", action="store_true", help="Should it put in the actual textual blocking reminder.")
 
     args = parser.parse_args()
 

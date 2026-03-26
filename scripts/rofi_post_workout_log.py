@@ -5,7 +5,6 @@ import os
 import json
 import re
 import sys
-import calendar
 
 # Get the absolute path of the directory containing THIS script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -14,12 +13,24 @@ if SCRIPT_DIR not in sys.path:
 
 import gui_utils
 
-QUESTIONS_FILE = os.path.join(SCRIPT_DIR, 'monthly_checkin_questions.json')
+QUESTIONS_FILE = os.path.join(SCRIPT_DIR, 'post_workout_log_questions.json')
 REFLECTIONS_DIR = "/home/mehmet/Proyectos/TANZIMAT/NAFSIYYAH/Reflections"
 
-HEADER_TITLE = "Monthly Check-in"
-NOTIFY_TITLE = "Monthly Check-in"
-PREFIX = "monthly_checkin"
+HEADER_TITLE = "Post Workout Log"
+NOTIFY_TITLE = "Post Workout Log"
+PREFIX = "post_workout_log"
+
+def get_questions():
+    try:
+        with open(QUESTIONS_FILE, 'r') as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+def get_file_path():
+    today_date = datetime.date.today().strftime("%Y-%m-%d")
+    filename = f"{PREFIX}_{today_date}.md"
+    return os.path.join(REFLECTIONS_DIR, filename), today_date
 
 def read_existing_answers(file_path):
     if not os.path.exists(file_path):
@@ -45,39 +56,28 @@ def save_answers(file_path, date_str, answers_dict, questions_order):
         f.write("\n".join(lines))
 
 def main():
-    try:
-        with open(QUESTIONS_FILE, 'r') as f:
-            questions = json.load(f)
-    except Exception:
-        gui_utils.notify("Error", f"Failed to load questions from {QUESTIONS_FILE}")
+    questions = get_questions()
+    if not questions:
+        gui_utils.notify("Error", f"No questions found in {QUESTIONS_FILE}")
         return
 
-    today = datetime.date.today()
-    last_day = calendar.monthrange(today.year, today.month)[1]
-    last_date = datetime.date(today.year, today.month, last_day)
-    date_str = last_date.strftime("%Y-%m-%d")
-
-    file_path = os.path.join(REFLECTIONS_DIR, f"{PREFIX}_{date_str}.md")
+    file_path, date_str = get_file_path()
     existing_answers = read_existing_answers(file_path)
 
-    questions_to_ask = [q for q in questions if q not in existing_answers]
+    menu_items = [f"{'[DONE] ' if q in existing_answers else '[ ] '}{q}" for q in questions]
 
-    if not questions_to_ask:
-        gui_utils.notify(NOTIFY_TITLE, "All questions already answered.")
+    selected_raw = gui_utils.get_rofi_menu(f"Select {NOTIFY_TITLE} question:", menu_items)
+    if not selected_raw:
         return
-
-    new_answers = {}
-    for question in questions_to_ask:
-        answer = gui_utils.get_rofi_input(f"{NOTIFY_TITLE}: {question}")
-        if answer:
-            new_answers[question] = answer
-        else:
-            break
-
-    if new_answers:
-        existing_answers.update(new_answers)
+    
+    selected_question = gui_utils.strip_status(selected_raw)
+    initial_answer = existing_answers.get(selected_question, "")
+    answer = gui_utils.get_rofi_input(f"Answer for: {selected_question}", initial_value=initial_answer)
+    
+    if answer is not None:
+        existing_answers[selected_question] = answer
         save_answers(file_path, date_str, existing_answers, questions)
-        gui_utils.notify(NOTIFY_TITLE, f"Monthly Check-in updated for {date_str}")
+        gui_utils.notify(NOTIFY_TITLE, f"Answer for '{selected_question}' saved.")
 
 if __name__ == "__main__":
     main()

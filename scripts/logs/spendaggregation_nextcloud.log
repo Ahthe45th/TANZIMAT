@@ -521,3 +521,104 @@ ValueError: time data 'Balances' does not match format '%d/%m/%y'
 2026-03-04 06:08:31,822 - INFO - Inserted 22 rows into SPEND DATA
 2026-03-04 06:08:31,852 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
 2026-03-04 06:08:37,380 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-05 06:12:32,250 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-05 06:12:32,496 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-05 06:12:45,381 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260305-061245.bak
+2026-03-05 06:13:19,992 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-06 06:06:45,293 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-06 06:06:45,560 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-06 06:06:55,131 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260306-060655.bak
+2026-03-06 06:07:56,974 - INFO - Inserted 16 rows into SPEND DATA
+2026-03-06 06:07:56,997 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-06 06:08:05,374 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-07 06:02:23,179 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-07 06:02:23,582 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-07 06:02:33,602 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260307-060233.bak
+2026-03-07 06:03:18,713 - INFO - Inserted 10 rows into SPEND DATA
+2026-03-07 06:03:18,741 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-07 06:03:24,358 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-08 06:05:49,966 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-08 06:05:50,339 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-08 06:06:01,232 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260308-060601.bak
+2026-03-08 06:07:38,573 - INFO - Inserted 16 rows into SPEND DATA
+2026-03-08 06:07:38,595 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-08 06:07:47,008 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-09 06:06:02,625 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-09 06:06:02,916 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-09 06:06:14,202 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260309-060614.bak
+2026-03-09 06:06:59,228 - INFO - Inserted 4 rows into SPEND DATA
+2026-03-09 06:06:59,249 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-09 06:07:07,287 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-10 06:48:19,270 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-10 06:48:19,529 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-10 06:48:28,866 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260310-064828.bak
+2026-03-10 06:49:26,125 - INFO - Inserted 10 rows into SPEND DATA
+2026-03-10 06:49:26,156 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-10 06:49:33,392 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-11 06:23:09,756 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-11 06:23:10,027 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-11 06:23:19,380 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260311-062319.bak
+2026-03-11 06:24:24,232 - INFO - Inserted 6 rows into SPEND DATA
+2026-03-11 06:24:24,256 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-11 06:24:30,979 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-11 13:34:00,063 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-11 13:34:00,302 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-11 13:34:10,565 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260311-133410.bak
+2026-03-11 13:34:51,491 - INFO - Inserted 4 rows into SPEND DATA
+2026-03-11 13:34:51,513 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-11 13:35:00,775 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-12 06:54:04,119 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-12 06:54:04,511 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-12 06:54:13,034 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260312-065413.bak
+2026-03-12 06:55:27,686 - INFO - Inserted 30 rows into SPEND DATA
+2026-03-12 06:55:27,716 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-12 06:55:34,358 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-13 13:48:39,279 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-13 13:48:39,600 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-13 13:48:48,953 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260313-134848.bak
+2026-03-13 13:49:46,861 - INFO - Inserted 10 rows into SPEND DATA
+2026-03-13 13:49:46,880 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-13 13:49:53,773 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-14 06:04:12,431 - INFO - Starting spendaggregation_nextcloud.py script.
+2026-03-14 06:04:12,763 - INFO - Downloading /Documents/BUSINESSMANAGER.xlsx -> /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-14 06:04:24,024 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260314-060424.bak
+2026-03-14 06:05:27,814 - INFO - Inserted 12 rows into SPEND DATA
+2026-03-14 06:05:27,887 - INFO - Uploading /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx -> /Documents/BUSINESSMANAGER.xlsx
+2026-03-14 06:05:35,572 - INFO - Cleaned up local file: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx
+2026-03-15 06:02:45,972 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260315-060245.bak
+2026-03-16 06:09:02,249 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260316-060902.bak
+2026-03-17 06:01:12,079 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260317-060112.bak
+2026-03-18 15:43:53,984 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260318-154353.bak
+2026-03-18 15:47:49,403 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260318-154749.bak
+2026-03-18 15:48:43,357 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/spend_recorder.py", line 280, in main
+    added = append_rows_to_sheet(LOCAL_XLSX_PATH, TARGET_SHEET, rows)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/spend_recorder.py", line 262, in append_rows_to_sheet
+    with pd.ExcelWriter(xlsx_path, engine="openpyxl", mode="a", if_sheet_exists="replace") as w:
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 61, in __init__
+    super().__init__(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1246, in __init__
+    self._handles = get_handle(
+  File "/home/mehmet/miniconda3/envs/idris/lib/python3.10/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx'
+2026-03-18 15:49:43,191 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260318-154943.bak
+2026-03-18 15:52:44,761 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260318-155244.bak
+2026-03-18 17:16:12,972 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260318-171612.bak
+2026-03-19 12:58:53,592 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260319-125853.bak
+2026-03-20 06:01:31,645 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260320-060131.bak
+2026-03-21 06:01:47,342 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260321-060147.bak
+2026-03-22 06:01:27,573 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260322-060127.bak
+2026-03-23 06:01:10,049 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260323-060110.bak
+2026-03-23 06:02:09,038 - ERROR - Failure
+Traceback (most recent call last):
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/spend_recorder.py", line 279, in main
+    rows = processthespendingdata(data)
+  File "/home/mehmet/Proyectos/TANZIMAT/scripts/spend_recorder.py", line 167, in processthespendingdata
+    spendpart = item.split('\n')[0].replace("İ", "I").replace(";", ":").split("Item: ")[1].lower().strip()
+IndexError: list index out of range
+2026-03-23 06:06:43,963 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260323-060643.bak
+2026-03-24 06:01:05,768 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260324-060105.bak
+2026-03-25 06:56:43,425 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260325-065643.bak
+2026-03-25 06:57:36,274 - INFO - Backup created: /home/mehmet/Proyectos/TANZIMAT/scripts/BUSINESSMANAGER.xlsx.20260325-065736.bak

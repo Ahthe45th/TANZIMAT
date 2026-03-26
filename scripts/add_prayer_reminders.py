@@ -45,9 +45,11 @@ def add_prayer_reminders():
                                 "--time", prayer_time, 
                                 "--file", "/home/mehmet/Proyectos/TANZIMAT/prayer_reminder.md", 
                                 "--label", label, 
-
+                                "--skip-notification",
+                                "--one-off",
                                 "--days", "0", "1", "2", "3", "4", "5", "6",
-                                "--post-command", "/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py"], 
+                                "--pre-command", f"notify-send 'Prayer reminder for {prayer} is coming up'",
+                                "--post-command", f"/home/mehmet/miniconda3/envs/idris/bin/python /home/mehmet/Proyectos/TANZIMAT/scripts/recite_surah.py {prayer_time}"], 
                                check=True)
             except subprocess.CalledProcessError as e:
                 print(f"Error adding reminder for {prayer}: {e}")

@@ -20,6 +20,18 @@ HEADER_TITLE = "Daily Reflection"
 NOTIFY_TITLE = "Daily Reflection"
 PREFIX = "daily_reflection"
 
+def get_questions():
+    try:
+        with open(QUESTIONS_FILE, 'r') as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+def get_today_file_path():
+    today_date = datetime.date.today().strftime("%Y-%m-%d")
+    filename = f"{PREFIX}_{today_date}.md"
+    return os.path.join(REFLECTIONS_DIR, filename), today_date
+
 def read_existing_answers(file_path):
     if not os.path.exists(file_path):
         return {}
@@ -29,9 +41,9 @@ def read_existing_answers(file_path):
     matches = re.findall(pattern, content, re.DOTALL)
     return {q.strip(): a.strip() for q, a in matches}
 
-def save_answers(file_path, date_str, answers_dict, questions_order):
+def save_answers(file_path, today_date, answers_dict, questions_order):
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    lines = [f"# {HEADER_TITLE} - {date_str}\n"]
+    lines = [f"# {HEADER_TITLE} - {today_date}\n"]
     for q in questions_order:
         if q in answers_dict:
             lines.append(f"### {q}")
@@ -44,35 +56,36 @@ def save_answers(file_path, date_str, answers_dict, questions_order):
         f.write("\n".join(lines))
 
 def main():
-    try:
-        with open(QUESTIONS_FILE, 'r') as f:
-            questions = json.load(f)
-    except Exception:
-        gui_utils.notify("Error", f"Failed to load questions from {QUESTIONS_FILE}")
+    questions = get_questions()
+    if not questions:
+        gui_utils.notify("Error", "No questions found in JSON.")
         return
 
-    today_date = datetime.date.today().strftime("%Y-%m-%d")
-    file_path = os.path.join(REFLECTIONS_DIR, f"{PREFIX}_{today_date}.md")
+    file_path, today_date = get_today_file_path()
     existing_answers = read_existing_answers(file_path)
 
-    questions_to_ask = [q for q in questions if q not in existing_answers]
+    # Prepare rofi menu items
+    menu_items = []
+    for q in questions:
+        status = "[DONE] " if q in existing_answers else "[ ] "
+        menu_items.append(f"{status}{q}")
 
-    if not questions_to_ask:
-        gui_utils.notify(NOTIFY_TITLE, "All questions already answered.")
+    # Show rofi menu to select a question
+    selected_raw = gui_utils.get_rofi_menu(f"Select {NOTIFY_TITLE} question:", menu_items)
+    if not selected_raw:
         return
+    
+    selected_question = gui_utils.strip_status(selected_raw)
 
-    new_answers = {}
-    for question in questions_to_ask:
-        answer = gui_utils.get_rofi_input(f"{NOTIFY_TITLE}: {question}")
-        if answer:
-            new_answers[question] = answer
-        else:
-            break
-
-    if new_answers:
-        existing_answers.update(new_answers)
+    # Show rofi prompt for answer
+    initial_answer = existing_answers.get(selected_question, "")
+    answer = gui_utils.get_rofi_input(f"Answer for: {selected_question}", initial_value=initial_answer)
+    
+    if answer is not None:
+        # Update answers and save
+        existing_answers[selected_question] = answer
         save_answers(file_path, today_date, existing_answers, questions)
-        gui_utils.notify(NOTIFY_TITLE, f"Daily Reflection updated for {today_date}")
+        gui_utils.notify(NOTIFY_TITLE, f"Answer for '{selected_question}' saved.")
 
 if __name__ == "__main__":
     main()

@@ -37,9 +37,11 @@ SCRIPT_MAP["Log Maintenance Task"]="overview_to_log_maintenance.sh"
 SCRIPT_MAP["Add to Project"]="add_to_project.sh"
 SCRIPT_MAP["Add Reminder"]="rofi_add_reminder.sh"
 SCRIPT_MAP["OBS record"]="start_recording.sh"
+SCRIPT_MAP["Reflection Question"]="rofi_reflection.py"
 
 # Define icons for each script
 declare -A ICON_MAP
+ICON_MAP["Reflection Question"]="document-edit"
 ICON_MAP["Ad Balances"]="cash"
 ICON_MAP["OBS record"]="cash"
 ICON_MAP["Business Manager Write"]="briefcase"

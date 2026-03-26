@@ -29,6 +29,12 @@ if [ -z "$ONE_OFF_RESPONSE" ]; then
     exit 1
 fi
 
+# Prompt for one-off reminder status
+SKIP_NOTIFICATION=$(printf "true\nfalse" | rofi -dmenu -i -p "Skip notification? (true/false)")
+if [ -z "$SKIP_NOTIFICATION" ]; then
+    exit 1
+fi
+
 # Create a unique filename for the reminder content
 # Using label and current timestamp for uniqueness
 FILENAME="${LABEL// /_}" # Replace spaces in label with underscores
@@ -50,6 +56,10 @@ ADD_REMINDER_CMD=(
 
 if [ "$ONE_OFF_RESPONSE" = "yes" ]; then
     ADD_REMINDER_CMD+=(--one-off)
+fi
+
+if [ "$SKIP_NOTIFICATION" = "true" ]; then
+    ADD_REMINDER_CMD+=(--skip-notification)
 fi
 
 "${ADD_REMINDER_CMD[@]}"
