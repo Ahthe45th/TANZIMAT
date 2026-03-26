@@ -21,8 +21,8 @@ client = OpenAI(
     api_key=API_KEY,
 )
 
-INPUT_DIR = Path("~/Reflections")
-OUTPUT_DIR = Path("~/Reflectionsjson")
+INPUT_DIR = Path("/home/jazeelakarima/Reflections")
+OUTPUT_DIR = Path("/home/jazeelakarima/Reflectionsjson")
 
 PROMPT = """
 You are a data normalization engine.
